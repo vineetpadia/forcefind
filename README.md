@@ -1,6 +1,6 @@
 # ForceFind
 
-ForceFind is a source-grounded database of force sensors, load cells, force-sensing resistors, and multi-axis force/torque transducers. The repository stores product records, manufacturer catalog records, original PDF datasheets, document provenance, and an OCR work queue. It intentionally contains no selector UI.
+ForceFind is a source-grounded database and engineer-facing comparison tool for force sensors, load cells, force-sensing resistors, and multi-axis force/torque transducers. The repository stores product records, manufacturer catalog records, original PDF datasheets, document provenance, complete Mistral OCR transcripts, and field-level specification evidence.
 
 ## Measured coverage
 
@@ -18,6 +18,19 @@ Manufacturer catalog harvesting covers 226 global load-cell developers and force
 
 Counts are generated from the current JSON artifacts rather than estimated. Catalog entries without a resolved PDF remain explicit; the database does not invent electrical or mechanical specifications.
 
+## Engineer selector
+
+Open the deployed selector at [vineetpadia.github.io/forcefind](https://vineetpadia.github.io/forcefind/) or run it locally:
+
+```bash
+python scripts/serve_selector.py 8080
+```
+
+The Glueguy-style interface exposes 2,435 real product records from 46 represented manufacturers. It supports normalized sensor-class and technology facets, unit-aware capacity/error/temperature filters, sortable engineering columns, up-to-four-product comparison, responsive mobile cards, CSV export, and a detail drawer containing field-level page/quote evidence plus the complete OCR transcript.
+
+`data/ocr-specifications.json` contains the semantic reading of all 991 OCR Markdown files. The 1,008 document/chunk readings completed without failed or incomplete jobs, yielding 1,628 document-target products and mapping evidence-backed engineering fields onto 1,525 selector products. Unknown values remain null.
+
+
 ## Repository layout
 
 ```text
@@ -26,6 +39,8 @@ data/
   families.json                        Family-level selector index
   documents.json                       SHA-256 document inventory and provenance
   ocr-queue.json                       Deduplicated Mistral OCR queue
+  ocr-specifications.json               Model-read engineering specs with page/quote evidence
+  selector-data.json                    Compiled engineer-facing product bundle
   digikey-category-531.json            Full DigiKey category harvest
   digikey-datasheet-manifest.json      DigiKey download and deduplication manifest
   flintec-products.json                Flintec catalog harvest
@@ -37,8 +52,10 @@ data/
   ati-manifest.json                    ATI catalog harvest
   transducer-techniques-products.json  Transducer Techniques catalog harvest
   vpg-products.json                    VPG Force Sensors datasheet harvest
+index.html                              Static responsive selector and comparison UI
+scripts/build_selector_data.py          Catalog/spec merger and facet normalizer
 datasheets/                            PDFs grouped by source or manufacturer
-ocr_results/                           Existing extracted text and future Mistral Markdown
+ocr_results/                           Complete page-delimited Mistral OCR Markdown
 scripts/ingest_datasheet.py            Mistral-only single-datasheet ingestion CLI
 scripts/run_mistral_ocr_queue.py        Resumable parallel Mistral OCR batch runner
 ```
@@ -46,6 +63,8 @@ scripts/run_mistral_ocr_queue.py        Resumable parallel Mistral OCR batch run
 ## Mistral OCR status
 
 `data/ocr-queue.json` tracks all 910 unique PDF documents using `mistral-ocr-latest`. 100% of the queued documents (910/910) have completed Mistral OCR extraction, with page-delimited Markdown stored under `ocr_results/`.
+
+All 991 OCR Markdown files, including 81 legacy/unlinked transcripts beyond the current 910-document queue, were semantically read into `data/ocr-specifications.json`. Each populated engineering field carries a supporting source quote and, for page-delimited OCR, its page number.
 
 To process any newly added PDF datasheets, ensure `MISTRAL_API_KEY` is configured in `~/.codex/config.toml` or the environment, then run:
 
