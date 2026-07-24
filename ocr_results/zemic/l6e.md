@@ -1,0 +1,164 @@
+# l6e
+
+- PDF: `datasheets/zemic/l6e.pdf`
+- SHA-256: `9c166aa7894505b77b9284075766c84fca0f731c97a57a169361d69305c7d0dd`
+- OCR model: `mistral-ocr-latest`
+
+## Page 1
+
+Certificate Number: 11-062
+
+Page 1 of 3
+
+# NATIONAL TYPE EVALUATION PROGRAM
+
+# Certificate of Conformance
+for Weighing and Measuring Devices
+
+For:
+
+Load Cell
+
+Single Point Beam
+
+Model: L6E, L6E3 and L6E3-R1
+
+nmax: 5 000, Class III, Single/Multiple Cell
+
+Capacity: 50 kg to 500 kg
+
+Accuracy Class: III
+
+Submitted By:
+
+Zemic (USA), Inc.
+
+9252 Hall Road
+
+Downey, CA 90241
+
+Tel: 626-938-0200 x 226
+
+Fax: 626-938-0202
+
+Contact: Jaime San Pedro
+
+Email: jaimes@cecvp.com
+
+Web site: www.cecvp.com.
+
+# Standard Features and Options
+
+The specific load cell capacities, vmin, nmax and minimum dead load values covered by this Certificate are listed in page two. Load cells tested are indicated by an *.
+
+Models L6E/L6E3 (350Ω Bridge Nom), wiring color code: Red(+Ex), Black(-Ex), Green(+Signal), White(-Signal)
+
+Model L6E3-R1 (1000Ω Bridge Nom), wiring code: Red(+Ex), Black(-Ex), Green(+Signal), White(-Signal)
+
+- Nominal Output: 2.0 mV/V
+- Aluminum Material
+4 Wire Design
+
+Temperature Range: -10 °C to 40 °C (14 °F to 104 °F)
+
+This device was evaluated under the National Type Evaluation Program and was found to comply with the applicable technical requirements of "NIST Handbook 44: Specifications, Tolerances and Other Technical Requirements for Weighing and Measuring Devices." Evaluation results and device characteristics necessary for inspection and use in commerce are on the following pages.
+
+
+
+Tim Tyson
+
+Chairman, NCWM, Inc.
+
+
+
+Randy Jennings
+
+Chairman, National Type Evaluation Program Committee
+
+Issued: July 13, 2011
+
+1135 M Street, Suite 110 / Lincoln, Nebraska 68508
+
+The National Conference on Weights and Measures (NCWM) does not approve, recommend or endorse any proprietary product or material, either as a single item or as a class or group. Results shall not be used in advertising or sales promotion to indicate explicit or implicit endorsement of the product or material by the NCWM.
+
+## Page 2
+
+Certificate Number: 11-062
+
+Page 2 of 3
+
+# Zemic (USA), Inc.
+
+Load Cell / L6E, L6E3 and L6E3-R1
+
+|  Model | Capacity | V_{min} Class III Single Cell and Multiple Cell | n_{max} Class III Single Cell and Multiple Cell | Minimum Dead Load  |
+| --- | --- | --- | --- | --- |
+|  L6E | 50 kg* | 0.0025 kg | 5 000 | 0.004 kg  |
+|  L6E | 60 kg | 0.0030 kg | 5 000 | 0.004 kg  |
+|  L6E | 75 kg | 0.0038 kg | 5 000 | 0.005 kg  |
+|  L6E | 80 kg | 0.0040 kg | 5 000 | 0.006 kg  |
+|  L6E | 100 kg | 0.0050 kg | 5 000 | 0.007 kg  |
+|  L6E | 150 kg* | 0.0075 kg | 5 000 | 0.014 kg  |
+|  L6E | 200 kg | 0.0100 kg | 5 000 | 0.018 kg  |
+|  L6E | 250 kg | 0.0125 kg | 5 000 | 0.023 kg  |
+|  L6E | 300 kg | 0.0150 kg | 5 000 | 0.027 kg  |
+|  L6E | 400 kg | 0.0200 kg | 5 000 | 0.036 kg  |
+|  L6E | 500 kg | 0.0250 kg | 5 000 | 0.045 kg  |
+|  L6E3 | 50 kg | 0.0025 kg | 5 000 | 0.003 kg  |
+|  L6E3 | 60 kg | 0.0030 kg | 5 000 | 0.004 kg  |
+|  L6E3 | 75 kg | 0.0038 kg | 5 000 | 0.005 kg  |
+|  L6E3 | 80 kg | 0.0040 kg | 5 000 | 0.005 kg  |
+|  L6E3 | 100 kg | 0.0050 kg | 5 000 | 0.007 kg  |
+|  L6E3 | 150 kg | 0.0075 kg | 5 000 | 0.010 kg  |
+|  L6E3 | 200 kg | 0.0100 kg | 5 000 | 0.013 kg  |
+|  L6E3 | 250 kg | 0.0125 kg | 5 000 | 0.017 kg  |
+|  L6E3 | 300 kg* | 0.0150 kg | 5 000 | 0.020 kg  |
+|  L6E3 | 400 kg | 0.0200 kg | 5 000 | 0.027 kg  |
+|  L6E3 | 500 kg | 0.0250 kg | 5 000 | 0.033 kg  |
+|  L6E3-R1 | 50 kg* | 0.0025 kg | 5 000 | 0.004 kg  |
+|  L6E3-R1 | 60 kg | 0.0030 kg | 5 000 | 0.004 kg  |
+|  L6E3-R1 | 75 kg | 0.0038 kg | 5 000 | 0.005 kg  |
+|  L6E3-R1 | 80 kg | 0.0040 kg | 5 000 | 0.006 kg  |
+|  L6E3-R1 | 100 kg | 0.0050 kg | 5 000 | 0.007 kg  |
+|  L6E3-R1 | 150 kg | 0.0075 kg | 5 000 | 0.014 kg  |
+|  L6E3-R1 | 200 kg | 0.0100 kg | 5 000 | 0.018 kg  |
+|  L6E3-R1 | 250 kg | 0.0125 kg | 5 000 | 0.023 kg  |
+|  L6E3-R1 | 300 kg | 0.0150 kg | 5 000 | 0.027 kg  |
+|  L6E3-R1 | 400 kg | 0.0200 kg | 5 000 | 0.036 kg  |
+|  L6E3-R1 | 500 kg | 0.0250 kg | 5 000 | 0.045 kg  |
+
+*load cells tested
+
+Application: The load cells may be used in Class III scales for single and multiple cell applications consistent with the model designations, number of scale divisions, and parameters specified in this certificate. Load cells of a given accuracy class may be used in applications with lower accuracy class requirements provided the number of scale divisions, the v$_{min}$ value, and temperature range are suitable for the application. The manufacturer may market the load cell with fewer divisions (n$_{max}$) and with greater v$_{min}$ values than those listed on the certificate. However, the load cells must be marked with the appropriate n$_{max}$ and v$_{min}$ for which the load cell may be used.
+
+Identification: A pressure sensitive identification label located on the cell, states manufacturer name, model number, serial number, rated capacity, v$_{min}$, class, and CC number. Other pertinent information will be specified on the Calibration Certificate accompanying the cell.
+
+## Page 3
+
+Certificate Number: 11-062
+
+Page 3 of 3
+
+# Zemic (USA), Inc.
+
+Load Cell / L6E, L6E3 and L6E3-R1
+
+Test Conditions: Four cells, Model L6E 50 and 150 kg), L6E3 (300 kg) and L6E3-R1 (50 kg) load cells were tested by the NMi Certain B.V. at The Netherlands facility. Testing was conducted in accordance with the OIML DoMC Mutual Acceptance Arrangement, signed by the NCWM as a utilizing participant for load cell testing. Testing was conducted using deadweights as the reference standard. The load cells were tested over a temperature range of -10 °C to 40 °C with tests run on each cell at each temperature. The temperature effect on zero was measured and a time dependence (creep) test was performed. The barometric pressure test was performed on three cells. The data were analyzed for single and multiple load cell applications. OIML R60 selection criteria were used to determine cells tested.
+
+Evaluated By: A.C Pauwels, R. Scholten (NMi)
+
+Type Evaluation Criteria Used: NIST, Handbook 44: Specifications, Tolerances and Other Technical Requirements for Weighing and Measuring Devices, 2011. NCWM, Publication 14: Weighing Devices, 2011.
+
+Conclusion: The results of the evaluation and information provided by the manufacturer indicate the device complies with applicable requirements.
+
+Information Reviewed By: J. Truex (NCWM)
+
+Examples of Device:
+
+
+
+Model L6E
+
+
+
+Models L6E3 and L6E3-R1

@@ -1,0 +1,1961 @@
+{
+  "source": "https://www.futek.com/store/load-cells",
+  "harvestedAt": "2026-07-24T17:03:57.753410+00:00",
+  "productCount": 217,
+  "uniqueModelCount": 202,
+  "products": [
+    {
+      "url": "https://www.futek.com/store/load-cells/biaxial/biaxial-load-cell-mba400",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "BIAXIAL-LOAD-CELL-MBA400",
+      "title": "Biaxial Load Cell",
+      "description": "The Multi-Component Bi Axial Load Arm offers an excellent solution for measuring Fx and Fy Loads.",
+      "modelCode": "MBA400"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/biaxial/torque-and-thrust-biaxial-sensor-mba500",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "TORQUE-AND-THRUST-BIAXIAL-SENSOR-MBA500",
+      "title": "Torque and Thrust Biaxial Sensor",
+      "description": "The MBA500 Torque and Thrust Bi-Axial Load Cell is designed to measure reaction torque moments as well as tension and compression loads.",
+      "modelCode": "MBA500"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/cantilever-load-cells/cantilever-bending-beam-lbb200",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CANTILEVER-BENDING-BEAM-LBB200",
+      "title": "Cantilever Bending Beam Load Cell",
+      "description": "The LBB200 Bending Beam Load Cell offers a slim design making it ideal for OEM applications. Cantilever Beam Load Cell. LBB200 low cost force sensor is a low cost load cell that can be modified or customized to meet your requirements.",
+      "modelCode": "LBB200"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/force-sensor/flat-plate-FFP350",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "FLAT-PLATE-FFP350",
+      "title": "Flat Plate Force Sensor",
+      "description": "Introducing FUTEK's FFP350 Flat Plate Load Cell - the ideal solution for measuring force, surface pressure, and displacement. This thin load cell is designed for applications requiring an ultra-thin and flat design, with a thin beam that allows it to be used in tight spaces. With its slim and miniature design, the FFP350 is perfect for applications where vertical space is limited.",
+      "modelCode": "FFP350"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/force-sensor/flat-plate-ffp350",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "FLAT-PLATE-FFP350",
+      "title": "Flat Plate Force Sensor",
+      "description": "Introducing FUTEK's FFP350 Flat Plate Load Cell - the ideal solution for measuring force, surface pressure, and displacement. This thin load cell is designed for applications requiring an ultra-thin and flat design, with a thin beam that allows it to be used in tight spaces. With its slim and miniature design, the FFP350 is perfect for applications where vertical space is limited.",
+      "modelCode": "FFP350"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/gear-stick/stick-shift-load-cell-mau300",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "STICK-SHIFT-LOAD-CELL-MAU300",
+      "title": "Stick Shift/Gear Shift Knob Load Cell",
+      "description": "The MAU300 Stick Shift Sensor is yet another unique product offered for the Automotive Industry. Designed to test the Fx and Fy loads taken place during shifting, the MAU300 Stick Shift Load Cell is made from 2024-T4 Anodized Aluminum, weighs only 0.3 lbs, and offers a compact design.",
+      "modelCode": "MAU300"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-button/high-capacity-load-button-threaded-tapped-holes-LLB450",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "HIGH-CAPACITY-LOAD-BUTTON-THREADED-TAPPED-HOLES-LLB450",
+      "title": "High Capacity Load Button with Threaded/Tapped Holes",
+      "description": "Model LLB450 is a Load Button Load Cell with Threaded Mounting Holes built for Press, or Inline compression applications.",
+      "modelCode": "LLB450"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-button/high-capacity-load-button-threaded-tapped-holes-llb450",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "HIGH-CAPACITY-LOAD-BUTTON-THREADED-TAPPED-HOLES-LLB450",
+      "title": "High Capacity Load Button with Threaded/Tapped Holes",
+      "description": "Model LLB450 is a Load Button Load Cell with Threaded Mounting Holes built for Press, or Inline compression applications.",
+      "modelCode": "LLB450"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-button/high-capacity-load-button-threaded-tapped-holes-llb500",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "HIGH-CAPACITY-LOAD-BUTTON-THREADED-TAPPED-HOLES-LLB500",
+      "title": "High Capacity Load Button with Threaded/Tapped Holes",
+      "description": "Model LLB500 is a Load Button Load Cell with Threaded Mounting Holes built for Press, or Inline compression applications.",
+      "modelCode": "LLB500"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-button/high-capacity-load-button-threaded-tapped-holes-llb550",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "HIGH-CAPACITY-LOAD-BUTTON-THREADED-TAPPED-HOLES-LLB550",
+      "title": "High Capacity Load Button with Threaded/Tapped Holes",
+      "description": "Model LLB550 is a Load Button Load Cell with Threaded Stud built for Press, or Inline compression applications.",
+      "modelCode": "LLB550"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-button/load-button-threaded-tapped-holes-llb400",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "LOAD-BUTTON-THREADED-TAPPED-HOLES-LLB400",
+      "title": "Load Button with Threaded/Tapped Holes",
+      "description": "Model LLB400 is a Load Button Load Cell with Threaded Mounting Holes built for Press, or Inline compression applications.",
+      "modelCode": "LLB400"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-button/low-profile-load-button-through-holes-llb390",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "LOW-PROFILE-LOAD-BUTTON-THROUGH-HOLES-LLB390",
+      "title": "Low Profile Load Button with Through Holes",
+      "description": "Model LLB390 is a Low Profile Load Button with Mounting Bracket is built for Press, or Inline compression applications.",
+      "modelCode": "LLB390"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-button/miniature-load-button-llb250",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "MINIATURE-LOAD-BUTTON-LLB250",
+      "title": "Miniature Load Button",
+      "description": "Model LLB250 is a Miniature Load Button built for Press, or Inline compression applications.",
+      "modelCode": "LLB250"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-button/miniature-load-button-llb300",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "MINIATURE-LOAD-BUTTON-LLB300",
+      "title": "Miniature Load Button",
+      "description": "Model LLB300 is a Miniature Load Button built for Press, or Inline compression applications.",
+      "modelCode": "LLB300"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-button/miniature-load-button-threaded-tapped-holes-llb350",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "MINIATURE-LOAD-BUTTON-THREADED-TAPPED-HOLES-LLB350",
+      "title": "Miniature Load Button with Threaded/Tapped Holes",
+      "description": "Model LLB350 is a Miniature Load Button with Threaded Mounting Holes built for Press, or Inline compression applications.",
+      "modelCode": "LLB350"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-button/miniature-threaded-load-button-LLB210",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "MINIATURE-THREADED-LOAD-BUTTON-LLB210",
+      "title": "Miniature Threaded Load Button",
+      "description": "Model LLB210 is a Miniature Threaded Load Button built for Press, or Inline compression applications.",
+      "modelCode": "LLB210"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-button/miniature-threaded-load-button-llb210",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "MINIATURE-THREADED-LOAD-BUTTON-LLB210",
+      "title": "Miniature Threaded Load Button",
+      "description": "Model LLB210 is a Miniature Threaded Load Button built for Press, or Inline compression applications.",
+      "modelCode": "LLB210"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-button/miniature-threaded-load-button-llb215",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "MINIATURE-THREADED-LOAD-BUTTON-LLB215",
+      "title": "Miniature Threaded Load Button",
+      "description": "Model LLB215 is a Miniature Load Button (Bottom Cable Exit) designed for Press, or Inline compression applications.",
+      "modelCode": "LLB215"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-button/subminiature-load-button-LLB130",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "SUBMINIATURE-LOAD-BUTTON-LLB130",
+      "title": "Subminiature Load Button",
+      "description": "LLB130 is a Subminiature Load Button (Mini Force Sensor Load Cell) designed for Press or Inline compression applications. The standard LLB130 Subminiature Load Button (aka subminiature load cell) can be customized to meet your requirements and most capacities are in stock ready for quick delivery.",
+      "modelCode": "LLB130"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-button/subminiature-load-button-llb130",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "SUBMINIATURE-LOAD-BUTTON-LLB130",
+      "title": "Subminiature Load Button",
+      "description": "LLB130 is a Subminiature Load Button (Mini Force Sensor Load Cell) designed for Press or Inline compression applications. The standard LLB130 Subminiature Load Button (aka subminiature load cell) can be customized to meet your requirements and most capacities are in stock ready for quick delivery.",
+      "modelCode": "LLB130"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/amplified-load-washer-load-cell-qla253",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "AMPLIFIED-LOAD-WASHER-LOAD-CELL-QLA253",
+      "title": "High Capacity Load Washer Load Cell",
+      "description": "QLA253 is a toroid load cell, also known as a donut or ring load cell, and is a type of force transducer used for measuring compression or tension forces. QLA253 Amplified Load Washer Load Cell, 100,000 lb, Amplified Load Washer Load Cell, 0.5-9.5 VDC Analog Output.",
+      "modelCode": "QLA253"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/beef-cake-sensor-qla420",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "BEEF-CAKE-SENSOR-QLA420",
+      "title": "Beef Cake Sensor",
+      "description": "",
+      "modelCode": "QLA420"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/collet-force-measuring-sensor-qla340",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "COLLET-FORCE-MEASURING-SENSOR-QLA340",
+      "title": "Collet Force Measuring Sensor",
+      "description": "",
+      "modelCode": "QLA340"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/compression-gram-load-cell-qla167",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "COMPRESSION-GRAM-LOAD-CELL-QLA167",
+      "title": "Compression Gram Load Cell (No Amplifier Included)",
+      "description": "The QLA167 is a custom milligram load cell designed for applications whose measurement range is from 0 to 10 grams. This low-capacity load cell is optimized for ultra-low capacity compression applications and features resolution in the 10 grams range.",
+      "modelCode": "QLA167"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-autoclavable-load-button-loadcell-qla402",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-AUTOCLAVABLE-LOAD-BUTTON-LOADCELL-QLA402",
+      "title": "Custom Autoclavable Load Button Load Cell",
+      "description": "QLA402  Custom Autoclavable Load Button Loadcell",
+      "modelCode": "QLA402"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-autoclavable-thru-hole-loadcell-qla401",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-AUTOCLAVABLE-THRU-HOLE-LOADCELL-QLA401",
+      "title": "Custom Autoclavable Thru Hole Washer Load Cell",
+      "description": "QLA401 Custom Autoclavable Thru Hole Loadcell",
+      "modelCode": "QLA401"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-axial-load-ring-qla324",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-AXIAL-LOAD-RING-QLA324",
+      "title": "Custom Axial Load Ring",
+      "description": "Model QLA324 is a custom Donut Load Cell (aka Ring Load Cell) built for press or inline applications. It has a robust construction of 17-4 precipitation hardened stainless steel, with an ID of 5.512\u201d (140 mm) and a 20-ft (6.1 m) 4 conductor shielded Teflon cable with built-in strain relief.",
+      "modelCode": "QLA324"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-bending-beam-load-cell-qla328",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-BENDING-BEAM-LOAD-CELL-QLA328",
+      "title": "Custom Bending Beam Load Cell",
+      "description": "",
+      "modelCode": "QLA328"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-compression-donut-load-cell-qla371",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-COMPRESSION-DONUT-LOAD-CELL-QLA371",
+      "title": "Custom Compression Donut Load Cell",
+      "description": "QLA371 Custom Compression Donut Load Cell",
+      "modelCode": "QLA371"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-compression-load-cell-qla267",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-COMPRESSION-LOAD-CELL-QLA267",
+      "title": "Custom Compression Load Cell",
+      "description": "QLA267 Custom Compression Load Cell",
+      "modelCode": "QLA267"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-compression-pancake-load-cell-qla374",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-COMPRESSION-PANCAKE-LOAD-CELL-QLA374",
+      "title": "Custom Compression Pancake Load Cell",
+      "description": "QLA374 Custom Compression Pancake Load Cell",
+      "modelCode": "QLA374"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-diaphragm-load-cell-immune-to-moment-and-shear-loads-qla394",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-DIAPHRAGM-LOAD-CELL-IMMUNE-TO-MOMENT-AND-SHEAR-LOADS-QLA394",
+      "title": "Custom Diaphragm Load Cell Immune to Moment and Shear Loads",
+      "description": "QLA394 Custom Diaphragm Load Cell Immune to Moment and Shear Loads",
+      "modelCode": "QLA394"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-donut-load-cell-qla292",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-DONUT-LOAD-CELL-QLA292",
+      "title": "Custom Donut Load Cell",
+      "description": "QLA292 Custom Donut Load Cell",
+      "modelCode": "QLA292"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-donut-load-cell-qla293",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-DONUT-LOAD-CELL-QLA293",
+      "title": "Custom Donut Load Cell",
+      "description": "",
+      "modelCode": "QLA293"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-donut-load-cell-qla305",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-DONUT-LOAD-CELL-QLA305",
+      "title": "Custom Donut Load Cell",
+      "description": "",
+      "modelCode": "QLA305"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-donut-load-cell-qla341",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-DONUT-LOAD-CELL-QLA341",
+      "title": "Custom Donut Load Cell",
+      "description": "QLA341 Custom Donut Load Cell",
+      "modelCode": "QLA341"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-donut-load-cell-qla352",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-DONUT-LOAD-CELL-QLA352",
+      "title": "Custom Donut Load Cell",
+      "description": "",
+      "modelCode": "QLA352"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-dual-bridge-parallelogram-load-cell-qla337",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-DUAL-BRIDGE-PARALLELOGRAM-LOAD-CELL-QLA337",
+      "title": "Custom Dual Bridge Parallelogram Load Cell",
+      "description": "FUTEK's QLA337 Custom Dual Bridge Load Cell offers redundancy and safety with two independent Wheatstone bridges equipped with strain gauges. Its dual output feature ensures continuous and reliable force measurement and control. Plus, it's calibrated to the highest standards of accuracy and meets high SIL or PL levels, making it the ideal choice for applications where safety and reliability are crucial.",
+      "modelCode": "QLA337"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-flange-style-thru-hole-load-cell-qla404",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-FLANGE-STYLE-THRU-HOLE-LOAD-CELL-QLA404",
+      "title": "Custom Flange Style Thru Hole Load Cell",
+      "description": "QLA404 Custom Flange Style Thru Hole Load Cell",
+      "modelCode": "QLA404"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-flange-style-thru-hole-load-cell-qla408",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-FLANGE-STYLE-THRU-HOLE-LOAD-CELL-QLA408",
+      "title": "Custom Flange Style Thru Hole Load Cell",
+      "description": "QLA408 Custom Flange Style Thru Hole Load Cell",
+      "modelCode": "QLA408"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-flange-style-thru-hole-load-cell-qla410",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-FLANGE-STYLE-THRU-HOLE-LOAD-CELL-QLA410",
+      "title": "Custom Flange Style Thru Hole Load Cell",
+      "description": "QLA410 Custom Flange Style Thru Hole Load Cell",
+      "modelCode": "QLA410"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-landing-gear-load-cell-qla339",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-LANDING-GEAR-LOAD-CELL-QLA339",
+      "title": "Custom Landing Gear Load Cell",
+      "description": "QLA339 Custom Landing Gear Load Cell",
+      "modelCode": "QLA339"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-laod-cell-through-hole-qla370",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-LAOD-CELL-THROUGH-HOLE-QLA370",
+      "title": "Custom Laod Cell, Through hole",
+      "description": "",
+      "modelCode": "QLA370"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-load-button-threaded-mounting-holes-qla128",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-LOAD-BUTTON-THREADED-MOUNTING-HOLES-QLA128",
+      "title": "Custom Load Button w/ Threaded Mounting Holes",
+      "description": "Custom Load Button with Threaded Mounting Holes",
+      "modelCode": "QLA128"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-load-button-threaded-mounting-holes-qla129",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-LOAD-BUTTON-THREADED-MOUNTING-HOLES-QLA129",
+      "title": "Custom Load Button w/ Threaded Mounting Holes",
+      "description": "QLA129 Custom Load Button w/ Threaded Mounting Holes",
+      "modelCode": "QLA129"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-load-button-threaded-mounting-holes-qla214",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-LOAD-BUTTON-THREADED-MOUNTING-HOLES-QLA214",
+      "title": "Custom Load Button w/ Threaded Mounting Holes",
+      "description": "QLA214 Custom Load Button with Threaded Mounting Holes",
+      "modelCode": "QLA214"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-load-washer-load-cell-qla308",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-LOAD-WASHER-LOAD-CELL-QLA308",
+      "title": "Custom Load Washer Load Cell",
+      "description": "",
+      "modelCode": "QLA308"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-load-washer-load-cell-qla343",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-LOAD-WASHER-LOAD-CELL-QLA343",
+      "title": "Custom Load Washer Load Cell",
+      "description": "",
+      "modelCode": "QLA343"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-low-profile-load-washer-qla307",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-LOW-PROFILE-LOAD-WASHER-QLA307",
+      "title": "Custom Low Profile Load Washer",
+      "description": "Custom Low Profile Load Washer",
+      "modelCode": "QLA307"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-miniature-flange-style-load-cell-qla417",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-MINIATURE-FLANGE-STYLE-LOAD-CELL-QLA417",
+      "title": "Custom Miniature Shear Force Load Cell",
+      "description": "Custom Miniature Flange Style Load Cell. Shear beam load cells deliver exceptional stability in the case of lateral forces. Shear strains on the spring element do not change when the load application point moves.",
+      "modelCode": "QLA417"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-miniature-load-column-load-cell-male-thd-qla336",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-MINIATURE-LOAD-COLUMN-LOAD-CELL-MALE-THD-QLA336",
+      "title": "Custom Miniature Load Column Load Cell w/ Male Thd",
+      "description": "Custom Miniature Load Column Load Cell w/ Male Thd",
+      "modelCode": "QLA336"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-non-magnetic-compression-load-cell-qla200",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-NON-MAGNETIC-COMPRESSION-LOAD-CELL-QLA200",
+      "title": "Custom Non-Magnetic Compression Load Cell",
+      "description": "",
+      "modelCode": "QLA200"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-pancake-load-cell-built-in-amplifier-qla133",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-PANCAKE-LOAD-CELL-BUILT-IN-AMPLIFIER-QLA133",
+      "title": "Custom Pancake Load Cell w/ Built in Amplifier",
+      "description": "Model QLA133 is a Custom Pancake Load Cell designed for compression applications. The sensor has eight bolt-down holes along its outer diameter for easy mounting. It is available in lightweight 200 lb capacity Anodized Aluminum and fatigue rated 150 lb capacity 17-4 Stainless Steel version.",
+      "modelCode": "QLA133"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-parallelogram-load-cell-overload-protection-qla350",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-PARALLELOGRAM-LOAD-CELL-OVERLOAD-PROTECTION-QLA350",
+      "title": "Custom Parallelogram Load Cell w/ Overload Protection",
+      "description": "",
+      "modelCode": "QLA350"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-side-force-load-cell-qla359",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-SIDE-FORCE-LOAD-CELL-QLA359",
+      "title": "Custom Side Force Load Cell",
+      "description": "QLA359 Custom Side Force Load Cell",
+      "modelCode": "QLA359"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-square-body-center-flange-load-cell-qla396",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-SQUARE-BODY-CENTER-FLANGE-LOAD-CELL-QLA396",
+      "title": "Custom Square Body Center Flange Load Cell",
+      "description": "QLA396 Custom Square Body Center Flange Load Cell",
+      "modelCode": "QLA396"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-square-body-center-flange-load-cell-qla407",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-SQUARE-BODY-CENTER-FLANGE-LOAD-CELL-QLA407",
+      "title": "Custom Square Body Center Flange Load Cell",
+      "description": "QLA407 Custom Square Body Center Flange Load Cell",
+      "modelCode": "QLA407"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-subminiature-load-button-qla387",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-SUBMINIATURE-LOAD-BUTTON-QLA387",
+      "title": "Custom Subminiature Load Button",
+      "description": "QLA387 Custom Subminiature Load Button",
+      "modelCode": "QLA387"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-tension-and-compression-load-cell-qla355",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-TENSION-AND-COMPRESSION-LOAD-CELL-QLA355",
+      "title": "Custom Tension and Compression Load Cell",
+      "description": "",
+      "modelCode": "QLA355"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-tension-and-compression-miniature-sensor-qla405",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-TENSION-AND-COMPRESSION-MINIATURE-SENSOR-QLA405",
+      "title": "Custom Tension and Compression Miniature Sensor",
+      "description": "",
+      "modelCode": "QLA405"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-tension-compression-load-cell-fatigue-rated-qla373",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-TENSION-COMPRESSION-LOAD-CELL-FATIGUE-RATED-QLA373",
+      "title": "Custom Tension & Compression Load Cell, Fatigue Rated",
+      "description": "QLA373 Custom Tension & Compression Load Cell, Fatigue Rated",
+      "modelCode": "QLA373"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-thru-hole-donut-load-cell-compression-tension-qla255",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-THRU-HOLE-DONUT-LOAD-CELL-COMPRESSION-TENSION-QLA255",
+      "title": "Custom Thru Hole/Donut Load Cell (Compression and Tension)",
+      "description": "",
+      "modelCode": "QLA255"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-thru-hole-donut-load-cell-qla233",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-THRU-HOLE-DONUT-LOAD-CELL-QLA233",
+      "title": "Custom Thru Hole/Donut Load Cell",
+      "description": "QLA233 Custom Thru Hole/Donut Load Cell",
+      "modelCode": "QLA233"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-thru-hole-donut-load-cell-qla238",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-THRU-HOLE-DONUT-LOAD-CELL-QLA238",
+      "title": "Custom Thru/Hole Donut Load Cell",
+      "description": "QLA238 Custom Thru/Hole Donut Load Cell",
+      "modelCode": "QLA238"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-thru-hole-donut-load-cell-qla239",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-THRU-HOLE-DONUT-LOAD-CELL-QLA239",
+      "title": "Custom Thru/Hole Donut Load Cell",
+      "description": "QLA239 Custom Thru/Hole Donut Load Cell",
+      "modelCode": "QLA239"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-thru-hole-donut-load-cell-qla249",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-THRU-HOLE-DONUT-LOAD-CELL-QLA249",
+      "title": "Custom Thru Hole/Donut Load Cell",
+      "description": "",
+      "modelCode": "QLA249"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-thru-hole-donut-load-cell-qla254",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-THRU-HOLE-DONUT-LOAD-CELL-QLA254",
+      "title": "Custom Thru Hole/Donut Load Cell",
+      "description": "",
+      "modelCode": "QLA254"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-thru-hole-donut-load-cell-qla261",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-THRU-HOLE-DONUT-LOAD-CELL-QLA261",
+      "title": "Custom Thru Hole/Donut Load Cell",
+      "description": "",
+      "modelCode": "QLA261"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-thru-hole-donut-load-cell-qla277",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-THRU-HOLE-DONUT-LOAD-CELL-QLA277",
+      "title": "Custom Thru Hole/Donut Load Cell",
+      "description": "QLA277 Custom Thru Hole/Donut Load Cell",
+      "modelCode": "QLA277"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/custom-wire-tension-load-cell-qla132",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-WIRE-TENSION-LOAD-CELL-QLA132",
+      "title": "Custom Wire Tension Load Cell",
+      "description": "",
+      "modelCode": "QLA132"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/diaphragm-load-cell-moment-and-shear-resistant-qla393",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "DIAPHRAGM-LOAD-CELL-MOMENT-AND-SHEAR-RESISTANT-QLA393",
+      "title": "Diaphragm Load Cell 3/8 in Thick Moment and Shear Resistant",
+      "description": "QLA 393  Diaphragm Load Cell 3/8 in Thick Moment and Shear Resistant",
+      "modelCode": "QLA393"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/donut-thru-hole-load-cell-qla209",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "DONUT-THRU-HOLE-LOAD-CELL-QLA209",
+      "title": "Donut/Thru Hole Load Cell",
+      "description": "",
+      "modelCode": "QLA209"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/donut-thru-hole-load-cell-qla210",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "DONUT-THRU-HOLE-LOAD-CELL-QLA210",
+      "title": "Donut/Thru Hole Load Cell",
+      "description": "",
+      "modelCode": "QLA210"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/dual-bridge-s-beam-load-cell-qla284",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "DUAL-BRIDGE-S-BEAM-LOAD-CELL-QLA284",
+      "title": "Dual Bridge S-Beam Load Cell",
+      "description": "",
+      "modelCode": "QLA284"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/load-button-threaded-tapped-holes-llb400",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "LOAD-BUTTON-THREADED-TAPPED-HOLES-LLB400",
+      "title": "Load Button with Threaded/Tapped Holes",
+      "description": "Model LLB400 is a Load Button Load Cell with Threaded Mounting Holes built for Press, or Inline compression applications.",
+      "modelCode": "LLB400"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/low-profile-portable-calibration-tripod-qla383",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "LOW-PROFILE-PORTABLE-CALIBRATION-TRIPOD-QLA383",
+      "title": "Low Profile Portable Calibration Tripod",
+      "description": "Designed for mission critial industries QLA383 Low Profile Portable Calibration Tripod allows you to continuously monitor and calibrate your measuring equipment to meet government and industry regulations. Our precision load cell can be paired to either analog or digital amplifier and is NIST traceable for added accuracy. Calibrate force sensors, load cells, and other measuring equipment with ease using appropriate fixtures and adapters.",
+      "modelCode": "QLA383"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/miniature-threaded-in-line-lcm100",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "MINIATURE-THREADED-IN-LINE-LCM100",
+      "title": "Micro Miniature Threaded In Line Load Cell",
+      "description": "Model LCM100 is a Threaded In Line Miniature Load Cell built for Endurance or Inline Tension or Compression applications.",
+      "modelCode": "LCM100"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/miniature-threaded-load-cell-qla415",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "MINIATURE-THREADED-LOAD-CELL-QLA415",
+      "title": "Miniature Threaded Load Cell",
+      "description": "",
+      "modelCode": "QLA415"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/nano-sensor-QLA414",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "NANO-SENSOR-QLA414",
+      "title": "Nano Force Sensor",
+      "description": "The patent-pending QLA414 NANO force sensor miniature load cell is the smallest force sensor of its kind. Its subminiature dimensions - 4mm x 5mm and 0.5 g weight Ideal miniature load cell for surgical robotics, laparoscopic tools, electronics assembly and robotic surgery, where sensor size is critical.",
+      "modelCode": "QLA414"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/nano-sensor-qla414",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "NANO-SENSOR-QLA414",
+      "title": "Nano Force Sensor",
+      "description": "The patent-pending QLA414 NANO force sensor miniature load cell is the smallest force sensor of its kind. Its subminiature dimensions - 4mm x 5mm and 0.5 g weight Ideal miniature load cell for surgical robotics, laparoscopic tools, electronics assembly and robotic surgery, where sensor size is critical.",
+      "modelCode": "QLA414"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/non-ferrous-load-cell-qla299",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "NON-FERROUS-LOAD-CELL-QLA299",
+      "title": "Non-Ferrous/Non-Magnetic  Compression Load Button Load Cell",
+      "description": "QLA299 Non-Ferrous Load Cell",
+      "modelCode": "QLA299"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/parallel-beam-load-cel-qla348",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "PARALLEL-BEAM-LOAD-CEL-QLA348",
+      "title": "Parallel Beam Load Cel",
+      "description": "Parallel Beam Load Cell QLA348 | Replacement for Ishida load cell",
+      "modelCode": "QLA348"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/parallel-beam-load-cell-overload-protection-qla321",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "PARALLEL-BEAM-LOAD-CELL-OVERLOAD-PROTECTION-QLA321",
+      "title": "Parallel Beam Load Cell w/ Overload Protection",
+      "description": "",
+      "modelCode": "QLA321"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/parallel-beam-load-cell-overload-protection-qla362",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "PARALLEL-BEAM-LOAD-CELL-OVERLOAD-PROTECTION-QLA362",
+      "title": "Parallel Beam Load Cell with Overload Protection",
+      "description": "QLA362 Parallel Beam Load Cell with Overload Protection",
+      "modelCode": "QLA362"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/parallel-beam-load-cell-qla125",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "PARALLEL-BEAM-LOAD-CELL-QLA125",
+      "title": "Parallel Beam Load Cell",
+      "description": "QLA125 Parallel Beam Load Cell | Replacement for Ishida load cell",
+      "modelCode": "QLA125"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/parallel-beam-load-cell-qla285",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "PARALLEL-BEAM-LOAD-CELL-QLA285",
+      "title": "Parallel Beam Load Cell",
+      "description": "QLA285 Parallel Beam Load Cell | Replacement for Ishida load cell.",
+      "modelCode": "QLA285"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/parallel-beam-load-cell-qla378",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "PARALLEL-BEAM-LOAD-CELL-QLA378",
+      "title": "Parallel Beam Load Cell",
+      "description": "QLA378 Parallel Beam Load Cell",
+      "modelCode": "QLA378"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/parallelogram-load-cell-dual-bridge-qla376",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "PARALLELOGRAM-LOAD-CELL-DUAL-BRIDGE-QLA376",
+      "title": "Parallelogram Load Cell, Dual Bridge",
+      "description": "QLA376 Parallelogram Load Cell, Dual Bridge",
+      "modelCode": "QLA376"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/parallelogram-load-cell-qla215",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "PARALLELOGRAM-LOAD-CELL-QLA215",
+      "title": "Parallelogram Load Cell",
+      "description": "QLA215 Parallelogram Load Cell",
+      "modelCode": "QLA215"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/parallelogram-load-cell-qla357",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "PARALLELOGRAM-LOAD-CELL-QLA357",
+      "title": "Parallelogram Load Cell",
+      "description": "QLA357 Parallelogram Load Cell",
+      "modelCode": "QLA357"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/qla418",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "QLA418",
+      "title": "Load Cell | Torque Sensors | Force Measurement Solutions | FUTEK",
+      "description": "",
+      "modelCode": "QLA418"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/qla422",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "QLA422",
+      "title": "Load Cell | Torque Sensors | Force Measurement Solutions | FUTEK",
+      "description": "",
+      "modelCode": "QLA422"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/qla424",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "QLA424",
+      "title": "Load Cell | Torque Sensors | Force Measurement Solutions | FUTEK",
+      "description": "",
+      "modelCode": "QLA424"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/qla427",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "QLA427",
+      "title": "Load Cell | Torque Sensors | Force Measurement Solutions | FUTEK",
+      "description": "",
+      "modelCode": "QLA427"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/qla428",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "QLA428",
+      "title": "Load Cell | Torque Sensors | Force Measurement Solutions | FUTEK",
+      "description": "",
+      "modelCode": "QLA428"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/qla429",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "QLA429",
+      "title": "Load Cell | Torque Sensors | Force Measurement Solutions | FUTEK",
+      "description": "",
+      "modelCode": "QLA429"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/qla431",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "QLA431",
+      "title": "Load Cell | Torque Sensors | Force Measurement Solutions | FUTEK",
+      "description": "",
+      "modelCode": "QLA431"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/qla439",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "QLA439",
+      "title": "Load Cell | Torque Sensors | Force Measurement Solutions | FUTEK",
+      "description": "",
+      "modelCode": "QLA439"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/qla444",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "QLA444",
+      "title": "Load Cell | Torque Sensors | Force Measurement Solutions | FUTEK",
+      "description": "",
+      "modelCode": "QLA444"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/qla446",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "QLA446",
+      "title": "Load Cell | Torque Sensors | Force Measurement Solutions | FUTEK",
+      "description": "",
+      "modelCode": "QLA446"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/s-beam-load-cell-qla329",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "S-BEAM-LOAD-CELL-QLA329",
+      "title": "Custom JR S-Beam Load Cell",
+      "description": "",
+      "modelCode": "QLA329"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/smart-compression-load-probe-cartridge-auto-recognition-qla388",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "SMART-COMPRESSION-LOAD-PROBE-CARTRIDGE-AUTO-RECOGNITION-QLA388",
+      "title": "Smart Compression Load Probe Cartridge w/ Auto Recognition",
+      "description": "",
+      "modelCode": "QLA388"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/smart-compression-load-probe-shaft-cartridge-auto-recognition-qla389",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "SMART-COMPRESSION-LOAD-PROBE-SHAFT-CARTRIDGE-AUTO-RECOGNITION-QLA389",
+      "title": "Smart Compression Load Probe Shaft Cartridge w/ Auto Recognition",
+      "description": "",
+      "modelCode": "QLA389"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/special-load-button-qla127",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "SPECIAL-LOAD-BUTTON-QLA127",
+      "title": "Special High Temperature & Hardness Load Button Load Cell",
+      "description": "QLA127 Special Load Button",
+      "modelCode": "QLA127"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/sub-miniature-custom-loadcell-integrated-bellow-and-customer-plate-qla416",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "SUB-MINIATURE-CUSTOM-LOADCELL-INTEGRATED-BELLOW-AND-CUSTOMER-PLATE-QLA416",
+      "title": "Sub-Miniature Custom Loadcell with Integrated Bellow and Customer Plate",
+      "description": "",
+      "modelCode": "QLA416"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/submersible-load-button-load-cell-qla397",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "SUBMERSIBLE-LOAD-BUTTON-LOAD-CELL-QLA397",
+      "title": "Submersible Load Button Load Cell",
+      "description": "",
+      "modelCode": "QLA397"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/subminiature-custom-load-button-mounting-stud-qla385",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "SUBMINIATURE-CUSTOM-LOAD-BUTTON-MOUNTING-STUD-QLA385",
+      "title": "Subminiature Custom Load Button with Mounting Stud",
+      "description": "",
+      "modelCode": "QLA385"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/tension-and-compression-overload-protected-load-cell-qla335",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "TENSION-AND-COMPRESSION-OVERLOAD-PROTECTED-LOAD-CELL-QLA335",
+      "title": "Tension and Compression Overload Protected Load Cell",
+      "description": "QLA335 Tension and Compression Overload Protected Load Cell",
+      "modelCode": "QLA335"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/tension-compression-in-line-load-cell-qla286",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "TENSION-COMPRESSION-IN-LINE-LOAD-CELL-QLA286",
+      "title": "Tension & Compression In-line Load Cell",
+      "description": "Tension & Compression In-line Load Cell",
+      "modelCode": "QLA286"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/tension-compression-load-cell-qla199",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "TENSION-COMPRESSION-LOAD-CELL-QLA199",
+      "title": "Tension & Compression Load Cell",
+      "description": "",
+      "modelCode": "QLA199"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/through-hole-load-cell-integrated-amplifier-15klb-qla392",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "THROUGH-HOLE-LOAD-CELL-INTEGRATED-AMPLIFIER-15KLB-QLA392",
+      "title": "Through Hole Load Cell w/ Integrated Amplifier 15klb",
+      "description": "QLA392 Custom Donut Load Cell",
+      "modelCode": "QLA392"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/through-hole-load-cell-integrated-amplifier-qla391",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "THROUGH-HOLE-LOAD-CELL-INTEGRATED-AMPLIFIER-QLA391",
+      "title": "Through Hole Load Cell w/ Integrated Amplifier",
+      "description": "Through Hole Load Cell w/ Integrated Amplifier",
+      "modelCode": "QLA391"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/thru-hole-donut-load-cell-4-40-mounting-holes-qla116",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "THRU-HOLE-DONUT-LOAD-CELL-4-40-MOUNTING-HOLES-QLA116",
+      "title": "Thru Hole/Donut Load Cell w/ #4-40 mounting holes",
+      "description": "Thru Hole/Donut Load Cell w/ #4-40 mounting holes",
+      "modelCode": "QLA116"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/thru-hole-donut-load-cell-qla105",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "THRU-HOLE-DONUT-LOAD-CELL-QLA105",
+      "title": "Low Profile Custom Thru Hole/Donut Load Cell",
+      "description": "QLA105 Thru Hole/Donut Load Cell",
+      "modelCode": "QLA105"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/thru-hole-donut-load-cell-qla106",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "THRU-HOLE-DONUT-LOAD-CELL-QLA106",
+      "title": "Thru Hole/Donut Load Cell with 1.79 ID",
+      "description": "QLA106 Thru Hole/Donut Load Cell with 1.79 ID",
+      "modelCode": "QLA106"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/thru-hole-donut-load-cell-qla115",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "THRU-HOLE-DONUT-LOAD-CELL-QLA115",
+      "title": "Thru Hole/Donut Load Cell",
+      "description": "",
+      "modelCode": "QLA115"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/thru-hole-donut-load-cell-qla206",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "THRU-HOLE-DONUT-LOAD-CELL-QLA206",
+      "title": "Thru Hole/Donut Load Cell",
+      "description": "QLA206 Thru Hole/Donut Load Cell",
+      "modelCode": "QLA206"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/thru-hole-donut-load-cell-qla237",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "THRU-HOLE-DONUT-LOAD-CELL-QLA237",
+      "title": "Thru Hole/Donut Load Cell",
+      "description": "",
+      "modelCode": "QLA237"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/thru-hole-donut-load-cell-welded-washer-qla107",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "THRU-HOLE-DONUT-LOAD-CELL-WELDED-WASHER-QLA107",
+      "title": "Thru Hole/Donut Load Cell with Welded Washer",
+      "description": "QLA107 Thru Hole/Donut Load Cell with Welded Washer with Welded Washer , Standard , Material - 17-4 PH S.S. , 0.95\" [24.1 mm] ID , 24 Awg 4 Conductor Braided Shielded PVC Cable , 15 ft Long",
+      "modelCode": "QLA107"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/thru-hole-donut-load-cell-welded-washer-qla247",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "THRU-HOLE-DONUT-LOAD-CELL-WELDED-WASHER-QLA247",
+      "title": "Thru Hole/Donut Load Cell w/ Welded Washer",
+      "description": "QLA247 Thru Hole/Donut Load Cell w/ Welded Washer",
+      "modelCode": "QLA247"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/load-cells-force-sensors/xcite-load-cell-qla186",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "XCITE-LOAD-CELL-QLA186",
+      "title": "Xcite Load Cell",
+      "description": "Model QLA186 is a Custom In Line Load Cell built for Endurance, Press, or Inline applications.",
+      "modelCode": "QLA186"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/low-profile-load-cells/low-profile-lrf350",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "LOW-PROFILE-LRF350",
+      "title": "Low Profile Load Cell",
+      "description": "The Low Profile Tension & Compression Load Cell offers a compact design for inline loading applications. With a height of only 1\u201d, the LRF350 Low Profile Tension & Compression Load Cell is a great selection for tight spaces.",
+      "modelCode": "LRF350"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/low-profile-load-cells/low-profile-lrf400",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "LOW-PROFILE-LRF400",
+      "title": "Low Profile Load Cell",
+      "description": "The Tension and Compression Load Cell offers a compact design ideal for low capacity applications.",
+      "modelCode": "LRF400"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/miniature-column-load-cells/miniature-load-column-lca300",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "MINIATURE-LOAD-COLUMN-LCA300",
+      "title": "Miniature Load Column Load Cell",
+      "description": "FUTEK\u2019s Column Load Cell (Miniature) offers an impressive compact design for high capacity applications.",
+      "modelCode": "LCA300"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/miniature-column-load-cells/miniature-load-column-lca305",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "MINIATURE-LOAD-COLUMN-LCA305",
+      "title": "Miniature Load Column Load Cell",
+      "description": "FUTEK\u2019s Column Miniature Load Cell offers an impressive compact design for high capacity applications. With a diameter of 0.88\u201d, it is ideal for tight spaces. The LCA305 Column Miniature Load Cell is offered in 17-4PH Stainless Steel in 7,500 to 10,000 lbs, with a raised surface radius to lower the possibility of off center loading.",
+      "modelCode": "LCA305"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/miniature-column-load-cells/miniature-load-column-lca310",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "MINIATURE-LOAD-COLUMN-LCA310",
+      "title": "Miniature Load Column Load Cell",
+      "description": "FUTEK\u2019s Column Load Cell (Miniature) offers an impressive compact design for high capacity applications.",
+      "modelCode": "LCA310"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/multi-axis-load-cell/3-axis-moog-sensor-qma122",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "3-AXIS-MOOG-SENSOR-QMA122",
+      "title": "3 Axis Load Cell w/ Overload Protection",
+      "description": "",
+      "modelCode": "QMA122"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/multi-axis-load-cell/3-axis-sensor-qma143",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "3-AXIS-SENSOR-QMA143",
+      "title": "Custom 3 Axis Force Haptic Sensor w/ Overload Protection",
+      "description": "QMA143, 3 Axis Sensor",
+      "modelCode": "QMA143"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/multi-axis-load-cell/3-axis-sensor-qma147",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "3-AXIS-SENSOR-QMA147",
+      "title": "3 Axis Load Cell w/ Overload Protection",
+      "description": "",
+      "modelCode": "QMA147"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/multi-axis-load-cell/3-axis-sensor-spi-interface-qma145",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "3-AXIS-SENSOR-SPI-INTERFACE-QMA145",
+      "title": "3 Axis Sensor with SPI Interface",
+      "description": "QMA145, 3 Axis Sensor with SPI Interface",
+      "modelCode": "QMA145"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/multi-axis-load-cell/6-dof-force-torque-sensor-qma154",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "6-DOF-FORCE-TORQUE-SENSOR-QMA154",
+      "title": "Compact 6 DoF Force/Torque Sensor with Digital Output",
+      "description": "6 DOF force torque sensor delivers precise six-axis measurement of force and torque with high accuracy and stability, ideal for robotics, automation, haptics, and research applications.",
+      "modelCode": "QMA154"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/multi-axis-load-cell/bi-axial-handle-load-cell-qma101",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "BI-AXIAL-HANDLE-LOAD-CELL-QMA101",
+      "title": "Bi-Axial Handle Load Cell",
+      "description": "QMA101 Custom Bi-Axial Handle Load Cell",
+      "modelCode": "QMA101"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/multi-axis-load-cell/custom-2-axis-shear-pin-load-cell-qma130",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-2-AXIS-SHEAR-PIN-LOAD-CELL-QMA130",
+      "title": "Custom 2 Axis Shear Pin Load Cell",
+      "description": "",
+      "modelCode": "QMA130"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/multi-axis-load-cell/custom-2-axis-shear-pin-load-cell-qma136",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-2-AXIS-SHEAR-PIN-LOAD-CELL-QMA136",
+      "title": "Custom 2 Axis Shear Pin Load Cell",
+      "description": "QMA136 Custom 2 Axis Shear Pin Load Cell",
+      "modelCode": "QMA136"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/multi-axis-load-cell/custom-2-axis-shear-pin-qma116",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-2-AXIS-SHEAR-PIN-QMA116",
+      "title": "Custom 2 Axis Shear Pin",
+      "description": "",
+      "modelCode": "QMA116"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/multi-axis-load-cell/custom-6-axis-sensor-qma142",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-6-AXIS-SENSOR-QMA142",
+      "title": "Low Profile & Light Weight 6DOF Force/Torque Sensor w/ Overload Protection",
+      "description": "6 Axis Sensor QMA142, Custom Multi-Axis Force Sensor, customized multi component load cell manufactured by FUTEK Advanced Sensor Technology.",
+      "modelCode": "QMA142"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/multi-axis-load-cell/custom-dual-axis-load-cell-qma114",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-DUAL-AXIS-LOAD-CELL-QMA114",
+      "title": "Custom Dual-Axis Load Cell",
+      "description": "QMA114 Custom Dual-Axis Load Cell",
+      "modelCode": "QMA114"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/multi-axis-load-cell/custom-fatigue-rated-dual-axis-loadcell-qma121",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-FATIGUE-RATED-DUAL-AXIS-LOADCELL-QMA121",
+      "title": "Custom Fatigue Rated Dual Axis Loadcell",
+      "description": "",
+      "modelCode": "QMA121"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/multi-axis-load-cell/custom-high-temp-tri-axial-load-cell-qma141",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-HIGH-TEMP-TRI-AXIAL-LOAD-CELL-QMA141",
+      "title": "Custom High Temp Tri-Axial Force/Torque Load Cell",
+      "description": "QMA141 Custom High Temp Tri-Axial Load Cell",
+      "modelCode": "QMA141"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/multi-axis-load-cell/custom-multi-component-sensor-qma124",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-MULTI-COMPONENT-SENSOR-QMA124",
+      "title": "Custom Multi-Component Prosthetic/Robotic Knee Joint Sensor",
+      "description": "Multi Component Sensor | QMA124 Custom Multi-Axis Force Sensor",
+      "modelCode": "QMA124"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/multi-axis-load-cell/custom-torque-and-thrust-biaxial-sensor-qma150",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-TORQUE-AND-THRUST-BIAXIAL-SENSOR-QMA150",
+      "title": "Custom Torque and Thrust Biaxial Sensor",
+      "description": "Custom Miniature Torque and Thrust Force Bi-Axial Sensor.",
+      "modelCode": "QMA150"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/multi-axis-load-cell/custom-torque-and-thrust-thru-hole-qma112",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-TORQUE-AND-THRUST-THRU-HOLE-QMA112",
+      "title": "Custom Torque and Thrust w/ 0.5\" Thru Hole",
+      "description": "QMA112 Custom Torque and Thrust w/ 0.5\" Thru Hole",
+      "modelCode": "QMA112"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/multi-axis-load-cell/custom-torque-thrust-bi-axial-sensor-qma123",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-TORQUE-THRUST-BI-AXIAL-SENSOR-QMA123",
+      "title": "Custom Torque/Thrust Bi-Axial Sensor",
+      "description": "QMA123 Custom Torque/Thrust Bi-Axial Sensor",
+      "modelCode": "QMA123"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/multi-axis-load-cell/custom-tri-axial-load-cell-qma129",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-TRI-AXIAL-LOAD-CELL-QMA129",
+      "title": "Custom Tri-Axial Load Cell",
+      "description": "QMA129 Custom Tri-Axial Load Cell",
+      "modelCode": "QMA129"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/multi-axis-load-cell/custom-tri-axial-load-cell-qma135",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "CUSTOM-TRI-AXIAL-LOAD-CELL-QMA135",
+      "title": "Custom Tri-Axial Force/Torque Load Cell",
+      "description": "QMA135 Custom Tri-Axial Load Cell",
+      "modelCode": "QMA135"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/multi-axis-load-cell/instrumentation-of-customer-part-qma118",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "INSTRUMENTATION-OF-CUSTOMER-PART-QMA118",
+      "title": "Custom Space Flight Rated Force/Torque 6DOF Sensor",
+      "description": "",
+      "modelCode": "QMA118"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/multi-axis-load-cell/qma148",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "QMA148",
+      "title": "Load Cell | Torque Sensors | Force Measurement Solutions | FUTEK",
+      "description": "",
+      "modelCode": "QMA148"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/multi-axis-load-cell/qma149",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "QMA149",
+      "title": "Load Cell | Torque Sensors | Force Measurement Solutions | FUTEK",
+      "description": "",
+      "modelCode": "QMA149"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/multi-axis-load-cell/qma151",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "QMA151",
+      "title": "Load Cell | Torque Sensors | Force Measurement Solutions | FUTEK",
+      "description": "",
+      "modelCode": "QMA151"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/multi-axis-load-cell/reaction-torque-and-thrust-flange-to-flange-sensor-qma133",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "REACTION-TORQUE-AND-THRUST-FLANGE-TO-FLANGE-SENSOR-QMA133",
+      "title": "Reaction Torque and Thrust Flange to Flange Sensor",
+      "description": "Reaction Torque and Thrust Flange to Flange Sensor",
+      "modelCode": "QMA133"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/multi-axis-load-cell/triple-redundant-stick-sensor-qma111",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "TRIPLE-REDUNDANT-STICK-SENSOR-QMA111",
+      "title": "Triple Redundant Stick Sensor",
+      "description": "",
+      "modelCode": "QMA111"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/oem-load-cells/LSM305",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "LSM305",
+      "title": "Load Cell | Torque Sensors | Force Measurement Solutions | FUTEK",
+      "description": "",
+      "modelCode": "LSM305"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/oem-load-cells/fold-back-beam-LSM200/FSH02937",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "FSH02937",
+      "title": "FSH02937 Fold Back Beam Load Cell",
+      "description": "The LSM200 Beam Load Cell offers a slim design with an easy side mounting feature making it ideal for OEM applications.",
+      "modelCode": "FSH02937"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/oem-load-cells/lsm305",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "LSM305",
+      "title": "Load Cell | Torque Sensors | Force Measurement Solutions | FUTEK",
+      "description": "",
+      "modelCode": "LSM305"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/oem-load-cells/micro-parallelogram-lsm100",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "MICRO-PARALLELOGRAM-LSM100",
+      "title": "Micro Parallelogram",
+      "description": "Miniature parallelogram load cell with high accuracy and low deflection for precision force measurement, perfect for OEM integration, robotics, and industrial testing applications.",
+      "modelCode": "LSM100"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/oem-load-cells/mini-beam-LSM400/FSH00985",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "FSH00985",
+      "title": "FSH00985 Mini Beam Load Cell",
+      "description": "The LSM400 Single Point Load Cell offers an impressive lightweight design with an easy side mounting feature making it ideal for OEM applications.",
+      "modelCode": "FSH00985"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/oem-load-cells/oem-LSM250/FSH03923",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "FSH03923",
+      "title": "FSH03923 OEM Load Cell",
+      "description": "The LSM250 Precision Load Cell offers an impressive lightweight design with an easy side mounting feature making it ideal for OEM applications.",
+      "modelCode": "FSH03923"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/oem-load-cells/oem-LSM300",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "OEM-LSM300",
+      "title": "Load Cell | Torque Sensors | Force Measurement Solutions | FUTEK",
+      "description": "",
+      "modelCode": "LSM300"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/oem-load-cells/oem-lsm250",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "OEM-LSM250",
+      "title": "OEM Load Cell",
+      "description": "The LSM250 Precision Load Cell offers an impressive lightweight design with an easy side mounting feature making it ideal for OEM applications.",
+      "modelCode": "LSM250"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/pedal-force-sensors/automotive-pedal-force-sensor-lau200",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "AUTOMOTIVE-PEDAL-FORCE-SENSOR-LAU200",
+      "title": "Automotive Pedal Force Sensor",
+      "description": "The LAU200 Pedal Force Load Cell offers an ideal solution for Automotive Applications. From its 17-4PH Stainless Steel one piece construction, to its low profile design (Off-center loading error of <4%), the LAU200 Pedal Force Load Cell offers a great measurement system with impressive tolerances.",
+      "modelCode": "LAU200"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/pedal-force-sensors/automotive-pedal-force-sensor-lau220",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "AUTOMOTIVE-PEDAL-FORCE-SENSOR-LAU220",
+      "title": "Automotive Pedal Force Sensor",
+      "description": "The LAU220 Pedal Force Load Cell has become one of the most common and trusted products in the Automotive Industry for pedal brake and acceleration force measurement. LAU220 Pedal Force Sensor can be used as an automotive load cell.",
+      "modelCode": "LAU220"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/pinch-force-sensors/pinch-force-sensor-lmd300",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "PINCH-FORCE-SENSOR-LMD300",
+      "title": "Pinch Force Sensor",
+      "description": "The LMD300 Medical Load Cell offers an ideal solution for both Automotive and Medical Applications.  The LMD300 model is also widely used as a pinch force sensor.",
+      "modelCode": "LMD300"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/rod-end-load-cells/fatigue-rated-rod-end-lcb450",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "FATIGUE-RATED-ROD-END-LCB450",
+      "title": "Fatigue Rated Rod End Load Cell",
+      "description": "Model LCB450 is a High Capacity Load Cell (Rod End) for Inline Actuators or Hydraulic Jacks with Male/Female Threads.",
+      "modelCode": "LCB450"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/rod-end-load-cells/in-line-rod-end-lcb200",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "IN-LINE-ROD-END-LCB200",
+      "title": "In Line Rod End Load Cell",
+      "description": "Model LCB200 is a Rod End Load Cell (Tension/Compression) designed for applications involving Inline Actuators or Hydraulic Jacks with Male/Female Threads.",
+      "modelCode": "LCB200"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/rod-end-load-cells/rod-end-lcb400",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "ROD-END-LCB400",
+      "title": "Rod End Load Cell",
+      "description": "Model LCB400 is a Rod End Load Cell (Tension/Compression) designed for applications involving Inline Actuators or Hydraulic Jacks with Male/Female Threads.",
+      "modelCode": "LCB400"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/rod-end-load-cells/rod-end-lcb500",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "ROD-END-LCB500",
+      "title": "Rod End Load Cell",
+      "description": "Model LCB500 is a Tension and Compression Load Cell (can be used as Rod End with mounting plates) for Inline Actuators or Hydraulic Jacks with Male/Female Threads.",
+      "modelCode": "LCB500"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/s-beam-load-cells/miniature-digital-spi-uart-load-cell-lsb206",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "MINIATURE-DIGITAL-SPI-UART-LOAD-CELL-LSB206",
+      "title": "Digital S-Beam Jr.\u00ae Load Cell 3.0",
+      "description": "Miniature S beam load cell with digital SPI and UART output for high-precision tension and compression measurement, ideal for embedded systems, robotics, and OEM applications.",
+      "modelCode": "LSB206"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/s-beam-load-cells/miniature-s-beam-LSB200/FSH03867",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "FSH03867",
+      "title": "FSH03867 Miniature S-Beam Jr.\u00ae Load Cell",
+      "description": "With a height of only 0.75 in, the LSB200 Low Capacity Load Cell is optimized for low capacities - from 10 to 100 grams [0.35 to 3.5 oz]. It is a great selection where tight environments or space is a challenge.",
+      "modelCode": "FSH03867"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/s-beam-load-cells/miniature-s-beam-LSB201",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "MINIATURE-S-BEAM-LSB201",
+      "title": "Miniature S-Beam Jr.\u00ae Load Cell 2.0",
+      "description": "The LSB201 is a micro force sensor with a small footprint, high performance and exceptional quality and durability. Featuring capacities from 8 oz (250 g) to 100 lb, this miniature load cell is versatile and universal and offers limitless possibilities for applications.",
+      "modelCode": "LSB201"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/s-beam-load-cells/miniature-s-beam-jr-LSB205",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "MINIATURE-S-BEAM-JR-LSB205",
+      "title": "Miniature S-Beam Jr.\u00ae Load Cell 2.0",
+      "description": "FUTEK\u2019s LSB205 Miniature S-Beam Jr. Load Cell 2.0 is the latest generation in FUTEK\u2019s miniature S-Beam Miniature Force Sensor Line.",
+      "modelCode": "LSB205"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/s-beam-load-cells/miniature-s-beam-jr-lsb205",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "MINIATURE-S-BEAM-JR-LSB205",
+      "title": "Miniature S-Beam Jr.\u00ae Load Cell 2.0",
+      "description": "FUTEK\u2019s LSB205 Miniature S-Beam Jr. Load Cell 2.0 is the latest generation in FUTEK\u2019s miniature S-Beam Miniature Force Sensor Line.",
+      "modelCode": "LSB205"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/s-beam-load-cells/miniature-s-beam-lsb200",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "MINIATURE-S-BEAM-LSB200",
+      "title": "Miniature S-Beam Jr.\u00ae Load Cell",
+      "description": "With a height of only 0.75 in, the LSB200 Low Capacity Load Cell is optimized for low capacities - from 10 to 100 grams [0.35 to 3.5 oz]. It is a great selection where tight environments or space is a challenge.",
+      "modelCode": "LSB200"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/s-beam-load-cells/miniature-s-beam-lsb201",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "MINIATURE-S-BEAM-LSB201",
+      "title": "Miniature S-Beam Jr.\u00ae Load Cell 2.0",
+      "description": "The LSB201 is a micro force sensor with a small footprint, high performance and exceptional quality and durability. Featuring capacities from 8 oz (250 g) to 100 lb, this miniature load cell is versatile and universal and offers limitless possibilities for applications.",
+      "modelCode": "LSB201"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/s-beam-load-cells/s-beam-LSB400",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "S-BEAM-LSB400",
+      "title": "Load Cell | Torque Sensors | Force Measurement Solutions | FUTEK",
+      "description": "",
+      "modelCode": "LSB400"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/s-beam-load-cells/s-beam-lsb302",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "S-BEAM-LSB302",
+      "title": "S-Beam Tension and Compression Load Cell",
+      "description": "The S Beam Load Cell offers a compact design for platforms, silos, or scales.",
+      "modelCode": "LSB302"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/s-beam-load-cells/s-beam-lsb350",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "S-BEAM-LSB350",
+      "title": "S-Beam Tension and Compression Load Cell",
+      "description": "The LSB350 S Beam Load Cell offers a compact design for platforms, silos, or scales. The Standard LSB350 Shear Beam Load Cell model has female threads, comes in both Anodized Aluminum (500 lbs \u2013 1,000 lbs) and 17-4 Stainless Steel construction (2,000lbs).",
+      "modelCode": "LSB350"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/s-beam-load-cells/s-beam-tension-and-compression-lsb352",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "S-BEAM-TENSION-AND-COMPRESSION-LSB352",
+      "title": "S-Beam Tension and Compression Load Cell",
+      "description": "The S Beam Load Cell offers a compact design for platforms, silos, or scales.",
+      "modelCode": "LSB352"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/s-beam-load-cells/submersible-miniature-s-beam-LSB210",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "SUBMERSIBLE-MINIATURE-S-BEAM-LSB210",
+      "title": "Submersible Miniature S-Beam Jr.\u00ae Load Cell",
+      "description": "LSB210 is a Submersible Load Cell. This waterproof load cell is suitable where protection from liquids is required and offers a perfect mixture of size, accuracy, and overload protection. The LSB210 underwater Load Cell is available in 100g to 100lbs (1N \u2013 445N) capacities.",
+      "modelCode": "LSB210"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/s-beam-load-cells/submersible-miniature-s-beam-LSB210/FSH03942",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "FSH03942",
+      "title": "FSH03942 Submersible Miniature S-Beam Jr.\u00ae Load Cell",
+      "description": "LSB210 is a Submersible S-Beam Miniature Load Cell. This submersible load cell is capable of servicing numerous applications where protection from liquids is required. Available in 100g to 100lbs (1N \u2013 445N) capacities",
+      "modelCode": "FSH03942"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/s-beam-load-cells/submersible-miniature-s-beam-lsb210",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "SUBMERSIBLE-MINIATURE-S-BEAM-LSB210",
+      "title": "Submersible Miniature S-Beam Jr.\u00ae Load Cell",
+      "description": "LSB210 is a Submersible Load Cell. This waterproof load cell is suitable where protection from liquids is required and offers a perfect mixture of size, accuracy, and overload protection. The LSB210 underwater Load Cell is available in 100g to 100lbs (1N \u2013 445N) capacities.",
+      "modelCode": "LSB210"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/s-beam-load-cells/tension-compression-LSB303",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "TENSION-COMPRESSION-LSB303",
+      "title": "Load Cell | Torque Sensors | Force Measurement Solutions | FUTEK",
+      "description": "",
+      "modelCode": "LSB303"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/threaded-in-line-load-cells/miniature-threaded-in-line-LCM200",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "MINIATURE-THREADED-IN-LINE-LCM200",
+      "title": "Miniature Threaded In Line Load Cell",
+      "description": "LCM200 is a Miniature Compact Load Cell built for Endurance or Inline Tension and Compression applications. LCM200 Small Mini Load Cell sensor offers high accuracy. It has Nonlinearity of \u00b10.5% and Deflection of 0.002\u201d nominal.",
+      "modelCode": "LCM200"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/threaded-in-line-load-cells/miniature-threaded-in-line-lcm100",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "MINIATURE-THREADED-IN-LINE-LCM100",
+      "title": "Micro Miniature Threaded In Line Load Cell",
+      "description": "Model LCM100 is a Threaded In Line Miniature Load Cell built for Endurance or Inline Tension or Compression applications.",
+      "modelCode": "LCM100"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/threaded-in-line-load-cells/miniature-threaded-in-line-lcm200",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "MINIATURE-THREADED-IN-LINE-LCM200",
+      "title": "Miniature Threaded In Line Load Cell",
+      "description": "LCM200 is a Miniature Compact Load Cell built for Endurance or Inline Tension and Compression applications. LCM200 Small Mini Load Cell sensor offers high accuracy. It has Nonlinearity of \u00b10.5% and Deflection of 0.002\u201d nominal.",
+      "modelCode": "LCM200"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/threaded-in-line-load-cells/miniature-threaded-in-line-lcm300",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "MINIATURE-THREADED-IN-LINE-LCM300",
+      "title": "Miniature Threaded In Line Load Cell",
+      "description": "Model LCM300 is a Tension and Compression Miniature Load Cell built for Endurance, Press, or Inline applications. The standard LCM300 Threaded In Line Load Cell available in 17-4 Stainless Steel, with male threads on both ends and a 10 feet long 28 AWG 4 conductor shielded PVC cable.",
+      "modelCode": "LCM300"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/threaded-in-line-load-cells/miniature-threaded-in-line-lcm325",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "MINIATURE-THREADED-IN-LINE-LCM325",
+      "title": "Miniature Threaded In Line Load Cell",
+      "description": "Model LCM325 is a Tension and Compression Load Cell built for Endurance, Press, or Inline applications.",
+      "modelCode": "LCM325"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/threaded-in-line-load-cells/miniature-threaded-in-line-lcm350",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "MINIATURE-THREADED-IN-LINE-LCM350",
+      "title": "Miniature Threaded In Line Load Cell",
+      "description": "Model LCM350 is a Tension and Compression Load Cell built for Endurance, Press, or Inline applications. The LCM350 Compression Load Cell application is available in 17-4 SS, with male threads on both ends and a 10 feet long cable.",
+      "modelCode": "LCM350"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/threaded-in-line-load-cells/miniature-threaded-in-line-lcm375",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "MINIATURE-THREADED-IN-LINE-LCM375",
+      "title": "Miniature Threaded In Line Load Cell",
+      "description": "Model LCM375 is an In Line Load Cell built for Endurance, Press, or Inline applications.",
+      "modelCode": "LCM375"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/threaded-in-line-load-cells/threaded-in-line-lcm525",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "THREADED-IN-LINE-LCM525",
+      "title": "Threaded In Line Load Cell",
+      "description": "Model LCM525 is an In Line Load Cell built for Endurance, Press, or Inline applications.",
+      "modelCode": "LCM525"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/threaded-in-line-load-cells/threaded-in-line-lcm550",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "THREADED-IN-LINE-LCM550",
+      "title": "Threaded In Line Load Cell",
+      "description": "Model LCM550 is an In Line Load Cell built for Endurance, Press, or Inline applications.",
+      "modelCode": "LCM550"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/through-hole-load-cells/donut-through-hole-LTH350",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "DONUT-THROUGH-HOLE-LTH350",
+      "title": "Donut/Through Hole Load Cell",
+      "description": "Model LTH350 is a Donut Load Cell built for Press, or Inline compression applications. LTH350 Washer Load Cell is ideal for inline applications with limited space that require a sensor that can handle eccentric loads and maintain a high accuracy and reliability.",
+      "modelCode": "LTH350"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/through-hole-load-cells/donut-through-hole-lth300",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "DONUT-THROUGH-HOLE-LTH300",
+      "title": "Donut/Through Hole Load Cell",
+      "description": "Model LTH300 is a Donut Load Cell built for Press, or Inline compression applications.",
+      "modelCode": "LTH300"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/through-hole-load-cells/donut-through-hole-lth350",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "DONUT-THROUGH-HOLE-LTH350",
+      "title": "Donut/Through Hole Load Cell",
+      "description": "Model LTH350 is a Donut Load Cell built for Press, or Inline compression applications. LTH350 Washer Load Cell is ideal for inline applications with limited space that require a sensor that can handle eccentric loads and maintain a high accuracy and reliability.",
+      "modelCode": "LTH350"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/through-hole-load-cells/donut-through-hole-lth400",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "DONUT-THROUGH-HOLE-LTH400",
+      "title": "Donut/Through Hole Load Cell",
+      "description": "Model LTH400 is a Donut Load Cell built for Press, or Inline compression applications.",
+      "modelCode": "LTH400"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/through-hole-load-cells/donut-through-hole-lth500",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "DONUT-THROUGH-HOLE-LTH500",
+      "title": "Donut/Through Hole Load Cell",
+      "description": "Model LTH500 is a Donut/Through Hole Load Cell built for Press, or Inline compression applications.",
+      "modelCode": "LTH500"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/through-hole-load-cells/sub-miniature-donut-load-cell-lth150",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "SUB-MINIATURE-DONUT-LOAD-CELL-LTH150",
+      "title": "Sub-Miniature Donut/Through Hole Load Cell",
+      "description": "The LTH150 Through Hole Donut/Washer Load Cell is a miniature, low-profile sensor designed for compression applications requiring the load structure to pass through the sensor such as bolt clamping force measurement.",
+      "modelCode": "LTH150"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/triaxial/inline-3-axis-load-cell-sensor-mta250",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "INLINE-3-AXIS-LOAD-CELL-SENSOR-MTA250",
+      "title": "Inline 3 Axis Sensor",
+      "description": "The MTA250 Miniature 3 Axis Load Cell (aka triaxial load cell or 3 dof force sensor) is engineered for measuring Fx, Fy, and Fz loads in low capacity applications. Despite its relatively small size and low profile (2.55\" height x 1.33\" diameter), MTA250 3 dof load cell features a 300% safe overload capacity.",
+      "modelCode": "MTA250"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/triaxial/low-profile-thrust-and-moment-load-cell-mta500",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "LOW-PROFILE-THRUST-AND-MOMENT-LOAD-CELL-MTA500",
+      "title": "Low Profile Thrust and Moment Multi-Axis Load Cell",
+      "description": "The MTA500 Multi Axis Load Cell (Tri-Axial) offers an excellent solution for measuring Mx, My, and Fz loads.",
+      "modelCode": "MTA500"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/triaxial/low-profile-thrust-and-moment-multi-axis-load-cell-mta505",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "LOW-PROFILE-THRUST-AND-MOMENT-MULTI-AXIS-LOAD-CELL-MTA505",
+      "title": "Low Profile Thrust and Moment Multi-Axis Load Cell",
+      "description": "The MTA505 Multi Axis Load Cell (Tri-Axial) offers an excellent solution for measuring Mx, My, and Fz loads. The MTA505 is available in both Anodized Aluminum and Stainless.",
+      "modelCode": "MTA505"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/triaxial/triaxial-load-cell-mta400",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "TRIAXIAL-LOAD-CELL-MTA400",
+      "title": "Triaxial Load Cell",
+      "description": "The MTA400 3 Axis Load Cell offers an excellent solution for measuring Fx, Fy, and Fz loads. The MTA400 triaxial load cell sensor is made from Aluminum, weighs 32 oz and uses metal foil strain gauge technology.",
+      "modelCode": "MTA400"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/triaxial/triaxial-load-cell-mta600",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "TRIAXIAL-LOAD-CELL-MTA600",
+      "title": "Triaxial Load Cell",
+      "description": "The MTA600 Multi Axis Load Cell (Tri-Axial) offers an excellent solution for measuring Fx, Fy, and Fz loads. The MTA600 can be modified or customized to meet your requirements and most capacities are in our inventory, making them available for quick delivery.",
+      "modelCode": "MTA600"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/universal-pancake-load-cells/fatigue-rated-pancake-lcf451",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "FATIGUE-RATED-PANCAKE-LCF451",
+      "title": "Fatigue Rated Pancake Load Cell",
+      "description": "Model LCF451 Pancake Load Cell (Tension Base) is the Fatigue Rated version of the LCF450.",
+      "modelCode": "LCF451"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/universal-pancake-load-cells/fatigue-rated-pancake-lcf456",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "FATIGUE-RATED-PANCAKE-LCF456",
+      "title": "Fatigue Rated Pancake Load Cell",
+      "description": "Model LCF456 Pancake Fatigue Rated Load Cell is designed for tension and compression applications. The LCF456 Pancake Fatigue Rated Load Cell comes with a tension base, making it suitable for Inline applications on Actuators or Threaded Assemblies.",
+      "modelCode": "LCF456"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/universal-pancake-load-cells/fatigue-rated-pancake-lcf501",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "FATIGUE-RATED-PANCAKE-LCF501",
+      "title": "Fatigue Rated Pancake Load Cell",
+      "description": "Model LCF501 Pancake Load Cell (Fatigue Rated) is the fatigue rated version of the LCF500.",
+      "modelCode": "LCF501"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/universal-pancake-load-cells/fatigue-rated-pancake-lcf506",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "FATIGUE-RATED-PANCAKE-LCF506",
+      "title": "Fatigue Rated Pancake Load Cell",
+      "description": "Model LCF506 is a Fatigue Rated Pancake Load Cell  designed for tension and compression applications.",
+      "modelCode": "LCF506"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/universal-pancake-load-cells/high-capacity-fatigue-rated-pancake-LCF556",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "HIGH-CAPACITY-FATIGUE-RATED-PANCAKE-LCF556",
+      "title": "High Capacity Fatigue Rated Pancake Load Cell",
+      "description": "Model LCF556 High Capacity Pancake Load Cell with Tension Base is the Fatigue Rated version of the LCF555.",
+      "modelCode": "LCF556"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/universal-pancake-load-cells/high-capacity-fatigue-rated-pancake-lcf551",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "HIGH-CAPACITY-FATIGUE-RATED-PANCAKE-LCF551",
+      "title": "High Capacity Fatigue Rated Pancake Load Cell",
+      "description": "Model LCF551 Pancake Load Cell is the Fatigue Rated Load Cell version of the LCF550. The Pancake Load Cell is designed for applications in tension and compression. The flexure is made from a rugged 17-4 Stainless Steel and it is available in 50,000 lbs capacity.",
+      "modelCode": "LCF551"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/universal-pancake-load-cells/high-capacity-fatigue-rated-pancake-lcf556",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "HIGH-CAPACITY-FATIGUE-RATED-PANCAKE-LCF556",
+      "title": "High Capacity Fatigue Rated Pancake Load Cell",
+      "description": "Model LCF556 High Capacity Pancake Load Cell with Tension Base is the Fatigue Rated version of the LCF555.",
+      "modelCode": "LCF556"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/universal-pancake-load-cells/high-capacity-pancake-lcf550",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "HIGH-CAPACITY-PANCAKE-LCF550",
+      "title": "High Capacity Pancake Load Cell",
+      "description": "Model LCF550 is a Pancake Load Cell designed for high capacity compression and tension applications.",
+      "modelCode": "LCF550"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/universal-pancake-load-cells/high-capacity-pancake-tension-base-lcf555",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "HIGH-CAPACITY-PANCAKE-TENSION-BASE-LCF555",
+      "title": "High Capacity Pancake Load Cell with Tension Base",
+      "description": "The LCF555 High Capacity Pancake Load Cell with Tension Base is the LCF550 with an added Tension Base option.",
+      "modelCode": "LCF555"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/universal-pancake-load-cells/universal-pancake-lcf300",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "UNIVERSAL-PANCAKE-LCF300",
+      "title": "Universal Pancake Load Cell",
+      "description": "Model LCF300 Universal Load Cell is a low profile tension and compression shear web load cell designed for applications where vertical space is limited or extraneous loads are encountered.",
+      "modelCode": "LCF300"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/universal-pancake-load-cells/universal-pancake-lcf400",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "UNIVERSAL-PANCAKE-LCF400",
+      "title": "Universal Pancake Load Cell",
+      "description": "Model LCF400 is a Pancake Load Cell that has an exceptional one-piece construction flexure design to resist high extraneous loads.",
+      "modelCode": "LCF400"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/universal-pancake-load-cells/universal-pancake-lcf450",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "UNIVERSAL-PANCAKE-LCF450",
+      "title": "Universal Pancake Load Cell",
+      "description": "Model LCF450 is a Pancake Load Cell designed for both tension and compression applications.",
+      "modelCode": "LCF450"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/universal-pancake-load-cells/universal-pancake-lcf500",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "UNIVERSAL-PANCAKE-LCF500",
+      "title": "Universal Pancake Load Cell",
+      "description": "Model LCF500 is a Pancake Load Cell designed for tension and compression applications.",
+      "modelCode": "LCF500"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/universal-pancake-load-cells/universal-pancake-tension-base-LCF505",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "UNIVERSAL-PANCAKE-TENSION-BASE-LCF505",
+      "title": "Universal Pancake Load Cell with Tension Base",
+      "description": "Model LCF505 Low Profile Universal Pancake With Tension Base is the LCF500 with the added tension base option.",
+      "modelCode": "LCF505"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/universal-pancake-load-cells/universal-pancake-tension-base-lcf455",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "UNIVERSAL-PANCAKE-TENSION-BASE-LCF455",
+      "title": "Universal Pancake Load Cell with Tension Base",
+      "description": "Model LCF455 is a Pancake Load Cell (Tension Base) designed for tension and compression applications.",
+      "modelCode": "LCF455"
+    },
+    {
+      "url": "https://www.futek.com/store/load-cells/universal-pancake-load-cells/universal-pancake-tension-base-lcf505",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "UNIVERSAL-PANCAKE-TENSION-BASE-LCF505",
+      "title": "Universal Pancake Load Cell with Tension Base",
+      "description": "Model LCF505 Low Profile Universal Pancake With Tension Base is the LCF500 with the added tension base option.",
+      "modelCode": "LCF505"
+    }
+  ]
+}

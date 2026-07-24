@@ -1,0 +1,2217 @@
+{
+  "source": "https://www.flintec.com/sitemap.xml",
+  "harvestedAt": "2026-07-24T16:32:46.169264+00:00",
+  "productCount": 81,
+  "products": [
+    {
+      "url": "https://www.flintec.com/weight-sensors/force-sensors/extensometers/vt1",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "VT1 Extensometer ( 500 \u03bcm/m )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1746111477/strapiDev/vt1_datasheet_en_abd381bef5.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1716960090/strapiDev/VT_1_XT_50_Extensometer_user_manual_en_d1b653f2da.pdf",
+          "text": "Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1746111477/strapiDev/vt1_datasheet_en_abd381bef5.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/force-sensors/extensometers/xt-50",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "XT50 Extensometer ( 500 \u03bcm/m )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1738169696/strapiDev/xt50_datasheet_en_a0eac43445.pdf",
+          "text": "Datasheet (Analogue)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1771514495/strapiDev/xt50_can_datasheet_en_a441ba461b.pdf",
+          "text": "Datasheet (CANbus)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1716960090/strapiDev/VT_1_XT_50_Extensometer_user_manual_en_d1b653f2da.pdf",
+          "text": "Manual"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1780992587/strapiDev/CA_Nopen_manual_en_9c76f20dcc.pdf",
+          "text": "CANopen Manual"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1780992586/strapiDev/J1939_manual_en_545901d43d.pdf",
+          "text": "J1939 Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1738169696/strapiDev/xt50_datasheet_en_a0eac43445.pdf",
+          "text": "Datasheet (Analogue)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1771514495/strapiDev/xt50_can_datasheet_en_a441ba461b.pdf",
+          "text": "Datasheet (CANbus)"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/force-sensors/miniature/ap5",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "AP5 low profile force sensor ( 1 - 10kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853446/strapiDev/ap5_datasheet_en_3844f9185e.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853446/strapiDev/ap5_datasheet_en_3844f9185e.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/force-sensors/miniature/ap8",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "AP8 low profile force sensor ( 1kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853442/strapiDev/ap8_datasheet_en_b26ef58e1b.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853442/strapiDev/ap8_datasheet_en_b26ef58e1b.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/force-sensors/miniature/isa",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "ISA S-Beam Force Sensor ( 1 - 10lb )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853853/strapiDev/isa_datasheet_en_63e59c8506.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853853/strapiDev/isa_datasheet_en_63e59c8506.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/force-sensors/miniature/isb",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "ISB S-Beam Force Sensor ( 25 - 100lb )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1770295681/strapiDev/isb_datasheet_en_f4cf4a2e53.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1770295681/strapiDev/isb_datasheet_en_f4cf4a2e53.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/force-sensors/miniature/jf1",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "JF1 Press Force Sensor ( 2 - 100kN )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853875/strapiDev/jf1_datasheet_en_088a5d4ef1.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853875/strapiDev/jf1_datasheet_en_088a5d4ef1.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/force-sensors/miniature/mba",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "MBA Button Force Sensor ( 100lb - 50klb )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853930/strapiDev/mba_datasheet_en_92765de54d.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853930/strapiDev/mba_datasheet_en_92765de54d.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/force-sensors/miniature/mba-tw",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "MBA-TW Button Force Sensor ( 25 - 50lb )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853924/strapiDev/mba_tw_datasheet_en_44d800a24a.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853924/strapiDev/mba_tw_datasheet_en_44d800a24a.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/force-sensors/miniature/mbc",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "MBC Through-Hole Force Sensor ( 100lb - 50klb )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1764260456/strapiDev/mbc_datasheet_en_ee1c9c7776.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1764260456/strapiDev/mbc_datasheet_en_ee1c9c7776.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/force-sensors/miniature/mbd2",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "MBD2 Through-Hole Force Sensor ( 10 - 30,000lb )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853920/strapiDev/mbd2_datasheet_en_5680a5a572.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853920/strapiDev/mbd2_datasheet_en_5680a5a572.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/force-sensors/miniature/mc1",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "MC1 Miniature Beam Load Cell ( 5lb - 250lb )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1726221251/strapiDev/mc1_datasheet_en_5323452214.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1726221251/strapiDev/mc1_datasheet_en_5323452214.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/force-sensors/miniature/mc4",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "MC4 Miniature Beam Load Cell ( 5lb & 10lb )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1726231432/strapiDev/mc4_datasheet_en_b632428d66.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1726231432/strapiDev/mc4_datasheet_en_b632428d66.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/force-sensors/miniature/mc5",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "MC5 Miniature Beam Load Cell ( 5lb )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1772727416/strapiDev/mc5_datasheet_en_50d7c3b853.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1772727416/strapiDev/mc5_datasheet_en_50d7c3b853.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/force-sensors/miniature/mht1",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "MHT1 compression force transducer ( 1 - 200kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1728575483/strapiDev/mht1_datasheet_en_5656d8bf26.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1728575483/strapiDev/mht1_datasheet_en_5656d8bf26.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/force-sensors/miniature/mht2",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "MHT2 Compression Force Sensor ( 500 - 5,000kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1712830781/strapiDev/mht2_datasheet_en_4910615c1a.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1712830781/strapiDev/mht2_datasheet_en_4910615c1a.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/force-sensors/miniature/mk",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "MK Button Force Sensor ( 100N - 150kN )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1717602499/strapiDev/mk_datasheet_en_10af762bd2.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1717602499/strapiDev/mk_datasheet_en_10af762bd2.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/force-sensors/miniature/msa",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "MSA subminiature load button ( 25lbf - 1000lbf )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1719327615/strapiDev/msa_datasheet_en_11e6cb84e7.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1719327615/strapiDev/msa_datasheet_en_11e6cb84e7.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/force-sensors/miniature/q1",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "Q1 Smart Low Profile Force Sensor ( 200 - 5000N )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853572/strapiDev/q1_datasheet_en_6d94606085.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853572/strapiDev/q1_datasheet_en_6d94606085.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/force-sensors/miniature/y1",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "Y1 In-Line Threaded Force Sensor ( 50 - 5,000N )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853376/strapiDev/y1_datasheet_en_35f400c8a2.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853376/strapiDev/y1_datasheet_en_35f400c8a2.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/force-sensors/miniature/y2",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "Y2 In-Line Threaded Force Sensor ( 10kN - 50kN )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853369/strapiDev/y2_datasheet_en_eb4dfbddbd.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853369/strapiDev/y2_datasheet_en_eb4dfbddbd.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/beam/bk2",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "BK2 Beam Load Cell ( 200 - 2,000kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853456/strapiDev/bk2_datasheet_en_0c3c3683bf.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853448/strapiDev/bk2_beam_cert_oiml_cecf169c87.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1761841791/strapiDev/bk2_beam_cert_ntep_0cdbef9fa8.pdf",
+          "text": "NTEP Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853456/strapiDev/bk2_datasheet_en_0c3c3683bf.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/beam/desb-15",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "DESB-15 Beam Load Cell ( 15klb )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1726236161/strapiDev/desb_datasheet_en_0c3befedf3.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1726236161/strapiDev/desb_datasheet_en_0c3befedf3.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/beam/desb-26",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "DESB-26 Beam Load Cell ( 12.5klb )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1726236161/strapiDev/desb_datasheet_en_0c3befedf3.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1726236161/strapiDev/desb_datasheet_en_0c3befedf3.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/beam/dsb7",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "DSB7 Beam Load Cell ( 2t, 7.5t, 15t & 25t )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1721138888/strapiDev/dsb7_datasheet_en_42474c9a37.pdf",
+          "text": "Datasheet (Analogue)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1771505031/strapiDev/dsb7_2t_7_5t_can_datasheet_en_e8c8342aa0.pdf",
+          "text": "Datasheet 2t - 7.5t (CANbus)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1771505082/strapiDev/dsb7_15t_25t_can_datasheet_en_d330327b76.pdf",
+          "text": "Datasheet 15t - 25t (CANbus)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1780992587/strapiDev/CA_Nopen_manual_en_9c76f20dcc.pdf",
+          "text": "CANopen Manual DSB7 2t - 7.5t"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1784128082/strapiDev/CED_10_CA_Nopen_manual_en_fd37bd4ec0.pdf",
+          "text": "CANopen Manual DSB7 15t - 25t"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1780992586/strapiDev/J1939_manual_en_545901d43d.pdf",
+          "text": "J1939 Manual DSB7 2t - 7.5t"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1784128082/strapiDev/CED_10_J1939_manual_en_7db0e3acb8.pdf",
+          "text": "J1939 Manual DSB7 15t - 25t"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1721138888/strapiDev/dsb7_datasheet_en_42474c9a37.pdf",
+          "text": "Datasheet (Analogue)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1771505031/strapiDev/dsb7_2t_7_5t_can_datasheet_en_e8c8342aa0.pdf",
+          "text": "Datasheet 2t - 7.5t (CANbus)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1771505082/strapiDev/dsb7_15t_25t_can_datasheet_en_d330327b76.pdf",
+          "text": "Datasheet 15t - 25t (CANbus)"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/beam/sb14",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "SB14 Beam Load Cell ( 227 - 4,536kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853445/strapiDev/sb14_datasheet_en_6fda5a000b.pdf",
+          "text": "Datasheet (Analogue)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1771501228/strapiDev/sb14_can_datasheet_en_41c21d3423.pdf",
+          "text": "Datasheet (CANbus)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853455/strapiDev/sb14_beam_cert_oiml_ed5c362635.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1761842547/strapiDev/sb14_beam_cert_ntep_a670906a03.pdf",
+          "text": "NTEP Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1780992587/strapiDev/CA_Nopen_manual_en_9c76f20dcc.pdf",
+          "text": "CANopen Manual"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1780992586/strapiDev/J1939_manual_en_545901d43d.pdf",
+          "text": "J1939 Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853445/strapiDev/sb14_datasheet_en_6fda5a000b.pdf",
+          "text": "Datasheet (Analogue)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1771501228/strapiDev/sb14_can_datasheet_en_41c21d3423.pdf",
+          "text": "Datasheet (CANbus)"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/beam/sb2",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "SB2 Beam Load Cell ( 20.4t & 45.4t )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1746109787/strapiDev/sb2_datasheet_en_6b57897a4b.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853504/strapiDev/sb2_beam_cert_oiml_03f61786b1.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853844/strapiDev/iecex_certificate_2015_94d3c5aaa3.pdf",
+          "text": "IECEx Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1746109787/strapiDev/sb2_datasheet_en_6b57897a4b.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/beam/sb4",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "SB4 Beam Load Cell ( 510 - 10,197kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1738163688/strapiDev/sb4_datasheet_en_c859d59bf4.pdf",
+          "text": "Datasheet (Analogue)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1771503427/strapiDev/sb4_can_datasheet_en_3a748910cb.pdf",
+          "text": "Datasheet (CANbus)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853500/strapiDev/sb4_beam_cert_oiml_d611316cdf.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1784296852/strapiDev/SB_4_beam_cert_oiml_r60_6024acd99a.pdf",
+          "text": "OIML R60 Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1761842140/strapiDev/sb4_beam_cert_ntep_1d6dc73866.pdf",
+          "text": "NTEP Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1780992587/strapiDev/CA_Nopen_manual_en_9c76f20dcc.pdf",
+          "text": "CANopen Manual"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1780992586/strapiDev/J1939_manual_en_545901d43d.pdf",
+          "text": "J1939 Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1738163688/strapiDev/sb4_datasheet_en_c859d59bf4.pdf",
+          "text": "Datasheet (Analogue)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1771503427/strapiDev/sb4_can_datasheet_en_3a748910cb.pdf",
+          "text": "Datasheet (CANbus)"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/beam/sb5",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "SB5 Beam Load Cell ( 510 - 10,197kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1738163703/strapiDev/sb5_datasheet_en_988959cf0d.pdf",
+          "text": "Datasheet (Analogue)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1771504170/strapiDev/sb5_can_datasheet_en_27f94a9651.pdf",
+          "text": "Datasheet (CANbus)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853494/strapiDev/sb5_beam_cert_oiml_ad1757b032.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1761842373/strapiDev/sb5_beam_cert_ntep_8f66e14f89.pdf",
+          "text": "NTEP Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1780992587/strapiDev/CA_Nopen_manual_en_9c76f20dcc.pdf",
+          "text": "CANopen Manual"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1780992586/strapiDev/J1939_manual_en_545901d43d.pdf",
+          "text": "J1939 Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1738163703/strapiDev/sb5_datasheet_en_988959cf0d.pdf",
+          "text": "Datasheet (Analogue)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1771504170/strapiDev/sb5_can_datasheet_en_27f94a9651.pdf",
+          "text": "Datasheet (CANbus)"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/beam/sb6",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "SB6 Beam Load Cell ( 20 - 204kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1738163716/strapiDev/sb6_datasheet_en_cee7d41424.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853488/strapiDev/sb6_beam_cert_oiml_3a79b19c92.pdf",
+          "text": "OIML Certificate PTB"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853468/strapiDev/SB_6_OIML_NMI_5632363ace.pdf",
+          "text": "OIML Certificate NMI"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1738163716/strapiDev/sb6_datasheet_en_cee7d41424.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/beam/sb8",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "SB8 Beam Load Cell ( 10 - 500kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853461/strapiDev/sb8_datasheet_en_605db87cff.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853465/strapiDev/SB_8_beam_cert_ntep_8f2cb40662.pdf",
+          "text": "NTEP Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853466/strapiDev/sb8_beam_cert_oiml_385b567fdc.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853461/strapiDev/sb8_datasheet_en_605db87cff.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/beam/sb9",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "SB9 Beam Load Cell ( 250 - 2,000kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1719315400/strapiDev/sb9_datasheet_en_5af009123e.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853463/strapiDev/sb9_beam_cert_oiml_d75f13be46.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1719315400/strapiDev/sb9_datasheet_en_5af009123e.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/beam/sbt",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "SBT Beam Load Cell ( 10,000kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853438/strapiDev/sbt_metric_datasheet_en_fac33efdc6.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853448/strapiDev/sbt_b_datasheet_en_a78012b8af.pdf",
+          "text": "Datasheet (SBT-B)"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853438/strapiDev/sbt_metric_datasheet_en_fac33efdc6.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853448/strapiDev/sbt_b_datasheet_en_a78012b8af.pdf",
+          "text": "Datasheet (SBT-B)"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/beam/slb",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "SLB Beam Load Cell ( 91 - 2,268kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853432/strapiDev/slb_datasheet_en_d6e504d28a.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853441/strapiDev/slb_beam_cert_oiml_fb82b45c37.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1761842435/strapiDev/slb_beam_cert_ntep_a946df5e0e.pdf",
+          "text": "NTEP Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853432/strapiDev/slb_datasheet_en_d6e504d28a.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/beam/ssb5",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "SSB5 beam load cell ( 8,000kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1778856507/strapiDev/ssb5_datasheet_en_44120d30ad.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1778856507/strapiDev/ssb5_datasheet_en_44120d30ad.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/beam/ssb7",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "SSB7 beam load cell ( 8,000 - 12,000kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1778856644/strapiDev/ssb7_datasheet_en_f2b9cf5e14.pdf",
+          "text": "Datasheet (Analogue)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1778856808/strapiDev/ssb7_can_datasheet_en_ff5bc9d77c.pdf",
+          "text": "Datasheet (CANbus)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1741965635/strapiDev/SSB_7_beam_cert_oiml_92b918dd26.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1765792857/strapiDev/SSB_7_beam_manual_en_de4782f0e7.pdf",
+          "text": "Manual"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1780992587/strapiDev/CA_Nopen_manual_en_9c76f20dcc.pdf",
+          "text": "CANopen Manual"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1780992586/strapiDev/J1939_manual_en_545901d43d.pdf",
+          "text": "J1939 Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1778856644/strapiDev/ssb7_datasheet_en_f2b9cf5e14.pdf",
+          "text": "Datasheet (Analogue)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1778856808/strapiDev/ssb7_can_datasheet_en_ff5bc9d77c.pdf",
+          "text": "Datasheet (CANbus)"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/compression/cc-pro",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "CC PRO Wireless Load Cell ( 30klb & 50klb )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1753889903/strapiDev/cc_pro_datasheet_en_344db7d2df.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1744895132/strapiDev/CC_PRO_manual_c22501257a.pdf",
+          "text": "Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1753889903/strapiDev/cc_pro_datasheet_en_344db7d2df.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/compression/cc-pro-a",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "CC PRO-A Wireless Load Cell ( 30klb & 50klb )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1753889932/strapiDev/cc_pro_a_datasheet_en_36665007b9.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1744895132/strapiDev/CC_PRO_A_manual_623b117388.pdf",
+          "text": "Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1753889932/strapiDev/cc_pro_a_datasheet_en_36665007b9.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/compression/cc1",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "CC1 Compression Load Cell ( 30K lbs & 50K lbs )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1712328177/strapiDev/cc1_datasheet_en_1_2_3_d56d912d68.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853480/strapiDev/cc1_compression_brochure_us_web_1_0_0_ca5fcedf0e.pdf",
+          "text": "Brochure"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853462/strapiDev/CC_1_manual_EN_46aee2a102.pdf",
+          "text": "Manual"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853396/strapiDev/UL_Certificate_cc1_cc3_cc1w_ccwr_1416923f0b.pdf",
+          "text": "UL Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853462/strapiDev/CC_1_CC_1_T_OIML_Certificate_NMI_R60_2000_NL_1_16_35_14fdf9d5b6.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853486/strapiDev/C_Cx_compression_cert_IEC_Ex_1a3c03e047.pdf",
+          "text": "IECEx certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853483/strapiDev/C_Cx_compression_cert_ATEX_7b2520aa9b.pdf",
+          "text": "ATEX Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853487/strapiDev/CE_Declaration_of_Conformity_C_Cx_family_95edff825b.pdf",
+          "text": "CE Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1712328177/strapiDev/cc1_datasheet_en_1_2_3_d56d912d68.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/compression/cc1w",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "CC1W Wireless Load Cell ( 30klb & 50klb )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853470/strapiDev/cc1w_datasheet_en_bc0e3ec623.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853474/strapiDev/CC_1_W_manual_EN_68e8b64187.pdf",
+          "text": "Manual"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853396/strapiDev/UL_Certificate_cc1_cc3_cc1w_ccwr_1416923f0b.pdf",
+          "text": "UL Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853483/strapiDev/C_Cx_compression_cert_ATEX_7b2520aa9b.pdf",
+          "text": "ATEX Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853486/strapiDev/C_Cx_compression_cert_IEC_Ex_1a3c03e047.pdf",
+          "text": "IECEx Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853487/strapiDev/CE_Declaration_of_Conformity_C_Cx_family_95edff825b.pdf",
+          "text": "CE Certificate"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853470/strapiDev/cc1w_datasheet_en_bc0e3ec623.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/compression/cc3",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "CC3 Pump off Control Load Cell ( 30klb & 50klb )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853480/strapiDev/cc3_datasheet_en_a58bd47b80.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853480/strapiDev/CC_3_manual_EN_fc06a6a7c3.pdf",
+          "text": "Manual"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853396/strapiDev/UL_Certificate_cc1_cc3_cc1w_ccwr_1416923f0b.pdf",
+          "text": "UL Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853486/strapiDev/C_Cx_compression_cert_IEC_Ex_1a3c03e047.pdf",
+          "text": "IECEx Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853483/strapiDev/C_Cx_compression_cert_ATEX_7b2520aa9b.pdf",
+          "text": "ATEX Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853487/strapiDev/CE_Declaration_of_Conformity_C_Cx_family_95edff825b.pdf",
+          "text": "CE Certificate"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853480/strapiDev/cc3_datasheet_en_a58bd47b80.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/compression/ccwr",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "CCWR Retrofit Wireless Kit",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853487/strapiDev/ccwr_datasheet_en_b9e18336df.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853488/strapiDev/CCWR_manual_EN_c4cd2ba39c.pdf",
+          "text": "Manual"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853396/strapiDev/UL_Certificate_cc1_cc3_cc1w_ccwr_1416923f0b.pdf",
+          "text": "UL Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853483/strapiDev/C_Cx_compression_cert_ATEX_7b2520aa9b.pdf",
+          "text": "ATEX Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853486/strapiDev/C_Cx_compression_cert_IEC_Ex_1a3c03e047.pdf",
+          "text": "IECEx Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853487/strapiDev/CE_Declaration_of_Conformity_C_Cx_family_95edff825b.pdf",
+          "text": "CE Certificate"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853487/strapiDev/ccwr_datasheet_en_b9e18336df.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/compression/cn3",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "CN3 Bending Ring Load Cell ( 0.5 - 50t )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1768812233/strapiDev/cn3_datasheet_en_3b1a451acd.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853493/strapiDev/CN_3_compression_NTEP_64c3cba92d.pdf",
+          "text": "NTEP"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853498/strapiDev/CN_3_compression_OIML_3ea5bdff3e.pdf",
+          "text": "OIML"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1768812233/strapiDev/cn3_datasheet_en_3b1a451acd.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/compression/q50",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "Q50 Compression Load Cell ( 0.5 - 30t )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1770219929/strapiDev/q50_datasheet_en_9c1dfa2f93.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1770219929/strapiDev/q50_datasheet_en_9c1dfa2f93.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/compression/rc1",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "RC1 Compression Load Cell ( 25.5t - 91.8t )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853540/strapiDev/rc1_datasheet_en_193cee4837.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853543/strapiDev/rc1_compression_cert_oiml_4aaf59daea.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1761842318/strapiDev/rc1_compression_cert_ntep_3a5a6594f1.pdf",
+          "text": "NTEP Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853540/strapiDev/rc1_datasheet_en_193cee4837.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/compression/rc3",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "RC3 Compression Load Cell ( 7.5t - 300t )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1770220772/strapiDev/rc3_datasheet_en_1a904303e9.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1770220772/strapiDev/rc3_datasheet_en_1a904303e9.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/compression/rc3d-ng",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "RC3D Compression Load Cell ( 30t - 50t )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1757335139/strapiDev/rc3d_datasheet_en_f029c1ef13.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1759829994/strapiDev/rc3d_gen2_compression_cert_ntep_00bfbf5463.pdf",
+          "text": "NTEP Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853554/strapiDev/Quick_Guide_RC_3_D_FT_11x_Rev1_3_0_8b04bd72d9.pdf",
+          "text": "RC3D & FT11xD Quick Guide"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1757335139/strapiDev/rc3d_datasheet_en_f029c1ef13.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/planar/pb",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "PB Planar Beam Load Cell ( 3.75 - 375kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1710420650/strapiDev/pb_datasheet_en_efcf1a647b.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853838/strapiDev/pb_planar_cert_oiml_f1710f63ee.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853836/strapiDev/PB_Tension_NTEP_0df6c52ca9.pdf",
+          "text": "NTEP Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1710420650/strapiDev/pb_datasheet_en_efcf1a647b.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/planar/pbw",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "PBW Planar Beam Load Cell ( 5.7 - 150kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1710420494/strapiDev/pbw_datasheet_en_03022dcef5.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853826/strapiDev/pbw_planar_cert_oiml_6fd596d62a.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853822/strapiDev/PBW_Tension_NTEP_cda26c6720.pdf",
+          "text": "NTEP Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1710420494/strapiDev/pbw_datasheet_en_03022dcef5.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/planar/wpm",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "WPM Planar Beam Load Cell ( 17kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1773758708/strapiDev/wpm_datasheet_en_59f98cceba.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1773758708/strapiDev/wpm_datasheet_en_59f98cceba.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/planar/zlb",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "ZLB Planar Beam Load Cell ( 20 - 200kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853367/strapiDev/zlb_datasheet_en_c7c8034838.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853363/strapiDev/zlb_planar_cert_oiml_cc84e7d2f8.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853844/strapiDev/iecex_certificate_2015_94d3c5aaa3.pdf",
+          "text": "IECEx Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853367/strapiDev/zlb_datasheet_en_c7c8034838.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/planar/zls",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "ZLS Planar Beam Load Cell ( 20 - 200kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1712328248/strapiDev/zls_datasheet_en_984bfb1eba.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1712328248/strapiDev/zls_datasheet_en_984bfb1eba.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/single-point/pa1",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "PA1 Miniature Single Point Load Cell ( 300g - 20,000g )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853851/strapiDev/pa1_datasheet_en_49f6b3c797.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853851/strapiDev/pa1_datasheet_en_49f6b3c797.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/single-point/pa2",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "PA2 Miniature Single Point Load Cell ( 1,000 - 5,000g )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853849/strapiDev/pa2_datasheet_en_c284053cae.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853849/strapiDev/pa2_datasheet_en_c284053cae.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/single-point/pa3",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "PA3 Miniature Single Point Load Cell ( 300 - 5,000g )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853843/strapiDev/pa3_datasheet_en_3ab4300378.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853843/strapiDev/pa3_datasheet_en_3ab4300378.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/single-point/pc1",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "PC1 Single Point Load Cell ( 7.5 - 200kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853821/strapiDev/pc1_datasheet_en_35efd0efb9.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853818/strapiDev/pc1_single_point_cert_oiml_68fdc2912a.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1784296851/strapiDev/PC_1_single_point_cert_oiml_r60_d423d6a35b.pdf",
+          "text": "OIML R60 Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1761842609/strapiDev/pc1_single_point_cert_ntep_dd690561c3.pdf",
+          "text": "NTEP Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853821/strapiDev/pc1_datasheet_en_35efd0efb9.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/single-point/pc12",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "PC12 Single Point Load Cell ( 20kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853672/strapiDev/pc12_datasheet_en_5fe2db1748.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853681/strapiDev/pc12_single_point_cert_oiml_f427e6f396.pdf",
+          "text": "OIML Certificate"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853672/strapiDev/pc12_datasheet_en_5fe2db1748.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/single-point/pc2",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "PC2 Single Point Load Cell ( 20 - 150kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853808/strapiDev/pc2_datasheet_en_acec648d3d.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853808/strapiDev/pc2_datasheet_en_acec648d3d.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/single-point/pc22",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "PC22 Single Point Load Cell ( 5 - 40kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853661/strapiDev/pc22_datasheet_en_0f5eafcb6c.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853667/strapiDev/pc22_single_point_cert_oiml_dec5fb0d47.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1784296851/strapiDev/PC_22_single_point_cert_oiml_r60_558763eea2.pdf",
+          "text": "OIML R60 Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853661/strapiDev/pc22_datasheet_en_0f5eafcb6c.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/single-point/pc2h",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "PC2H Single Point Load Cell ( 2,000kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1746105906/strapiDev/pc2h_datasheet_en_575700e1ae.pdf",
+          "text": "Datasheet (Analogue)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1771508316/strapiDev/pc2h_can_datasheet_en_5871fe4a91.pdf",
+          "text": "Datasheet (CANbus)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853806/strapiDev/pc2h_single_point_cert_oiml_73951022ab.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1784296851/strapiDev/PC_2_H_single_point_cert_oiml_r60_bbe9478218.pdf",
+          "text": "OIML R60 Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853844/strapiDev/iecex_certificate_2015_94d3c5aaa3.pdf",
+          "text": "IECEx Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1784128082/strapiDev/CED_10_CA_Nopen_manual_en_fd37bd4ec0.pdf",
+          "text": "CANopen Manual"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1784128082/strapiDev/CED_10_J1939_manual_en_7db0e3acb8.pdf",
+          "text": "J1939 Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1746105906/strapiDev/pc2h_datasheet_en_575700e1ae.pdf",
+          "text": "Datasheet (Analogue)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1771508316/strapiDev/pc2h_can_datasheet_en_5871fe4a91.pdf",
+          "text": "Datasheet (CANbus)"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/single-point/pc3",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "PC3 single-point load cell ( 7 - 150kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1746108402/strapiDev/pc3_datasheet_en_d9184d9848.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853789/strapiDev/PC_3_OIML_64c0f40506.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853791/strapiDev/PC_3_NTEP_20484ee5aa.pdf",
+          "text": "NTEP Certificate"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1746108402/strapiDev/pc3_datasheet_en_d9184d9848.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/single-point/pc30",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "PC30 Single Point Load Cell ( 7 - 100kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1746109379/strapiDev/pc30_datasheet_en_7912dbf764.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853640/strapiDev/pc30_single_point_cert_oiml_78ba49076f.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853644/strapiDev/pc30_single_point_cert_oiml_7_35kg_96b451eb80.pdf",
+          "text": "OIML Certificate 7 - 35kg"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853647/strapiDev/pc30_single_point_cert_ntep_8d0d9bfbad.pdf",
+          "text": "NTEP Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1746109379/strapiDev/pc30_datasheet_en_7912dbf764.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/single-point/pc3h",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "PC3H Single Point Load Cell ( 5,000kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853783/strapiDev/pc3h_welded_datasheet_en_3caf16366f.pdf",
+          "text": "Datasheet (Analogue)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1771509065/strapiDev/pc3h_can_datasheet_en_11eca618eb.pdf",
+          "text": "Datasheet (CANbus)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853779/strapiDev/pc3h_single_point_cert_oiml_c3e741cbe5.pdf",
+          "text": "OIML Certification"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853779/strapiDev/pc3h_single_point_cert_ntep_f0a9138a01.pdf",
+          "text": "NTEP Certification"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1780992587/strapiDev/CA_Nopen_manual_en_9c76f20dcc.pdf",
+          "text": "CANopen Manual"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1780992586/strapiDev/J1939_manual_en_545901d43d.pdf",
+          "text": "J1939 Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853783/strapiDev/pc3h_welded_datasheet_en_3caf16366f.pdf",
+          "text": "Datasheet (Analogue)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1771509065/strapiDev/pc3h_can_datasheet_en_11eca618eb.pdf",
+          "text": "Datasheet (CANbus)"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/single-point/pc4",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "PC4 single-point load cell ( 10 - 100kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1772190127/strapiDev/pc4_datasheet_en_b6c5dea5e0.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1739365050/strapiDev/pc4_single_point_cert_oiml_a431787381.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1739365073/strapiDev/pc4_single_point_cert_ntep_9c9bd7e52c.pdf",
+          "text": "NTEP Certificate"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1772190127/strapiDev/pc4_datasheet_en_b6c5dea5e0.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/single-point/pc42",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "PC42 Single Point Load Cell ( 5 - 200kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853638/strapiDev/pc42_datasheet_en_8438088b48.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853638/strapiDev/pc42_single_point_cert_oiml_83eaedaebc.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1784296851/strapiDev/PC_42_single_point_cert_oiml_r60_a2fe063e5c.pdf",
+          "text": "OIML R60 Certificate"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853638/strapiDev/pc42_datasheet_en_8438088b48.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/single-point/pc46",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "PC46 Single Point Load Cell ( 50 - 250kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853632/strapiDev/pc46_datasheet_en_fc2b252a46.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853631/strapiDev/pc46_single_point_cert_oiml_afb6815f59.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1784296851/strapiDev/PC_46_single_point_cert_oiml_r60_af20664281.pdf",
+          "text": "OIML R60 Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853632/strapiDev/pc46_datasheet_en_fc2b252a46.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/single-point/pc52",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "PC52 Single Point Load Cell ( 100 - 200kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1767618359/strapiDev/pc52_datasheet_en_fdc19979c6.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1767618359/strapiDev/pc52_datasheet_en_fdc19979c6.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/single-point/pc5h",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "PC5H Single Point Load Cell ( 2,000kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853771/strapiDev/pc5h_datasheet_en_59a17e48df.pdf",
+          "text": "Datasheet (Analogue)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1771509848/strapiDev/pc5h_can_datasheet_en_b0302080f9.pdf",
+          "text": "Datasheet (CANbus)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853769/strapiDev/pc5h_single_point_cert_oiml_66ec570a52.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853767/strapiDev/pc5h_single_point_cert_ntep_ef92939fc8.pdf",
+          "text": "NTEP Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853765/strapiDev/pc5h_test_certificate_7ec1faf5f6.pdf",
+          "text": "Test Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1780992587/strapiDev/CA_Nopen_manual_en_9c76f20dcc.pdf",
+          "text": "CANopen Manual"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1780992586/strapiDev/J1939_manual_en_545901d43d.pdf",
+          "text": "J1939 Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853771/strapiDev/pc5h_datasheet_en_59a17e48df.pdf",
+          "text": "Datasheet (Analogue)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1771509848/strapiDev/pc5h_can_datasheet_en_b0302080f9.pdf",
+          "text": "Datasheet (CANbus)"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/single-point/pc6",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "PC6 Single Point Load Cell ( 10 - 200kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1738163643/strapiDev/pc6_datasheet_en_fcfee065b3.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853756/strapiDev/pc6_single_point_cert_oiml_3c76b10a5f.pdf",
+          "text": "National OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1778676927/strapiDev/pc6_single_point_cert_oiml_r60_858e2d4deb.pdf",
+          "text": "OIML R60 Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1761841868/strapiDev/pc6_single_point_cert_ntep_483e71a742.pdf",
+          "text": "NTEP Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1738163643/strapiDev/pc6_datasheet_en_fcfee065b3.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/single-point/pc60",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "PC60 Single Point Load Cell ( 30kg - 750kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853626/strapiDev/pc60_datasheet_en_3773f72b0c.pdf",
+          "text": "Datasheet (Analogue)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1771502492/strapiDev/pc60_can_datasheet_en_4c77ce807c.pdf",
+          "text": "Datasheet (CANbus)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853628/strapiDev/pc60_single_point_cert_oiml_9b105ea6f5.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1784296851/strapiDev/PC_60_single_point_cert_oiml_r60_9e2bf85845.pdf",
+          "text": "OIML R60 Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853626/strapiDev/pc60_datasheet_en_3773f72b0c.pdf",
+          "text": "Datasheet (Analogue)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1771502492/strapiDev/pc60_can_datasheet_en_4c77ce807c.pdf",
+          "text": "Datasheet (CANbus)"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/single-point/pc6h",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "PC6H Single Point Load Cell ( 2,000kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853719/strapiDev/pc6h_datasheet_en_3575e77c1a.pdf",
+          "text": "Datasheet (Analogue)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1771510756/strapiDev/pc6h_can_datasheet_en_d0cd880800.pdf",
+          "text": "Datasheet (CANbus)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853551/strapiDev/R60_2000_NL_1_16_21_ec0c1f5871.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853705/strapiDev/pc6h_single_point_cert_ntep_c37439f95a.pdf",
+          "text": "NTEP Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1780992587/strapiDev/CA_Nopen_manual_en_9c76f20dcc.pdf",
+          "text": "CANopen Manual"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1780992586/strapiDev/J1939_manual_en_545901d43d.pdf",
+          "text": "J1939 Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853719/strapiDev/pc6h_datasheet_en_3575e77c1a.pdf",
+          "text": "Datasheet (Analogue)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1771510756/strapiDev/pc6h_can_datasheet_en_d0cd880800.pdf",
+          "text": "Datasheet (CANbus)"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/single-point/pc7",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "PC7 Single Point Load Cell ( 100kg, 250kg & 500kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1710419951/strapiDev/pc7_datasheet_en_20e29fb44f.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853689/strapiDev/pc7_single_point_cert_ntep_e5eebfa96e.pdf",
+          "text": "NTEP Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853689/strapiDev/pc7_single_point_cert_oiml_8381b1aeb9.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1710419951/strapiDev/pc7_datasheet_en_20e29fb44f.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/single-point/pc7h",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "PC7H Single Point Load Cell ( 1,000kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853680/strapiDev/pc7h_datasheet_en_ebe2abedd1.pdf",
+          "text": "Datasheet (Analogue)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1771513444/strapiDev/pc7h_can_datasheet_en_3532d04e16.pdf",
+          "text": "Datasheet (CANbus)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853857/strapiDev/ntep_PC_7_H_c3d8254185.pdf",
+          "text": "NTEP"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853857/strapiDev/oiml_PC_7_H_0046af6898.pdf",
+          "text": "OIML"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1780992587/strapiDev/CA_Nopen_manual_en_9c76f20dcc.pdf",
+          "text": "CANopen Manual"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1780992586/strapiDev/J1939_manual_en_545901d43d.pdf",
+          "text": "J1939 Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853680/strapiDev/pc7h_datasheet_en_ebe2abedd1.pdf",
+          "text": "Datasheet (Analogue)"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1771513444/strapiDev/pc7h_can_datasheet_en_3532d04e16.pdf",
+          "text": "Datasheet (CANbus)"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/single-point/pc81",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "PC81 Single Point Load Cell ( 2,000kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853613/strapiDev/pc81_datasheet_en_4a3162f84e.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853613/strapiDev/pc81_datasheet_en_4a3162f84e.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/single-point/pcb",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "PCB Single Point Load Cell ( 50 - 1,000kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1713431725/strapiDev/pcb_datasheet_en_3c9639ab15.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853602/strapiDev/pcb_single_point_cert_oiml_5534995b51.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1761841712/strapiDev/pcb_single_point_cert_ntep_47329190cb.pdf",
+          "text": "NTEP Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1713431725/strapiDev/pcb_datasheet_en_3c9639ab15.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/single-point/sb61c",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "SB61C Single Point Load Cell ( 50kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853444/strapiDev/sb61c_datasheet_en_47b426bb26.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853444/strapiDev/sb61c_datasheet_en_47b426bb26.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/tension/ub1",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "UB1 Tension Load Cell ( 1,000 - 10,000kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853407/strapiDev/ub1_datasheet_en_296b721ff0.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853402/strapiDev/ub1_tension_cert_oiml_d597e749ae.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853404/strapiDev/ub1_tension_cert_ntep_7de5d23dbd.pdf",
+          "text": "NTEP Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853407/strapiDev/ub1_datasheet_en_296b721ff0.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/tension/ub6",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "UB6 Tension Load Cell ( 75 - 500kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853403/strapiDev/ub6_datasheet_en_c3ef6f9cf2.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853398/strapiDev/ub6_tension_cert_oiml_3042eff498.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853402/strapiDev/ub6_75kg_tension_oiml_1_1206187907.pdf",
+          "text": "OIML Certificate 75kg"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853398/strapiDev/ub6_tension_cert_ntep_4605caa598.pdf",
+          "text": "NTEP Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853403/strapiDev/ub6_75kg_tension_NTEP_b9ca436535.pdf",
+          "text": "NTEP Certificate 75kg"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853403/strapiDev/ub6_datasheet_en_c3ef6f9cf2.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/tension/ulb",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "ULB Tension Load Cell ( 100 - 5,000kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853394/strapiDev/ulb_datasheet_en_751f671b6a.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853394/strapiDev/ulb_tension_cert_oiml_cdde0c2a25.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1784296851/strapiDev/ULB_tension_cert_oiml_r60_0f5c644ad9.pdf",
+          "text": "OIML R60 Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1761842078/strapiDev/ulb_tension_cert_ntep_4718d1bc6f.pdf",
+          "text": "NTEP Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853688/strapiDev/FM_Operation_Manual_eb3937d8f8.pdf",
+          "text": "FM Manual"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853394/strapiDev/ulb_datasheet_en_751f671b6a.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/tension/ut4",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "UT4 Load Cell ( 200lb - 1,000lb )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1778856436/strapiDev/ut4_datasheet_en_82c510810c.pdf",
+          "text": "Datasheet"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1778856436/strapiDev/ut4_datasheet_en_82c510810c.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    },
+    {
+      "url": "https://www.flintec.com/weight-sensors/load-cells/tension/uxt",
+      "status": "ok",
+      "httpStatus": 200,
+      "title": "UXT Tension Load Cell ( 50 - 7,500kg )",
+      "pdfLinks": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1772796761/strapiDev/uxt_datasheet_en_b5a6784cbc.pdf",
+          "text": "Datasheet"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853384/strapiDev/uxt_tension_cert_oiml_88142a4c46.pdf",
+          "text": "OIML Certificate"
+        },
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1705853388/strapiDev/uxt_tension_cert_ntep_6dd61d6637.pdf",
+          "text": "NTEP Certificate"
+        }
+      ],
+      "selectedEnglishDatasheets": [
+        {
+          "url": "https://res.cloudinary.com/flintec/image/upload/v1772796761/strapiDev/uxt_datasheet_en_b5a6784cbc.pdf",
+          "text": "Datasheet"
+        }
+      ]
+    }
+  ]
+}

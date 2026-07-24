@@ -1,0 +1,57 @@
+{
+  "sourcePages": [
+    "https://www.pcb.com/sensors-for-test-measurement/force-sensors",
+    "https://www.pcb.com/sensors-for-test-measurement/load-cells"
+  ],
+  "harvestedAt": "2026-07-24T16:40:09.882644+00:00",
+  "documents": [
+    {
+      "sourcePage": "https://www.pcb.com/sensors-for-test-measurement/force-sensors",
+      "url": "https://www.pcb.com/contentstore/MktgContent/WhitePapers/WPL_30_Dynamic_Force_Sensors.pdf",
+      "text": "Guide to Dynamic Force Sensors",
+      "httpStatus": 200,
+      "bytes": 1017444,
+      "contentType": "application/pdf",
+      "finalUrl": "https://www.pcb.com/contentstore/MktgContent/WhitePapers/WPL_30_Dynamic_Force_Sensors.pdf",
+      "status": "ok",
+      "sha256": "0229128299de9354ce9188737476ca1c59562118ee16984d9b72201d0a5e3440",
+      "file": "datasheets/pcb/WPL_30_Dynamic_Force_Sensors__0229128299.pdf"
+    },
+    {
+      "sourcePage": "https://www.pcb.com/sensors-for-test-measurement/load-cells",
+      "url": "https://www.pcb.com/contentstore/mktgcontent/whitepapers/WPL_24_Load_Cells.pdf",
+      "text": "White Paper: Load Cells: An Overview of Their Design and Application",
+      "httpStatus": 200,
+      "bytes": 764994,
+      "contentType": "application/pdf",
+      "finalUrl": "https://www.pcb.com/contentstore/mktgcontent/whitepapers/WPL_24_Load_Cells.pdf",
+      "status": "ok",
+      "sha256": "66419047fb285e156ab6e50a3f0053e099797fa482ccb234dbf484d421d03fb2",
+      "file": "datasheets/pcb/WPL_24_Load_Cells__66419047fb.pdf"
+    },
+    {
+      "sourcePage": "https://www.pcb.com/sensors-for-test-measurement/load-cells",
+      "url": "https://www.pcb.com/contentstore/mktgcontent/linkeddocuments/load_torque/lt-catalog_lowres.pdf",
+      "text": "Brochure: Sensors for Load and Torque",
+      "httpStatus": 200,
+      "bytes": 8700890,
+      "contentType": "application/pdf",
+      "finalUrl": "https://www.pcb.com/contentstore/mktgcontent/linkeddocuments/load_torque/lt-catalog_lowres.pdf",
+      "status": "ok",
+      "sha256": "cd787b86e1860bbe5481f6f033f5126f77507e4b3b3775a723ecfabc5c41dee4",
+      "file": "datasheets/pcb/lt-catalog_lowres__cd787b86e1.pdf"
+    },
+    {
+      "sourcePage": "https://www.pcb.com/resources/product-literature/PCBTestMeasurementSensorsInstrumentationCatalog",
+      "url": "https://www.pcb.com/contentstore/MktgContent/LinkedDocuments/PCB/PCB-Test-ShortForm_LowRes.pdf",
+      "text": "PCB Test & Measurement Sensors and Instrumentation Catalog",
+      "httpStatus": 200,
+      "bytes": 9601151,
+      "contentType": "application/pdf",
+      "finalUrl": "https://www.pcb.com/contentstore/MktgContent/LinkedDocuments/PCB/PCB-Test-ShortForm_LowRes.pdf",
+      "status": "ok",
+      "sha256": "e2b7af721fd01eca32aa3aaa8142928a7871a8f5336c351a4f7d3b469374c053",
+      "file": "datasheets/pcb/PCB-Test-ShortForm_LowRes__e2b7af721f.pdf"
+    }
+  ]
+}

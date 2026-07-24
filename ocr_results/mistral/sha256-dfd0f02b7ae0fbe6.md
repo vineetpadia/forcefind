@@ -1,0 +1,199 @@
+# model-1983
+
+- PDF: `datasheets/lorenz-messtechnik/model-1983.pdf`
+- SHA-256: `dfd0f02b7ae0fbe6380c10de311dc431fe0f86b66a63d3fa6940633477d89b2e`
+- OCR model: `mistral-ocr-latest`
+
+## Page 1
+
+Force/Torque
+
+Lorenz®
+messtechnik gmbh
+
+# Thread Friction Sensor M-1983
+with Rated Thread Friction Torque of 60 N·m / Rated Screw Head Friction
+Torque of 60 N·m and Rated Pre-Load of 40 kN
+
+
+
+
+
+Data sheet
+
+Performance Features
+
+- Thread friction sensor for measuring of pre-load, friction torque underneath the screw head and thread friction torque
+- TEDS (Transducer Electronic Data Sheet) Standard IEEE 1451.4 (optional)
+- High torsional stiffness
+- Simple handling and assembly
+- Special versions on request
+
+Application
+
+- Assembly technology
+- Process measuring and control technology
+- Automotive industry
+- Measuring and control devices
+- Tool engineering
+- Special mechanical engineering
+
+Lorenz Messtechnik GmbH Obere Schlossstrasse 127/129/131
+73553 Altdorf Phone +49 7172 93730-0, Fax +49 7172 93730-22
+info@lorenz-messtechnik.de, www.lorenz-messtechnik.de
+
+All data sheets can be found at www.lorenz-messtechnik.de
+Technical modification to reserve.
+
+080977b_M-1983
+1/4
+
+## Page 2
+
+## Dimensions in mm
+
+
+
+|  Article-No. | Rated Thread Friction Torque [Nm] | Rated Screw Head Friction Torque [Nm] | Rated Pre-Load [kN] | Weight [kg]  |
+| --- | --- | --- | --- | --- |
+|  105275 | 60 | 60 | 40 | 17.0  |
+
+## Connection Assignment
+
+|  6-pin | M-1983 | Series 723  |
+| --- | --- | --- |
+|  Pin 1 | Excitation (-) |   |
+|  Pin 2 | Excitation (+)  |   |
+|  Pin 3 | Shielding  |   |
+|  Pin 4 | Signal (+)  |   |
+|  Pin 5 | Signal (-)  |   |
+|  Pin 6 | Control signal or TEDS (option)  |   |
+
+Lorenz Messtechnik GmbH Obere Schlossstrasse 127/129/131
+73553 Altdorf Phone. +49 7172 93730-0, Fax +49 7172 93730-22
+info@lorenz-messtechnik.de, www.lorenz-messtechnik.de
+
+All data sheets can be found at www.lorenz-messtechnik.de
+Technical modification to reserve.
+
+080977b_M-1983
+2/4
+
+## Page 3
+
+## Technical Data acc. to VDI/VDE/DKD 2638 and VDI/VDE/DKD 2639
+
+### Thread Friction Sensor M-1983
+
+|  Rated thread friction torque / Rated screw head friction torque **M_{nom}** | Nm | 60  |
+| --- | --- | --- |
+|  Rated pre-load **F_{nom}** | kN | 40  |
+|  Accuracy class | % F/M_{nom} | 0.5  |
+|  Relative repeatability error in unchanged mounting position **b'** | % F/M_{nom} | ±0.1  |
+|  Rated range of excitation voltage **B_{U, nom}** | VDC | 2 ... 12  |
+|  Bridge resistance **R_{Br}** (torque) | Ω | 700  |
+|  Input/output resistance **R_{e}/R_{a}** (force) | Ω | 700  |
+|  Rated characteristic value **C_{nom}** | mV/V | 0.5 ±0.5 %  |
+|  Electrical connection |  | 6-pin series 723^{1}  |
+|  Reference temperature **T_{ref}** | °C | 23  |
+|  Rated temperature range **B_{T, nom}** | °C | 0 ... 60  |
+|  Operating temperature range **B_{T, G}** | °C | -10 ... 70  |
+|  Storage temperature range **B_{T, S}** | °C | -30 ... 95  |
+|  Temperature effect on zero signal **TK_{0}** | % F/M_{nom}/10 K | ±0.4  |
+|  Temperature effect on characteristic value **TK_{C}** | % F/M_{nom}/10 K | ±0.2  |
+|  Operating load (static) | % F/M_{nom} | 130  |
+|  Limit load (static) | % F/M_{nom} | 200  |
+|  Breaking load (static) | % F/M_{nom} | >400  |
+|  Permissible oscillation stress | % F/M_{nom} | 70 (peak-to-peak)  |
+|  Material |  | Stainless steel  |
+|  Level of protection |  | IP50  |
+
+### Area of Application
+
+- Hexagonal screws DIN 931
+- Screws with hexagon socket DIN 912
+- Cheese head screws with slot DIN 84
+
+|  Thread | Lengths of screw min. [mm] | Lengths of screw max. [mm]  |
+| --- | --- | --- |
+|  M6 | 14 | 65  |
+|  M8 | 16 | 65  |
+|  M10 | 18 | 65  |
+
+Other thread sizes, kinds and lengths on request
+
+### Options
+
+|  Article-No. | Description |   |
+| --- | --- | --- |
+|  100218 | Control signal | 100 % M_{nom}  |
+|  100739 | Control signal | 80 % M_{nom}  |
+|  106154 | Control signal | 50 % M_{nom}  |
+|  113134 | TEDS-standard IEEE 1451.4 |   |
+
+### Calibrations for Thread Friction Torque or Screw Head Friction Torque
+
+|  Article-No. | Description |   |
+| --- | --- | --- |
+|  400676 | Linearity diagram in accordance to factory standard | 25 % steps  |
+|  400664 | Linearity diagram in accordance to factory standard | 10 % steps  |
+|  400961 | Proprietary calibration acc. to VDI/VDE 2646 | 3 steps  |
+|  400700 | Proprietary calibration acc. to VDI/VDE 2646 | 5 steps  |
+|  400688 | Proprietary calibration acc. to VDI/VDE 2646 | 8 steps  |
+|   | DAkkS-Calibration/Standard on request |   |
+
+$^{1}$ Female cable connector in scope of delivery at first delivery
+
+Lorenz Messtechnik GmbH Obere Schlossstrasse 127/129/131
+73553 Altdorf Phone. +49 7172 93730-0, Fax +49 7172 93730-22
+info@lorenz-messtechnik.de, www.lorenz-messtechnik.de
+
+All data sheets can be found at www.lorenz-messtechnik.de
+Technical modification to reserve.
+
+080977b_M-1983
+3/4
+
+## Page 4
+
+## Calibrations for Pre-Load
+
+|  Article-No. | Description |   |
+| --- | --- | --- |
+|  400628 | Linearity diagram in accordance to factory standard | 25 % steps  |
+|  400170 | Linearity diagram in accordance to factory standard | 10 % steps  |
+|  400960 | Proprietary calibration acc. to DIN EN ISO 376 and DAkkS-DKD-R 3-3 | 3 steps  |
+|  400652 | Proprietary calibration acc. to DIN EN ISO 376 and DAkkS-DKD-R 3-3 | 5 steps  |
+|  400640 | Proprietary calibration acc. to DIN EN ISO 376 and DAkkS-DKD-R 3-3 | 8 steps  |
+|   | DAkkS-Calibration/Standard on request |   |
+
+## Accessories
+
+### Electrical Connection
+
+|  Article-No. | Description  |
+| --- | --- |
+|  10301 | Female cable connector 6-pin series 581  |
+|  10315 | Female angled connector 6-pin series 682  |
+|  10266 | Connection cable, 3 m, with 6-pin female cable connector series 581 and free strands  |
+|  10387 | Connection cable angled, 3 m, with 6-pin female angled connector series 682 and free strands  |
+
+### Amplifiers
+
+Examples of suitable amplifiers for the thread friction sensor M-1983:
+
+|  LCV | GM 78 | GM 40 | GM 80 | SI  |
+| --- | --- | --- | --- | --- |
+|  |   |   |   |   |
+
+Further suitable amplifiers you can find on our homepage under https://www.lorenz-messtechnik.de/english/products/
+
+Lorenz Messtechnik GmbH Obere Schlossstrasse 127/129/131
+73553 Alfdorf Phone. +49 7172 93730-0, Fax +49 7172 93730-22
+info@lorenz-messtechnik.de, www.lorenz-messtechnik.de
+
+All data sheets can be found at www.lorenz-messtechnik.de
+Technical modification to reserve.
+
+080977b_M-1983
+4/4

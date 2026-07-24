@@ -1,0 +1,2028 @@
+{
+  "sourcePages": [
+    "https://www.lorenz-messtechnik.de/english/products/force-sensors.php",
+    "https://www.lorenz-messtechnik.de/english/products/tension_force_sensors.php",
+    "https://www.lorenz-messtechnik.de/english/products/compression_force_sensors.php",
+    "https://www.lorenz-messtechnik.de/english/products/compression_tension.php",
+    "https://www.lorenz-messtechnik.de/english/products/special_sensors.php",
+    "https://www.lorenz-messtechnik.de/english/products/torque_static_force.php",
+    "https://www.lorenz-messtechnik.de/english/products/torque_rotary_force.php",
+    "https://www.lorenz-messtechnik.de/english/products/load-cells.php",
+    "https://www.lorenz-messtechnik.de/english/products/lc_single-point.php",
+    "https://www.lorenz-messtechnik.de/english/products/lc_compression.php",
+    "https://www.lorenz-messtechnik.de/english/products/lc_tension-compression.php",
+    "https://www.lorenz-messtechnik.de/english/products/lc_bending_shear-beam.php"
+  ],
+  "harvestedAt": "2026-07-24T17:35:12.364265+00:00",
+  "productCount": 61,
+  "products": [
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/force/k-1250.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-1250",
+      "title": "Compression Force Transducer K-1250 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080797c_k-1250_en.pdf",
+          "title": "Lorenz K-1250 datasheet",
+          "model": "K-1250",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/force/k-1250.php",
+          "linkText": "080797c_K-1250_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/force/k-13.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-13",
+      "title": "Compression Force Transducers K-13 & K-13B - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080781g_k-13_en.pdf",
+          "title": "Lorenz K-13 datasheet",
+          "model": "K-13",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/force/k-13.php",
+          "linkText": "080781g_K-13_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/force/k-14.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-14",
+      "title": "Compression Force Sensor K-14 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080791d_k-14_en.pdf",
+          "title": "Lorenz K-14 datasheet",
+          "model": "K-14",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/force/k-14.php",
+          "linkText": "080791d_K-14_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/force/k-1613.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-1613",
+      "title": "Compression Force Transducer K-1613 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080779c_k-1613_en.pdf",
+          "title": "Lorenz K-1613 datasheet",
+          "model": "K-1613",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/force/k-1613.php",
+          "linkText": "080779c_K-1613_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/force/k-18.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-18",
+      "title": "Compression Force Sensor K-18 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/kabel/110428a.pdf",
+          "title": "Lorenz K-18 datasheet",
+          "model": "K-18",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/force/k-18.php",
+          "linkText": "Connection cable, 3 m, with 6-pin female cable connector and free soldered ends"
+        },
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/kabel/110455a.pdf",
+          "title": "Lorenz K-18 datasheet",
+          "model": "K-18",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/force/k-18.php",
+          "linkText": "Connection cable, 3 m, with 6-pin female angle cable connector and free soldered ends"
+        },
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080795c_k-18_en.pdf",
+          "title": "Lorenz K-18 datasheet",
+          "model": "K-18",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/force/k-18.php",
+          "linkText": "080795c_K-18_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/force/k-181.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-181",
+      "title": "Compression Force Sensor K-181 ( Compression Load Washer ) - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080793c_k-181_en.pdf",
+          "title": "Lorenz K-181 datasheet",
+          "model": "K-181",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/force/k-181.php",
+          "linkText": "080793c_K-181_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/force/k-2071.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-2071",
+      "title": "Compression Force Transducer K-2071 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080783c_k-2071_en.pdf",
+          "title": "Lorenz K-2071 datasheet",
+          "model": "K-2071",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/force/k-2071.php",
+          "linkText": "080783c_K-2071_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/force/k-22.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-22",
+      "title": "Miniature Compression Force Transducer K-22 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080777b_k-22_en.pdf",
+          "title": "Lorenz K-22 datasheet",
+          "model": "K-22",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/force/k-22.php",
+          "linkText": "080777b_K-22_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/force/k-2283.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-2283",
+      "title": "Compression Force Transducer K-2283 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080785c_k-2283_en.pdf",
+          "title": "Lorenz K-2283 datasheet",
+          "model": "K-2283",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/force/k-2283.php",
+          "linkText": "080785c_K-2283_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/force/k-2528.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-2528",
+      "title": "Compression Force Sensor K-2528 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080787c_k-2528_en.pdf",
+          "title": "Lorenz K-2528 datasheet",
+          "model": "K-2528",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/force/k-2528.php",
+          "linkText": "080787c_K-2528_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/force/k-2529.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-2529",
+      "title": "Compression Force Transducer K-2529 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080789c_k-2529_en.pdf",
+          "title": "Lorenz K-2529 datasheet",
+          "model": "K-2529",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/force/k-2529.php",
+          "linkText": "080789c_K-2529_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/force/k-450.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-450",
+      "title": "Compression Force Transducer K-450 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080775c_k-450_en.pdf",
+          "title": "Lorenz K-450 datasheet",
+          "model": "K-450",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/force/k-450.php",
+          "linkText": "080775c_K-450_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-2752.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "W-2752",
+      "title": "Compression Load Cell W-2752 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081096_w-2752_en.pdf",
+          "title": "Lorenz W-2752 datasheet",
+          "model": "W-2752",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-2752.php",
+          "linkText": "081096_W-2752_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-ca40x.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "W-CA40X",
+      "title": "Compression Load Cell CA40X - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081059_w-ca40x_en.pdf",
+          "title": "Lorenz W-CA40X datasheet",
+          "model": "W-CA40X",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-ca40x.php",
+          "linkText": "081059_W-CA40X_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-cb50x-dl.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "W-CB50X-DL",
+      "title": "Digital Compression Load Cell CB50X-DL - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081035_w-cb50x-dl_en.pdf",
+          "title": "Lorenz W-CB50X-DL datasheet",
+          "model": "W-CB50X-DL",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-cb50x-dl.php",
+          "linkText": "081035_W-CB50X-DL_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-cb50x.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "W-CB50X",
+      "title": "Compression Load Cell CB50X - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081039_w-cb50x_en.pdf",
+          "title": "Lorenz W-CB50X datasheet",
+          "model": "W-CB50X",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-cb50x.php",
+          "linkText": "081039_W-CB50X_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-f60x.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "W-F60X",
+      "title": "Bending Beam Load Cell F60X - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081090_f60x-6w_en.pdf",
+          "title": "Lorenz W-F60X datasheet",
+          "model": "W-F60X",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-f60x.php",
+          "linkText": "081090_F60X-6W_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-r10x.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "W-R10X",
+      "title": "Compression Load Cell R10X - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081043_w-r10x_en.pdf",
+          "title": "Lorenz W-R10X datasheet",
+          "model": "W-R10X",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-r10x.php",
+          "linkText": "081043_W-R10X_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-rh10x.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "W-RH10X",
+      "title": "Compression Load Cell RH10X - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081037a_w-rh10x_en.pdf",
+          "title": "Lorenz W-RH10X datasheet",
+          "model": "W-RH10X",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-rh10x.php",
+          "linkText": "081037a_W-RH10X_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-sk30x.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "W-SK30X",
+      "title": "Shear Beam Load Cell SK30X - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080871a_sk30x_en.pdf",
+          "title": "Lorenz W-SK30X datasheet",
+          "model": "W-SK30X",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-sk30x.php",
+          "linkText": "080871a_SK30X_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-sk30x5t.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "W-SK30X5T",
+      "title": "Shear Beam Load Cell SK30X 5t - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080873_sk30x-5t_en.pdf",
+          "title": "Lorenz W-SK30X5T datasheet",
+          "model": "W-SK30X5T",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-sk30x5t.php",
+          "linkText": "080873_SK30X-5t_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-za30x.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "W-ZA30X",
+      "title": "Tension and Compression Load Cell ( S-Type ) ZA30X - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081033_w-za30x_en.pdf",
+          "title": "Lorenz W-ZA30X datasheet",
+          "model": "W-ZA30X",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-za30x.php",
+          "linkText": "081033_ZA30X.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-zfa.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "W-ZFA",
+      "title": "Tension- Compression Load Cell ( S-Type ) ZFA - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081041_w-zfa_en.pdf",
+          "title": "Lorenz W-ZFA datasheet",
+          "model": "W-ZFA",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-zfa.php",
+          "linkText": "081041_W-ZFA_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ab.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "W-AB",
+      "title": "Single Point Load Cell AB - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080901a_w-ab_en.pdf",
+          "title": "Lorenz W-AB datasheet",
+          "model": "W-AB",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ab.php",
+          "linkText": "080901a_W-AB_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ag.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "W-AG",
+      "title": "Single Point Load Cell AG - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081080_w-ag_en.pdf",
+          "title": "Lorenz W-AG datasheet",
+          "model": "W-AG",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ag.php",
+          "linkText": "AG 2.5 kg"
+        },
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081084_w-ag-c3_en.pdf",
+          "title": "Lorenz W-AG datasheet",
+          "model": "W-AG",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ag.php",
+          "linkText": "AG 5..100 kg"
+        },
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081086_w-ag-c6_en.pdf",
+          "title": "Lorenz W-AG datasheet",
+          "model": "W-AG",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ag.php",
+          "linkText": "AG - C6 18..100 kg"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ah.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "W-AH",
+      "title": "Single Point Load Cell AH - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080907_w-ah_en.pdf",
+          "title": "Lorenz W-AH datasheet",
+          "model": "W-AH",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ah.php",
+          "linkText": "080907_W-AH_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ahn.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "W-AHN",
+      "title": "Single Point Load Cell AHN - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080909_w-ahn_en.pdf",
+          "title": "Lorenz W-AHN datasheet",
+          "model": "W-AHN",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ahn.php",
+          "linkText": "080909_W-AHN_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ak.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "W-AK",
+      "title": "Single Point Load Cell AK - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080911_w-ak-60_en.pdf",
+          "title": "Lorenz W-AK datasheet",
+          "model": "W-AK",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ak.php",
+          "linkText": "080911_W-AK-60_en.pdf"
+        },
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/0081088_w-ak-300_en.pdf",
+          "title": "Lorenz W-AK datasheet",
+          "model": "W-AK",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ak.php",
+          "linkText": "081088_W-AK-300_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-al.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "W-AL",
+      "title": "Single Point Load Cell AL - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080913_w-al_en.pdf",
+          "title": "Lorenz W-AL datasheet",
+          "model": "W-AL",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-al.php",
+          "linkText": "080913_W-AL_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ap.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "W-AP",
+      "title": "Single Point Load Cell AP - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080915_w-ap_en.pdf",
+          "title": "Lorenz W-AP datasheet",
+          "model": "W-AP",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ap.php",
+          "linkText": "080915_W-AP_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-aq.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "W-AQ",
+      "title": "Single Point Load Cell AQ - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080917_w-aq_en.pdf",
+          "title": "Lorenz W-AQ datasheet",
+          "model": "W-AQ",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-aq.php",
+          "linkText": "080917_W-AQ_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ar.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "W-AR",
+      "title": "Single Point Load Cell AR - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080919_w-ar_en.pdf",
+          "title": "Lorenz W-AR datasheet",
+          "model": "W-AR",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ar.php",
+          "linkText": "080919_W-AR_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-axh.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "W-AXH",
+      "title": "Single Point Load Cell AXH - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080923-w-axh_en.pdf",
+          "title": "Lorenz W-AXH datasheet",
+          "model": "W-AXH",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-axh.php",
+          "linkText": "080923-W-AXH_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-axl.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "W-AXL",
+      "title": "Single Point Load Cell AXL - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080925_w-axl_en.pdf",
+          "title": "Lorenz W-AXL datasheet",
+          "model": "W-AXL",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-axl.php",
+          "linkText": "080925_W-AXL_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-bef.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "W-BEF",
+      "title": "Single Point Load Cells BE/BEF - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080927_w-bef-f_en.pdf",
+          "title": "Lorenz W-BEF datasheet",
+          "model": "W-BEF",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-bef.php",
+          "linkText": "080927_W-BEF-F_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-pm.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "W-PM",
+      "title": "Single Point Load Cell PM - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080929_w-pm_en.pdf",
+          "title": "Lorenz W-PM datasheet",
+          "model": "W-PM",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-pm.php",
+          "linkText": "080929_W-PM_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/special/dz-1.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "DZ-1",
+      "title": "Stress Sensor DZ-1 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080825d_dz-1_en.pdf",
+          "title": "Lorenz DZ-1 datasheet",
+          "model": "DZ-1",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/special/dz-1.php",
+          "linkText": "080825d_DZ-1_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/special/k-1509.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-1509",
+      "title": "Miniature Bending Beam Force Sensor K-1509 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080829d_K-1509_en.pdf",
+          "title": "Lorenz K-1509 datasheet",
+          "model": "K-1509",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/special/k-1509.php",
+          "linkText": "080829d_K-1509_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/special/k-1661.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-1661",
+      "title": "Load Measuring Pin K-1661 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080821c_k-1661_en.pdf",
+          "title": "Lorenz K-1661 datasheet",
+          "model": "K-1661",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/special/k-1661.php",
+          "linkText": "080821c_K-1661_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/special/k-2148.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-2148",
+      "title": "Web Tension Sensor K-2148 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080823d_k-2148_en.pdf",
+          "title": "Lorenz K-2148 datasheet",
+          "model": "K-2148",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/special/k-2148.php",
+          "linkText": "080823d_K-2148_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/special/k-2565.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-2565",
+      "title": "Force Sensor for Hand Force Measurement K-2565 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080827d_k-2565_en.pdf",
+          "title": "Lorenz K-2565 datasheet",
+          "model": "K-2565",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/special/k-2565.php",
+          "linkText": "080827d_K-2565_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/special/k-2618.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-2618",
+      "title": "Force Sensor K-2618 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/kabel/110440.pdf",
+          "title": "Lorenz K-2618 datasheet",
+          "model": "K-2618",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/special/k-2618.php",
+          "linkText": "Connection cable, 3 m, with 5-pin female cable connector and free soldered ends"
+        },
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080831c_k-2618_en.pdf",
+          "title": "Lorenz K-2618 datasheet",
+          "model": "K-2618",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/special/k-2618.php",
+          "linkText": "080831c_K-2618_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/tension/k-100.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-100",
+      "title": "Force Transducer for Tension Force K-100 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080803b_k-100_en.pdf",
+          "title": "Lorenz K-100 datasheet",
+          "model": "K-100",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/tension/k-100.php",
+          "linkText": "080803b_K-100_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/tension/k-1107.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-1107",
+      "title": "Force Sensor for Tension Force K-1107 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080801b_k-1107_en.pdf",
+          "title": "Lorenz K-1107 datasheet",
+          "model": "K-1107",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/tension/k-1107.php",
+          "linkText": "080801b_K-1107_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/tension/k-1368.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-1368",
+      "title": "Force Sensor for Tension Force K-1368 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080805b_k-1368_en.pdf",
+          "title": "Lorenz K-1368 datasheet",
+          "model": "K-1368",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/tension/k-1368.php",
+          "linkText": "080805b_K-1368_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-11.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-11",
+      "title": "Compression and Tension Force Sensor K-11 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/kabel/110428a.pdf",
+          "title": "Lorenz K-11 datasheet",
+          "model": "K-11",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-11.php",
+          "linkText": "Connection cable, 3 m, with 6-pin female cable connector and free soldered ends"
+        },
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/kabel/110455a.pdf",
+          "title": "Lorenz K-11 datasheet",
+          "model": "K-11",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-11.php",
+          "linkText": "Connection cable, 3 m, with 6-pin female angle cable connector and free soldered ends"
+        },
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080817e_k-11_en.pdf",
+          "title": "Lorenz K-11 datasheet",
+          "model": "K-11",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-11.php",
+          "linkText": "080817e_K-11_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-12.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-12",
+      "title": "Compression and Tension Force Sensor K-12 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080809d_k-12_en.pdf",
+          "title": "Lorenz K-12 datasheet",
+          "model": "K-12",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-12.php",
+          "linkText": "080809d_K-12_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-1427.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-1427",
+      "title": "Compression and Tension Force Sensor K-1427 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080813d_k-1427_en.pdf",
+          "title": "Lorenz K-1427 datasheet",
+          "model": "K-1427",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-1427.php",
+          "linkText": "080813d_K-1427_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-1563.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-1563",
+      "title": "Compression & Tension Force Sensor K-1563 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080807f_k-1563_en.pdf",
+          "title": "Lorenz K-1563 datasheet",
+          "model": "K-1563",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-1563.php",
+          "linkText": "080807f_K-1563_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-1882.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-1882",
+      "title": "Dual Range Force Compression and Tension Force Sensor K-1882 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/kabel/110438.pdf",
+          "title": "Lorenz K-1882 datasheet",
+          "model": "K-1882",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-1882.php",
+          "linkText": "Connection cable, 3 m, with 7-pin female cable connector and free soldered ends"
+        },
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/kabel/110443a.pdf",
+          "title": "Lorenz K-1882 datasheet",
+          "model": "K-1882",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-1882.php",
+          "linkText": "Connection cable, 3 m, with 7-pin female angle cable connector and free soldered ends"
+        },
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080819d_k-1882_en.pdf",
+          "title": "Lorenz K-1882 datasheet",
+          "model": "K-1882",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-1882.php",
+          "linkText": "080819d_K-1882_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-2145.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-2145",
+      "title": "Compression and Tension Force Sensor K-2145 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080811d_k-2145_en.pdf",
+          "title": "Lorenz K-2145 datasheet",
+          "model": "K-2145",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-2145.php",
+          "linkText": "080811d_K-2145_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-25.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-25",
+      "title": "S-Type Compression and Tension Force Transducer K-25 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080815g_k-25_en.pdf",
+          "title": "Lorenz K-25 datasheet",
+          "model": "K-25",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-25.php",
+          "linkText": "080815g_K-25_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-2698.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "K-2698",
+      "title": "Compression and Tension Force Sensor K-2698 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080799d_k-2698_en.pdf",
+          "title": "Lorenz K-2698 datasheet",
+          "model": "K-2698",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-2698.php",
+          "linkText": "080799d_K-2698_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/torque_rotary_force/dr-2371.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "DR-2371",
+      "title": "Multi-Component Sensor M-2371 for Torque -, Force -, Speed-, Angle - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/kabel/110431a.pdf",
+          "title": "Lorenz DR-2371 datasheet",
+          "model": "DR-2371",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/torque_rotary_force/dr-2371.php",
+          "linkText": "Connection cable, 3 m, with 12-pin female cable connector and free soldered ends"
+        },
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/kabel/110442c.pdf",
+          "title": "Lorenz DR-2371 datasheet",
+          "model": "DR-2371",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/torque_rotary_force/dr-2371.php",
+          "linkText": "Connection cable, 3 m, with 12-pin female angle cable connector and free soldered ends"
+        },
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080985a_m-2371_en.pdf",
+          "title": "Lorenz DR-2371 datasheet",
+          "model": "DR-2371",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/torque_rotary_force/dr-2371.php",
+          "linkText": "080985a_M-2371_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/1902.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "1902",
+      "title": "Multi-Component Screw Testing Sensor M-1902 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/kabel/110428a.pdf",
+          "title": "Lorenz 1902 datasheet",
+          "model": "1902",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/1902.php",
+          "linkText": "Connection cable, 3 m, with 6-pin female cable connector and free soldered ends"
+        },
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/kabel/110455a.pdf",
+          "title": "Lorenz 1902 datasheet",
+          "model": "1902",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/1902.php",
+          "linkText": "Connection cable, 3 m, with 6-pin female angle cable connector and free soldered ends"
+        },
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080973b_m-1902_en.pdf",
+          "title": "Lorenz 1902 datasheet",
+          "model": "1902",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/1902.php",
+          "linkText": "080973b_M-1902_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/1983.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "1983",
+      "title": "Multi-Component Screw Testing Transducer M-1983 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/kabel/110428a.pdf",
+          "title": "Lorenz 1983 datasheet",
+          "model": "1983",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/1983.php",
+          "linkText": "Connection cable, 3 m, with 6-pin female cable connector and free soldered ends"
+        },
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/kabel/110455a.pdf",
+          "title": "Lorenz 1983 datasheet",
+          "model": "1983",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/1983.php",
+          "linkText": "Connection cable, 3 m, with 6-pin female angle cable connector and free soldered ends"
+        },
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080977b_m-1983_en.pdf",
+          "title": "Lorenz 1983 datasheet",
+          "model": "1983",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/1983.php",
+          "linkText": "080977b_M-1983_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2025.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "2025",
+      "title": "Non Rotary (Static) Force and Torque Transducer M-2025 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080981a_m-2025_en.pdf",
+          "title": "Lorenz 2025 datasheet",
+          "model": "2025",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2025.php",
+          "linkText": "080981a_M-2025_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2230.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "2230",
+      "title": "Multi-Component Screw Testing Sensor M-2230 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/kabel/110428a.pdf",
+          "title": "Lorenz 2230 datasheet",
+          "model": "2230",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2230.php",
+          "linkText": "Connection cable, 3 m, with 6-pin female cable connector and free soldered ends"
+        },
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/kabel/110455a.pdf",
+          "title": "Lorenz 2230 datasheet",
+          "model": "2230",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2230.php",
+          "linkText": "Connection cable, 3 m, with 6-pin female angle cable connector and free soldered ends"
+        },
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080975b_m-2230_en.pdf",
+          "title": "Lorenz 2230 datasheet",
+          "model": "2230",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2230.php",
+          "linkText": "080975b_M-2230_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2354.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "2354",
+      "title": "Non Rotary (Static) Force and Torque Transducer M-2354 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080983b_m-2354_en.pdf",
+          "title": "Lorenz 2354 datasheet",
+          "model": "2354",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2354.php",
+          "linkText": "080983b_M-2354_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2396.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "2396",
+      "title": "Non Rotary (Static) Force and Torque Transducer M-2396 with Flanges - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/kabel/110448.pdf",
+          "title": "Lorenz 2396 datasheet",
+          "model": "2396",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2396.php",
+          "linkText": "Connection cable, 3 m, with 12-pin female cable connector and free soldered ends"
+        },
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080979b_m-2396_en.pdf",
+          "title": "Lorenz 2396 datasheet",
+          "model": "2396",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2396.php",
+          "linkText": "080979b_M-2396_en.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2416.php",
+      "status": "ok",
+      "httpStatus": 200,
+      "model": "2416",
+      "title": "Non Rotary (Static) Force and Torque Transducer M-2416 - Lorenz Messtechnik GmbH",
+      "datasheets": [
+        {
+          "url": "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080971b_m-2416_en.pdf",
+          "title": "Lorenz 2416 datasheet",
+          "model": "2416",
+          "productPage": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2416.php",
+          "linkText": "080971b_M-2416_en.pdf"
+        }
+      ]
+    }
+  ],
+  "documentCount": 64,
+  "documents": [
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080797c_k-1250_en.pdf",
+      "title": "Lorenz K-1250 datasheet",
+      "model": "K-1250",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/force/k-1250.php",
+      "linkText": "080797c_K-1250_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 262610,
+      "sha256": "04f55ceebb10547dd45ba3e7b90c421856874816080be13ee2cd3fd296de24d2",
+      "file": "datasheets/lorenz/Lorenz-K-1250-datasheet__04f55ceebb.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080797c_k-1250_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080781g_k-13_en.pdf",
+      "title": "Lorenz K-13 datasheet",
+      "model": "K-13",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/force/k-13.php",
+      "linkText": "080781g_K-13_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 350356,
+      "sha256": "c9c7fc414f62e051cf30db1a57fc9801fcc3ad794e810b38ab7d7ee46e46ca01",
+      "file": "datasheets/lorenz/Lorenz-K-13-datasheet__c9c7fc414f.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080781g_k-13_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080791d_k-14_en.pdf",
+      "title": "Lorenz K-14 datasheet",
+      "model": "K-14",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/force/k-14.php",
+      "linkText": "080791d_K-14_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 235290,
+      "sha256": "88940d474d9ab27fd100a256a4ec2a27e3dec07db1bf533bd0a7551db714a5bf",
+      "file": "datasheets/lorenz/Lorenz-K-14-datasheet__88940d474d.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080791d_k-14_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080779c_k-1613_en.pdf",
+      "title": "Lorenz K-1613 datasheet",
+      "model": "K-1613",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/force/k-1613.php",
+      "linkText": "080779c_K-1613_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 304606,
+      "sha256": "59a977a67ebf04ef65b63ddd70fd3be569e63fb507bcecb2d11fc208bbe4f6cd",
+      "file": "datasheets/lorenz/Lorenz-K-1613-datasheet__59a977a67e.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080779c_k-1613_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080795c_k-18_en.pdf",
+      "title": "Lorenz K-18 datasheet",
+      "model": "K-18",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/force/k-18.php",
+      "linkText": "080795c_K-18_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 272414,
+      "sha256": "20abbd455765d5ca57a409aeb20b0c8297c8637efc3de6c02e87e70a98c09293",
+      "file": "datasheets/lorenz/Lorenz-K-18-datasheet__20abbd4557.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080795c_k-18_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080793c_k-181_en.pdf",
+      "title": "Lorenz K-181 datasheet",
+      "model": "K-181",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/force/k-181.php",
+      "linkText": "080793c_K-181_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 253735,
+      "sha256": "123f2e72ffecf3fd7679942eb70a38035eb617acc8516cc816bd1016bcd4f907",
+      "file": "datasheets/lorenz/Lorenz-K-181-datasheet__123f2e72ff.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080793c_k-181_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080783c_k-2071_en.pdf",
+      "title": "Lorenz K-2071 datasheet",
+      "model": "K-2071",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/force/k-2071.php",
+      "linkText": "080783c_K-2071_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 227083,
+      "sha256": "49de9dcdded3d39305fcb01b8a4f168b481f7bf7585bd1eb954b4d3a5c92206f",
+      "file": "datasheets/lorenz/Lorenz-K-2071-datasheet__49de9dcdde.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080783c_k-2071_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080777b_k-22_en.pdf",
+      "title": "Lorenz K-22 datasheet",
+      "model": "K-22",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/force/k-22.php",
+      "linkText": "080777b_K-22_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 223390,
+      "sha256": "c9634f6dfcd69589a05dba3f81ef032add6975d45bfbee7b2b0e34296971b74c",
+      "file": "datasheets/lorenz/Lorenz-K-22-datasheet__c9634f6dfc.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080777b_k-22_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080785c_k-2283_en.pdf",
+      "title": "Lorenz K-2283 datasheet",
+      "model": "K-2283",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/force/k-2283.php",
+      "linkText": "080785c_K-2283_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 226163,
+      "sha256": "b1f2e588925429b412632a15851f4f1fdc2a553be28b9a8c54dd4fa8357ab6e7",
+      "file": "datasheets/lorenz/Lorenz-K-2283-datasheet__b1f2e58892.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080785c_k-2283_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080787c_k-2528_en.pdf",
+      "title": "Lorenz K-2528 datasheet",
+      "model": "K-2528",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/force/k-2528.php",
+      "linkText": "080787c_K-2528_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 225449,
+      "sha256": "9fddee89742472e6ac459e9cb028f07a98722a0f2d7ccbd77fae8ccc5884958e",
+      "file": "datasheets/lorenz/Lorenz-K-2528-datasheet__9fddee8974.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080787c_k-2528_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080789c_k-2529_en.pdf",
+      "title": "Lorenz K-2529 datasheet",
+      "model": "K-2529",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/force/k-2529.php",
+      "linkText": "080789c_K-2529_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 224748,
+      "sha256": "0259c51ba71025eaec292944ebb4b66601dda1aea16c04d06ab42cce36945dea",
+      "file": "datasheets/lorenz/Lorenz-K-2529-datasheet__0259c51ba7.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080789c_k-2529_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080775c_k-450_en.pdf",
+      "title": "Lorenz K-450 datasheet",
+      "model": "K-450",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/force/k-450.php",
+      "linkText": "080775c_K-450_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 284965,
+      "sha256": "3ef8be14a9c1da6672695c33642e70217cfce14893ed29ebeedf9a6287edefdb",
+      "file": "datasheets/lorenz/Lorenz-K-450-datasheet__3ef8be14a9.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080775c_k-450_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081096_w-2752_en.pdf",
+      "title": "Lorenz W-2752 datasheet",
+      "model": "W-2752",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-2752.php",
+      "linkText": "081096_W-2752_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 178236,
+      "sha256": "d458fe1a9642ef968e4f359df527f877042e73745dd0e5a129bc891629404c4f",
+      "file": "datasheets/lorenz/Lorenz-W-2752-datasheet__d458fe1a96.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081096_w-2752_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081059_w-ca40x_en.pdf",
+      "title": "Lorenz W-CA40X datasheet",
+      "model": "W-CA40X",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-ca40x.php",
+      "linkText": "081059_W-CA40X_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 200821,
+      "sha256": "dfd0727b675ac111b46209615440d9eecfa6a2f86136e240ff751b7e60dfd646",
+      "file": "datasheets/lorenz/Lorenz-W-CA40X-datasheet__dfd0727b67.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081059_w-ca40x_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081035_w-cb50x-dl_en.pdf",
+      "title": "Lorenz W-CB50X-DL datasheet",
+      "model": "W-CB50X-DL",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-cb50x-dl.php",
+      "linkText": "081035_W-CB50X-DL_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 364846,
+      "sha256": "4ece77b9b2c445339e48c0a8c09f792613a440d8aacf17d693c94ab75aef3563",
+      "file": "datasheets/lorenz/Lorenz-W-CB50X-DL-datasheet__4ece77b9b2.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081035_w-cb50x-dl_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081039_w-cb50x_en.pdf",
+      "title": "Lorenz W-CB50X datasheet",
+      "model": "W-CB50X",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-cb50x.php",
+      "linkText": "081039_W-CB50X_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 343898,
+      "sha256": "89723b0b69262ea1827c110798c16ae467c0bc6ee298d39e50fad650cf8f50bb",
+      "file": "datasheets/lorenz/Lorenz-W-CB50X-datasheet__89723b0b69.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081039_w-cb50x_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081090_f60x-6w_en.pdf",
+      "title": "Lorenz W-F60X datasheet",
+      "model": "W-F60X",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-f60x.php",
+      "linkText": "081090_F60X-6W_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 342659,
+      "sha256": "4cd5c602a9b18a9dd7d5fa649aee24edeaf2f5eeec975649a7d865a779afd685",
+      "file": "datasheets/lorenz/Lorenz-W-F60X-datasheet__4cd5c602a9.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081090_f60x-6w_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081043_w-r10x_en.pdf",
+      "title": "Lorenz W-R10X datasheet",
+      "model": "W-R10X",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-r10x.php",
+      "linkText": "081043_W-R10X_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 282231,
+      "sha256": "aae42837a51c6b3f80122a3ca9a2604dc597070055521a48f6abfec394f9bb8f",
+      "file": "datasheets/lorenz/Lorenz-W-R10X-datasheet__aae42837a5.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081043_w-r10x_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081037a_w-rh10x_en.pdf",
+      "title": "Lorenz W-RH10X datasheet",
+      "model": "W-RH10X",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-rh10x.php",
+      "linkText": "081037a_W-RH10X_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 188365,
+      "sha256": "f3e9fd7b4eec873fc89eebfe68d54b99543fa2e24bea7181e78b79032228f79a",
+      "file": "datasheets/lorenz/Lorenz-W-RH10X-datasheet__f3e9fd7b4e.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081037a_w-rh10x_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080871a_sk30x_en.pdf",
+      "title": "Lorenz W-SK30X datasheet",
+      "model": "W-SK30X",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-sk30x.php",
+      "linkText": "080871a_SK30X_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 313121,
+      "sha256": "562a337fa424d4bc5b7642753d409a60ba1e37a85679091830c648b46adb4eff",
+      "file": "datasheets/lorenz/Lorenz-W-SK30X-datasheet__562a337fa4.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080871a_sk30x_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080873_sk30x-5t_en.pdf",
+      "title": "Lorenz W-SK30X5T datasheet",
+      "model": "W-SK30X5T",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-sk30x5t.php",
+      "linkText": "080873_SK30X-5t_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 324358,
+      "sha256": "9e87c8adec802f89c421d70976cab69f92d9f70386364808c3a6ddfe5795d5d3",
+      "file": "datasheets/lorenz/Lorenz-W-SK30X5T-datasheet__9e87c8adec.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080873_sk30x-5t_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081033_w-za30x_en.pdf",
+      "title": "Lorenz W-ZA30X datasheet",
+      "model": "W-ZA30X",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-za30x.php",
+      "linkText": "081033_ZA30X.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 238116,
+      "sha256": "81eb485c035116e152810b8cb3016c396988fdac70ed32d791cc8237f0428531",
+      "file": "datasheets/lorenz/Lorenz-W-ZA30X-datasheet__81eb485c03.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081033_w-za30x_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081041_w-zfa_en.pdf",
+      "title": "Lorenz W-ZFA datasheet",
+      "model": "W-ZFA",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_other/w-zfa.php",
+      "linkText": "081041_W-ZFA_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 216299,
+      "sha256": "8288c0e7c8865c319260b295be34d2d4a98fb756e9a1e1bd137d2cac01678f0f",
+      "file": "datasheets/lorenz/Lorenz-W-ZFA-datasheet__8288c0e7c8.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081041_w-zfa_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080901a_w-ab_en.pdf",
+      "title": "Lorenz W-AB datasheet",
+      "model": "W-AB",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ab.php",
+      "linkText": "080901a_W-AB_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 274611,
+      "sha256": "6cfc5b186d377a1672d78f53ce5f6b0ea3c96d3af7f511b1358715b169807999",
+      "file": "datasheets/lorenz/Lorenz-W-AB-datasheet__6cfc5b186d.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080901a_w-ab_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081080_w-ag_en.pdf",
+      "title": "Lorenz W-AG datasheet",
+      "model": "W-AG",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ag.php",
+      "linkText": "AG 2.5 kg",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 309461,
+      "sha256": "320381f17245eabe24c67bde92e23f4d36268af092efa2a261f9449407340816",
+      "file": "datasheets/lorenz/Lorenz-W-AG-datasheet__320381f172.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081080_w-ag_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081084_w-ag-c3_en.pdf",
+      "title": "Lorenz W-AG datasheet",
+      "model": "W-AG",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ag.php",
+      "linkText": "AG 5..100 kg",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 324174,
+      "sha256": "6da2e4564c9b10f883e059e97a4c4c18372ab245c01ba08e5b4bf0c06e1e7e25",
+      "file": "datasheets/lorenz/Lorenz-W-AG-datasheet__6da2e4564c.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081084_w-ag-c3_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081086_w-ag-c6_en.pdf",
+      "title": "Lorenz W-AG datasheet",
+      "model": "W-AG",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ag.php",
+      "linkText": "AG - C6 18..100 kg",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 315023,
+      "sha256": "76fa69217070e2104942b5c417f45d08a60685d8319911e19f8609bc9a8ea88a",
+      "file": "datasheets/lorenz/Lorenz-W-AG-datasheet__76fa692170.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081086_w-ag-c6_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080907_w-ah_en.pdf",
+      "title": "Lorenz W-AH datasheet",
+      "model": "W-AH",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ah.php",
+      "linkText": "080907_W-AH_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 280732,
+      "sha256": "a4ebdf4d4e79b93a9a81b822caeac99f077d92f6e2c5c8fee9707b9f722918a8",
+      "file": "datasheets/lorenz/Lorenz-W-AH-datasheet__a4ebdf4d4e.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080907_w-ah_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080909_w-ahn_en.pdf",
+      "title": "Lorenz W-AHN datasheet",
+      "model": "W-AHN",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ahn.php",
+      "linkText": "080909_W-AHN_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 167892,
+      "sha256": "27bdc5bb53c4e1e99aaf19c66741b969332867df3a04fee85f958515e1873b46",
+      "file": "datasheets/lorenz/Lorenz-W-AHN-datasheet__27bdc5bb53.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080909_w-ahn_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080911_w-ak-60_en.pdf",
+      "title": "Lorenz W-AK datasheet",
+      "model": "W-AK",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ak.php",
+      "linkText": "080911_W-AK-60_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 313385,
+      "sha256": "e0740b747ffe30c29a15aa0be7f6407603821a6881accd890ec75d8e2068ecad",
+      "file": "datasheets/lorenz/Lorenz-W-AK-datasheet__e0740b747f.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080911_w-ak-60_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081088_w-ak-300_en.pdf",
+      "title": "Lorenz W-AK datasheet",
+      "model": "W-AK",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ak.php",
+      "linkText": "081088_W-AK-300_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 273917,
+      "sha256": "690064694d8e491b1bcfebd89b8a6730abaf862df36e69d06429317451b11692",
+      "file": "datasheets/lorenz/Lorenz-W-AK-datasheet__690064694d.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081088_w-ak-300_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080913_w-al_en.pdf",
+      "title": "Lorenz W-AL datasheet",
+      "model": "W-AL",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-al.php",
+      "linkText": "080913_W-AL_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 277423,
+      "sha256": "2ffaddf5e5b54ae044555fea622a1332378dd30a3f90684fed7f9d5ab74be0cf",
+      "file": "datasheets/lorenz/Lorenz-W-AL-datasheet__2ffaddf5e5.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080913_w-al_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080915_w-ap_en.pdf",
+      "title": "Lorenz W-AP datasheet",
+      "model": "W-AP",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ap.php",
+      "linkText": "080915_W-AP_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 277020,
+      "sha256": "cc496bcf59b8158fae5d1e4f8dac1b392b798844a14be5bc34c4de0e4df500f9",
+      "file": "datasheets/lorenz/Lorenz-W-AP-datasheet__cc496bcf59.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080915_w-ap_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080917_w-aq_en.pdf",
+      "title": "Lorenz W-AQ datasheet",
+      "model": "W-AQ",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-aq.php",
+      "linkText": "080917_W-AQ_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 269222,
+      "sha256": "79e8d6b6a5aeb1e5b36c69cc6988b5df50e84dd8cb62e0372b2fa55fd23603c6",
+      "file": "datasheets/lorenz/Lorenz-W-AQ-datasheet__79e8d6b6a5.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080917_w-aq_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080919_w-ar_en.pdf",
+      "title": "Lorenz W-AR datasheet",
+      "model": "W-AR",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ar.php",
+      "linkText": "080919_W-AR_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 175158,
+      "sha256": "888f998b6af791afb78a781b61a93c467b683b0bb177d3b8ae526402aa3fbf4c",
+      "file": "datasheets/lorenz/Lorenz-W-AR-datasheet__888f998b6a.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080919_w-ar_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080923-w-axh_en.pdf",
+      "title": "Lorenz W-AXH datasheet",
+      "model": "W-AXH",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-axh.php",
+      "linkText": "080923-W-AXH_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 312781,
+      "sha256": "c1de8898f6ca5750a2ba88a4d0ebe8c0009653868aa21c700d5373150ea0d283",
+      "file": "datasheets/lorenz/Lorenz-W-AXH-datasheet__c1de8898f6.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080923-w-axh_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080925_w-axl_en.pdf",
+      "title": "Lorenz W-AXL datasheet",
+      "model": "W-AXL",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-axl.php",
+      "linkText": "080925_W-AXL_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 311265,
+      "sha256": "1a4fe8fa3adfbbe23b8f6ccf471a034af6c4714d4a3b976b9858464a51c960b7",
+      "file": "datasheets/lorenz/Lorenz-W-AXL-datasheet__1a4fe8fa3a.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080925_w-axl_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080927_w-bef-f_en.pdf",
+      "title": "Lorenz W-BEF datasheet",
+      "model": "W-BEF",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-bef.php",
+      "linkText": "080927_W-BEF-F_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 262055,
+      "sha256": "e02e1be48c60f5905bbdcea3b4d4720529d586be45352cbc9b2ee0913443e270",
+      "file": "datasheets/lorenz/Lorenz-W-BEF-datasheet__e02e1be48c.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080927_w-bef-f_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080929_w-pm_en.pdf",
+      "title": "Lorenz W-PM datasheet",
+      "model": "W-PM",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-pm.php",
+      "linkText": "080929_W-PM_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 212274,
+      "sha256": "6bc17a2319716f303d7a8a1d170a6a98e7cf1037d247f66f2a57174aac982165",
+      "file": "datasheets/lorenz/Lorenz-W-PM-datasheet__6bc17a2319.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080929_w-pm_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080825d_dz-1_en.pdf",
+      "title": "Lorenz DZ-1 datasheet",
+      "model": "DZ-1",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/special/dz-1.php",
+      "linkText": "080825d_DZ-1_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 305668,
+      "sha256": "f0dd8c5674a1d6ca92ac0b05a2152ec98d1cd8514950c1cef833f34c71a68255",
+      "file": "datasheets/lorenz/Lorenz-DZ-1-datasheet__f0dd8c5674.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080825d_dz-1_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080829d_K-1509_en.pdf",
+      "title": "Lorenz K-1509 datasheet",
+      "model": "K-1509",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/special/k-1509.php",
+      "linkText": "080829d_K-1509_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 174659,
+      "sha256": "d150d4c7086b79ac9233417954d4aac90ff37ebc093bb4e46b11b379538a2bf0",
+      "file": "datasheets/lorenz/Lorenz-K-1509-datasheet__d150d4c708.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080829d_k-1509_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080821c_k-1661_en.pdf",
+      "title": "Lorenz K-1661 datasheet",
+      "model": "K-1661",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/special/k-1661.php",
+      "linkText": "080821c_K-1661_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 222346,
+      "sha256": "6cf15850333332cae6bb0d992267fd660cd3a973b1c88aaf8d8ecc97357350c1",
+      "file": "datasheets/lorenz/Lorenz-K-1661-datasheet__6cf1585033.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080821c_k-1661_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080823d_k-2148_en.pdf",
+      "title": "Lorenz K-2148 datasheet",
+      "model": "K-2148",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/special/k-2148.php",
+      "linkText": "080823d_K-2148_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 258242,
+      "sha256": "1a1a3167f576b93b6d3f8b68ee1330b660f4f4aa479f3b34efea6b808aeed247",
+      "file": "datasheets/lorenz/Lorenz-K-2148-datasheet__1a1a3167f5.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080823d_k-2148_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080827d_k-2565_en.pdf",
+      "title": "Lorenz K-2565 datasheet",
+      "model": "K-2565",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/special/k-2565.php",
+      "linkText": "080827d_K-2565_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 267868,
+      "sha256": "c329428cfe89f1f6e2056ddc47d7e2cfd41e54babbea647e8c4cb245e42f8f70",
+      "file": "datasheets/lorenz/Lorenz-K-2565-datasheet__c329428cfe.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080827d_k-2565_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080831c_k-2618_en.pdf",
+      "title": "Lorenz K-2618 datasheet",
+      "model": "K-2618",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/special/k-2618.php",
+      "linkText": "080831c_K-2618_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 230892,
+      "sha256": "82a0d873d6bae72afdec94318b3f16fc0f8823cf5844e9692df02e90abb1e0c3",
+      "file": "datasheets/lorenz/Lorenz-K-2618-datasheet__82a0d873d6.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080831c_k-2618_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080803b_k-100_en.pdf",
+      "title": "Lorenz K-100 datasheet",
+      "model": "K-100",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/tension/k-100.php",
+      "linkText": "080803b_K-100_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 255910,
+      "sha256": "45d667db37686437dfc85b46ee52b6f63b880fc783bcbf87706a1d067425cc80",
+      "file": "datasheets/lorenz/Lorenz-K-100-datasheet__45d667db37.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080803b_k-100_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080801b_k-1107_en.pdf",
+      "title": "Lorenz K-1107 datasheet",
+      "model": "K-1107",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/tension/k-1107.php",
+      "linkText": "080801b_K-1107_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 279724,
+      "sha256": "0fb8a8776e2e490a0b48caec01936f82ca716d8fecfea14a9165faee0b210cd7",
+      "file": "datasheets/lorenz/Lorenz-K-1107-datasheet__0fb8a8776e.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080801b_k-1107_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080805b_k-1368_en.pdf",
+      "title": "Lorenz K-1368 datasheet",
+      "model": "K-1368",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/tension/k-1368.php",
+      "linkText": "080805b_K-1368_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 222652,
+      "sha256": "29eb01afc1a99f10a4b930eef6a1d77c7116c8b0124cf58b3410f2926e55b4cd",
+      "file": "datasheets/lorenz/Lorenz-K-1368-datasheet__29eb01afc1.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080805b_k-1368_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080817e_k-11_en.pdf",
+      "title": "Lorenz K-11 datasheet",
+      "model": "K-11",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-11.php",
+      "linkText": "080817e_K-11_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 247808,
+      "sha256": "b07c550ba3b369d3387667cc7769ee38a11b2a52812eb774aa597ea5126b82b5",
+      "file": "datasheets/lorenz/Lorenz-K-11-datasheet__b07c550ba3.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080817e_k-11_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080809d_k-12_en.pdf",
+      "title": "Lorenz K-12 datasheet",
+      "model": "K-12",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-12.php",
+      "linkText": "080809d_K-12_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 267195,
+      "sha256": "2e16b077a324c68cdb5fa3af22e17885c4bb744af60a6a7dc4c2f645a62bd3d5",
+      "file": "datasheets/lorenz/Lorenz-K-12-datasheet__2e16b077a3.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080809d_k-12_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080813d_k-1427_en.pdf",
+      "title": "Lorenz K-1427 datasheet",
+      "model": "K-1427",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-1427.php",
+      "linkText": "080813d_K-1427_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 269609,
+      "sha256": "ccf542346406477465e86c43f85f227b30c901c338bbe6272524338d1a038e54",
+      "file": "datasheets/lorenz/Lorenz-K-1427-datasheet__ccf5423464.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080813d_k-1427_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080807f_k-1563_en.pdf",
+      "title": "Lorenz K-1563 datasheet",
+      "model": "K-1563",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-1563.php",
+      "linkText": "080807f_K-1563_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 380554,
+      "sha256": "daec097a7eb3120960db1a716e519dbb23f0b29b7c93ed25b152cd81ba4decfd",
+      "file": "datasheets/lorenz/Lorenz-K-1563-datasheet__daec097a7e.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080807f_k-1563_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080819d_k-1882_en.pdf",
+      "title": "Lorenz K-1882 datasheet",
+      "model": "K-1882",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-1882.php",
+      "linkText": "080819d_K-1882_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 272653,
+      "sha256": "8b96491e0ab565b6a67b02800a653e5bd5ca495850debd4c5691fdf40571e7e8",
+      "file": "datasheets/lorenz/Lorenz-K-1882-datasheet__8b96491e0a.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080819d_k-1882_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080811d_k-2145_en.pdf",
+      "title": "Lorenz K-2145 datasheet",
+      "model": "K-2145",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-2145.php",
+      "linkText": "080811d_K-2145_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 256753,
+      "sha256": "69bdfe2627743aa12eb54eede353a778050d7975808c281e7b8dd23a279c56f5",
+      "file": "datasheets/lorenz/Lorenz-K-2145-datasheet__69bdfe2627.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080811d_k-2145_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080815g_k-25_en.pdf",
+      "title": "Lorenz K-25 datasheet",
+      "model": "K-25",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-25.php",
+      "linkText": "080815g_K-25_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 417580,
+      "sha256": "d1ddcfccc61dc6762942b581be24ca20baad7de16eb835688aa1ec789242e860",
+      "file": "datasheets/lorenz/Lorenz-K-25-datasheet__d1ddcfccc6.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080815g_k-25_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080799d_k-2698_en.pdf",
+      "title": "Lorenz K-2698 datasheet",
+      "model": "K-2698",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/tension_force/k-2698.php",
+      "linkText": "080799d_K-2698_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 253295,
+      "sha256": "38ac5eb8d7a4bdc59a49110930d7902e8cf6ae09bf86f9d5c684d5b9e68fd85b",
+      "file": "datasheets/lorenz/Lorenz-K-2698-datasheet__38ac5eb8d7.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/f/080799d_k-2698_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080985a_m-2371_en.pdf",
+      "title": "Lorenz DR-2371 datasheet",
+      "model": "DR-2371",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/torque_rotary_force/dr-2371.php",
+      "linkText": "080985a_M-2371_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 262480,
+      "sha256": "4737402f95a3dbfed8add6e77c47c78d106173f6ae5052c743c9195f9196058c",
+      "file": "datasheets/lorenz/Lorenz-DR-2371-datasheet__4737402f95.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080985a_m-2371_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080973b_m-1902_en.pdf",
+      "title": "Lorenz 1902 datasheet",
+      "model": "1902",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/1902.php",
+      "linkText": "080973b_M-1902_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 247312,
+      "sha256": "e713a8c159975158b561efd9694a5b6eb323b3908e4bbcebc07530f91f42b43f",
+      "file": "datasheets/lorenz/Lorenz-1902-datasheet__e713a8c159.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080973b_m-1902_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080977b_m-1983_en.pdf",
+      "title": "Lorenz 1983 datasheet",
+      "model": "1983",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/1983.php",
+      "linkText": "080977b_M-1983_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 246190,
+      "sha256": "dfd0f02b7ae0fbe6380c10de311dc431fe0f86b66a63d3fa6940633477d89b2e",
+      "file": "datasheets/lorenz/Lorenz-1983-datasheet__dfd0f02b7a.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080977b_m-1983_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080981a_m-2025_en.pdf",
+      "title": "Lorenz 2025 datasheet",
+      "model": "2025",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2025.php",
+      "linkText": "080981a_M-2025_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 253057,
+      "sha256": "a4aa8fc0c81bd019dcba4501aad8b9028936f1410ae4a3bb02a75ed09794421e",
+      "file": "datasheets/lorenz/Lorenz-2025-datasheet__a4aa8fc0c8.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080981a_m-2025_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080975b_m-2230_en.pdf",
+      "title": "Lorenz 2230 datasheet",
+      "model": "2230",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2230.php",
+      "linkText": "080975b_M-2230_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 247041,
+      "sha256": "d2e16380ad7a5eae017ed95a701e0a32e3acd807e5334af541af49ea9f53b8fd",
+      "file": "datasheets/lorenz/Lorenz-2230-datasheet__d2e16380ad.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080975b_m-2230_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080983b_m-2354_en.pdf",
+      "title": "Lorenz 2354 datasheet",
+      "model": "2354",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2354.php",
+      "linkText": "080983b_M-2354_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 247188,
+      "sha256": "2e232b276d4f859b404bb0446366203a49a7e4e45e4eb21d8c6cb10d6b16f14c",
+      "file": "datasheets/lorenz/Lorenz-2354-datasheet__2e232b276d.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080983b_m-2354_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080979b_m-2396_en.pdf",
+      "title": "Lorenz 2396 datasheet",
+      "model": "2396",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2396.php",
+      "linkText": "080979b_M-2396_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 236611,
+      "sha256": "5ad1dbb70cda1cc588b1040d252d09038a946c2d2dcca013a8967a7415dbea4e",
+      "file": "datasheets/lorenz/Lorenz-2396-datasheet__5ad1dbb70c.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080979b_m-2396_en.pdf"
+    },
+    {
+      "url": "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080971b_m-2416_en.pdf",
+      "title": "Lorenz 2416 datasheet",
+      "model": "2416",
+      "productPage": "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2416.php",
+      "linkText": "080971b_M-2416_en.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 222975,
+      "sha256": "a9fe53efe71c70fc79f59bfe482029b179f70f36a9877a0606b84e574ed9be8a",
+      "file": "datasheets/lorenz/Lorenz-2416-datasheet__a9fe53efe7.pdf",
+      "finalUrl": "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080971b_m-2416_en.pdf"
+    }
+  ]
+}

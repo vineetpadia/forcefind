@@ -1,0 +1,188 @@
+# b3g
+
+- PDF: `datasheets/zemic/b3g.pdf`
+- SHA-256: `0bad265cb6e90f31a64a38e0c817ce5f85b9271872fbda0eeaa86f9b3d7d5b6e`
+- OCR model: `mistral-ocr-latest`
+
+## Page 1
+
+Certificate Number: 06-099A1
+
+Page 1 of 3
+
+# NATIONAL TYPE EVALUATION PROGRAM
+
+# Certificate of Conformance
+for Weighing and Measuring Devices
+
+For:
+
+Load Cell
+
+Z-Beam Tension
+
+Models: B3G, H3G, H3F, H3 and BM3 Series
+
+nmax Single Cell, Class III: 5 000
+
+nmax Single Cell, Class III L: 10 000
+
+Capacity: 50 lb to 15 000 lb (50 kg to 7 500 kg)
+
+Accuracy Class: III / III L
+
+Submitted By:
+
+Zemic (USA), Inc.
+
+9252 Hall Road
+
+Downey, CA 90241
+
+Tel: 626-938-0200 ext.226
+
+Fax: 626-938-0202
+
+Contact: Jaime San Pedro
+
+Email: jaimes@cecvp.com
+
+Web site: www.cecvp.com
+
+# Standard Features and Options
+
+- The specific load cells covered by this Certificate are identified by the load cell capacities (see page 2).
+- The specific load cell parameters are listed on page 2.
+
+Standard Features:
+
+- Nominal Output: 2 mV/V or 3 mV/V
+- Cable: 4-wire
+- Nominal Input Impedance: 350 Ohms
+- Counterforce Material: Stainless Steel and Alloy Steel
+
+Capacity Range:
+
+- B3G: 50 lb to 15,000 lb (50 kg to 7500 kg); RO: 3 mV/V Nom.; Material: SST
+- H3G: 50 lb to 15,000 lb (50 kg to 7500 kg); RO: 3 mV/V Nom.; Material: Alloy
+- H3F: 50 lb to 15,000 lb (50 kg to 7500 kg); RO: 3 mV/V Nom.; Material: Alloy
+- H3: 50 lb to 15,000 lb (50 kg to 7500 kg); RO: 2 mV/V or 3 mV/V Nom.; Material: Alloy
+- BM3: 500 kg to 7500 kg; RO: 2 mV/V Nom.; Material: SST; Hermetically Sealed
+
+See last page for pictures.
+
+Temperature Range: -10 °C to 40 °C (14 °F to 104 °F)
+
+This device was evaluated under the National Type Evaluation Program and was found to comply with the applicable technical requirements of "NIST Handbook 44: Specifications, Tolerances and Other Technical Requirements for Weighing and Measuring Devices." Evaluation results and device characteristics necessary for inspection and use in commerce are on the following pages.
+
+Tim Tyson
+
+Chairman, NCWM, Inc.
+
+Randy Jennings
+
+Chairman, National Type Evaluation Program Committee
+
+Issued: March 4, 2011
+
+1135 M Street, Suite 110 / Lincoln, Nebraska 68508
+
+The National Conference on Weights and Measures (NCWM) does not approve, recommend or endorse any proprietary product or material, either as a single item or as a class or group. Results shall not be used in advertising or sales promotion to indicate explicit or implicit endorsement of the product or material by the NCWM.
+
+## Page 2
+
+MONTGOMERY CONSTRUCTION
+
+MONTGOMERY CONSTRUCTION
+
+Certificate Number: 06-099A1
+
+Page 2 of 3
+
+# Zemic (USA), Inc.
+
+Load Cell / B3G, H3G, H3F, H3 and BM3 Series
+
+Load Cell Parameters:
+
+|  Model | Capacity | n_{max} |   | v_{min} |   | Minimum Dead Load  |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |   |  Class III Single | Class III L Single | Class III Single | Class III L Single  |   |
+|  B3G,H3G,H3F,H3, BM3 | 50 lb | 5000 | 10 000 | 0.002 lb | 0.001 lb | 2 lb  |
+|  B3G,H3G,H3F,H3, BM3 | 75 lb | 5000 | 10 000 | 0.003 lb | 0.002 lb | 2 lb  |
+|  B3G,H3G,H3F,H3, BM3 | 100 lb | 5000 | 10 000 | 0.004 lb | 0.002 lb | 2 lb  |
+|  B3G,H3G,H3F,H3, BM3 | 150 lb | 5000 | 10 000 | 0.006 lb | 0.003 lb | 2 lb  |
+|  B3G,H3G*, H3F,H3, BM3 | 200 lb | 5000 | 10 000 | 0.008 lb | 0.004 lb | 2 lb  |
+|  B3G,H3G,H3F,H3, BM3 | 250 lb | 5000 | 10 000 | 0.010 lb | 0.005 lb | 2 lb  |
+|  B3G*,H3G, H3F,H3, BM3 | 300 lb | 5000 | 10 000 | 0.012 lb | 0.006 lb | 2 lb  |
+|  B3G,H3G,H3F,H3, BM3 | 500 lb | 5000 | 10 000 | 0.020 lb | 0.010 lb | 5 lb  |
+|  B3G,H3G,H3F,H3, BM3 | 750 lb | 5000 | 10 000 | 0.030 lb | 0.015 lb | 5 lb  |
+|  B3G,H3G, H3F*,H3, BM3 | 1 000 lb | 5000 | 10 000 | 0.040 lb | 0.020 lb | 10 lb  |
+|  B3G,H3G,H3F,H3, BM3 | 1 500 lb | 5000 | 10 000 | 0.060 lb | 0.030 lb | 10 lb  |
+|  B3G,H3G,H3F,H3, BM3 | 2 000 lb | 5000 | 10 000 | 0.080 lb | 0.040 lb | 10 lb  |
+|  B3G,H3G,H3F,H3, BM3 | 2 500 lb | 5000 | 10 000 | 0.100 lb | 0.050 lb | 10 lb  |
+|  B3G,H3G,H3F,H3, BM3 | 3 000 lb | 5000 | 10 000 | 0.120 lb | 0.060 lb | 10 lb  |
+|  B3G*,H3G, H3F,H3, BM3 | 5 000 lb | 5000 | 10 000 | 0.200 lb | 0.100 lb | 10 lb  |
+|  B3G,H3G,H3F,H3, BM3 | 10 000 lb | 5000 | 10 000 | 0.400 lb | 0.200 lb | 10 lb  |
+|  B3G,H3G,H3F,H3, BM3 | 15 000 lb | 5000 | 10 000 | 0.600 lb | 0.300 lb | 15 lb  |
+|  B3G,H3G,H3F,H3, BM3 | 50 kg | 5000 | 10 000 | 0.002 kg | 0.001 kg | 0.9 kg  |
+|  B3G,H3G,H3F,H3, BM3 | 100 kg | 5000 | 10 000 | 0.004 kg | 0.002 kg | 0.9 kg  |
+|  B3G,H3G,H3F,H3, BM3 | 250 kg | 5000 | 10 000 | 0.010 kg | 0.005 kg | 2.3 kg  |
+|  B3G,H3G,H3F,H3, BM3 | 500 kg | 5000 | 10 000 | 0.020 kg | 0.010 kg | 4.5 kg  |
+|  B3G,H3G,H3F,H3, BM3 | 750 kg | 5000 | 10 000 | 0.030 kg | 0.015 kg | 4.5 kg  |
+|  B3G,H3G,H3F,H3, BM3 | 1 000 kg | 5000 | 10 000 | 0.040 kg | 0.020 kg | 4.5 kg  |
+|  B3G,H3G,H3F,H3, BM3 | 1 500 kg | 5000 | 10 000 | 0.060 kg | 0.030 kg | 4.5 kg  |
+|  B3G,H3G,H3F,H3, BM3 | 2 000 kg | 5000 | 10 000 | 0.080 kg | 0.040 kg | 4.5 kg  |
+|  B3G,H3G,H3F,H3, BM3 | 2 500 kg | 5000 | 10 000 | 0.100 kg | 0.050 kg | 4.5 kg  |
+|  B3G,H3G,H3F,H3, BM3 | 5 000 kg | 5000 | 10 000 | 0.200 kg | 0.100 kg | 4.5 kg  |
+|  B3G,H3G,H3F,H3, BM3 | 7 500 kg | 5000 | 10 000 | 0.300 kg | 0.150 kg | 10 kg  |
+
+*Transducers Evaluated: B3G-300 lb (2 ea), B3G-5 k-lb (2 ea), H3G-200 lb (1 ea), H3F-1t (1 ea), BM3-2t (2 ea)
+
+Application: The load cells may be used in for the applicable Class III and III L scales for both single and multiple cell applications consistent with the model designations, number of scale divisions, and parameters specified in this certificate. Load cells of a given accuracy class may be used in applications with lower accuracy class requirements provided the number of scale divisions, the v$_{min}$ values, and temperature range are suitable for the application.
+
+Identification: A pressure sensitive identification badge containing the manufacturer, model designation, and serial number is located on the load cell. All other required information, if not marked on the load cell, must be on an accompanying document including the serial number of the load cell.
+
+Test Conditions: This Certificate supersedes Certificate of Conformance 06-099 and is issued to add additional models. A 1000 kg capacity load cell (H3F-1t), a 200 lb capacity (H3G-200 lb) and two 2000 kg capacity (BM3-2t) load cells were tested using dead weights as the reference standard. The excitation voltage was 10 V dc. The data were analyzed for single and multiple load cell applications. The cells were tested over a temperature range of -10 to 40 °C. The temperature effect on zero was measured and a time dependence (creep) test was performed. The barometric pressure test was waived due to the insensitivity of the load cell design to changes in barometric pressure. Previous test conditions are listed below for reference.
+
+## Page 3
+
+MONTGOMERY UNIVERSITY
+1871
+MONTGOMERY UNIVERSITY
+1871
+MONTGOMERY UNIVERSITY
+
+MONTGOMERY UNIVERSITY
+1871
+MONTGOMERY UNIVERSITY
+1871
+MONTGOMERY UNIVERSITY
+
+Certificate Number: 06-099A1
+
+Page 3 of 3
+
+# Zemic (USA), Inc.
+
+Load Cell / B3G, H3G, H3F, H3 and BM3 Series
+
+Certificate of Conformance Number 06-099: Two 300 lb (B3G-300 lb), and two 5000 lb (B3G-5k-lb) capacity load cells were tested using dead weights as the reference standard. The excitation voltage was 10 V dc. The data were analyzed for single load cell applications. The cells were tested over a temperature range of -10 to 40 °C. Three tests were run on the each cell at each temperature. The temperature effect on zero was measured and a time dependence (creep) test was performed. The barometric pressure test was waived due to the insensitivity of the load cell design to changes in barometric pressure.
+
+Evaluated By: T. Bartel & K. Chesnutwood (NIST Force Group) 06-099, 06-099A1
+
+Type Evaluation Criteria Used: NIST, Handbook 44: Specifications, Tolerances and Other Technical Requirements for Weighing and Measuring Devices, 2011. NCWM, Publication 14: Weighing Devices, 2010.
+
+Conclusion: The results of the evaluation and information provided by the manufacturer indicate the device complies with applicable requirements.
+
+Information Reviewed By: S. Patoray (NCWM); L. Bernetich (NCWM) 06-099; J. Truex (NCWM) 06-099A1
+
+Examples of Device:
+
+
+
+
+
+Models B3G, H3G, H3F and H3
+
+Model BM3

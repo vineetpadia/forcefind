@@ -1,0 +1,238 @@
+{
+  "source": "https://www.transducertechniques.com/load-cell.aspx",
+  "harvestedAt": "2026-07-24T17:05:13.930987+00:00",
+  "productCount": 33,
+  "products": [
+    {
+      "url": "https://www.transducertechniques.com/button-load-cell.aspx",
+      "status": "ok",
+      "model": "BUTTON",
+      "title": "Button Load Cell",
+      "description": "Order Load Cells online including button load cells, subminiature button load cell, miniature button load cell."
+    },
+    {
+      "url": "https://www.transducertechniques.com/clc-load-cell.aspx",
+      "status": "ok",
+      "model": "CLC",
+      "title": "Low Profile  Load Column Compression Load Cell with Mounting",
+      "description": "The CLC series is our high capacity compression only load cell. The load diameter is slightly convex for accurate load distribution. Capacity ranges 50,000 through 400,000 lbs."
+    },
+    {
+      "url": "https://www.transducertechniques.com/clp-load-cell.aspx",
+      "status": "ok",
+      "model": "CLP",
+      "title": "Accurate / High Reliable Marine & Industrial Clevis Load Pin Load Cell",
+      "description": "Our CLP series clevis load pin are used most often where pins or large bolts would normally be carrying the load. Typical applications would include replacement shackle pins, clevis pins, and pulley shafts."
+    },
+    {
+      "url": "https://www.transducertechniques.com/dsm-load-cell.aspx",
+      "status": "ok",
+      "model": "DSM",
+      "title": "Dual Stud Mount Load Cell Universal / Tension or Compression",
+      "description": "The DSM series dual stud mount load cells are supplied with a stud at each end for easy in line mounting in ranges from 50 lbs. Through 10,000 lbs."
+    },
+    {
+      "url": "https://www.transducertechniques.com/ebb-load-cell.aspx",
+      "status": "ok",
+      "model": "EBB",
+      "title": "Economical Bending Beam Force sensor",
+      "description": "The EBB series is a economical low capacity bending beam load cell suitable for use in a variety of industrial and OEM force measurement and weighing applications."
+    },
+    {
+      "url": "https://www.transducertechniques.com/esp-load-cell.aspx",
+      "status": "ok",
+      "model": "ESP",
+      "title": "Economical Single Point Bending Beam Force Sensors",
+      "description": "The ESP series is economical. high accurate single point load cell. It is ideal for OEM applications such as electronic scales and weighing machines."
+    },
+    {
+      "url": "https://www.transducertechniques.com/gso-load-cell.aspx",
+      "status": "ok",
+      "model": "GSO",
+      "title": "Precision Gram Load Cell Universal / Tension or Compression",
+      "description": "Precision GS0 Series Gram Load Cells can be utilized in tension or compression or both with excellent compliance. Capacity Ranges 10 through 1,000 grams."
+    },
+    {
+      "url": "https://www.transducertechniques.com/hsw-load-cell.aspx",
+      "status": "ok",
+      "model": "HSW",
+      "title": "Hermetically Sealed Load Cell Universal / Tension or Compression",
+      "description": "The HSW series load cells are hermetically sealed for use in harsh industrial environments. All ranges are made from 17-4ph heated treated stainless steel. Capacity ranges 1,000 through 50,000 lbs."
+    },
+    {
+      "url": "https://www.transducertechniques.com/lbc-load-cell.aspx",
+      "status": "ok",
+      "model": "LBC",
+      "title": "Low Profile Load Button Compression Load Cell with Mounting Holes",
+      "description": "The LBC series load button load cell are offered for compression only applications where space is limited. Manufactured from 17-4ph stainless steel, capacity ranges 100 through 50000 lbs."
+    },
+    {
+      "url": "https://www.transducertechniques.com/lbm-load-cell.aspx",
+      "status": "ok",
+      "model": "LBM",
+      "title": "Low Profile  Load Button Compression Load Cell with Treaded Mounting Holes",
+      "description": "The LBM series load button load cell are offered for compression only applications. Manufactured from 17-4ph stainless steel, capacity ranges 50 through 10000 lbs."
+    },
+    {
+      "url": "https://www.transducertechniques.com/lbo-load-cell.aspx",
+      "status": "ok",
+      "model": "LBO",
+      "title": "Low Profile Load Button Compression Load Cell with Threaded Mounting Holes",
+      "description": "The LBO Series (Load Button) load cells are offered for compression only applications where space is limited. \r\nMatching surface must be flat and at least the diameter of (D1). The loading diameter (D2) is slightly convex for accurate load distribution."
+    },
+    {
+      "url": "https://www.transducertechniques.com/lpo-load-cell.aspx",
+      "status": "ok",
+      "model": "LPO",
+      "title": "Ultra-Low Profile Load Cell Universal / Tension or Compression",
+      "description": "The LPO series is the ultimate in low profile load cells. This tension and compression load cell is manufactured from 17-4ph heat treated stainless steel. Capacity range 500 through 20,000 lbs."
+    },
+    {
+      "url": "https://www.transducertechniques.com/lpu-load-cell.aspx",
+      "status": "ok",
+      "model": "LPU",
+      "title": "Low Profile Universal Tension or Compression Load Cell",
+      "description": "Our LPU series are low profile universal tension or compression pancake type load cells. They are available in 14 ranges from 100 lbs. Through 50,000 lbs."
+    },
+    {
+      "url": "https://www.transducertechniques.com/lsp-load-cell.aspx",
+      "status": "ok",
+      "model": "LSP",
+      "title": "Low Capacity Single Point Bending Beam Force Sensors",
+      "description": "The LSP series is a low capacity, low cost, high accurate single point load cell. It is ideal for OEM applications such as electronic scales and weighing machines."
+    },
+    {
+      "url": "https://www.transducertechniques.com/lwo-load-cell.aspx",
+      "status": "ok",
+      "model": "LWO",
+      "title": "Through Hole Load Washer Compression Load Cell",
+      "description": "The LWO series are washer shaped, strain gage based load cells that have been most commonly used in fastener testing and thru-hole load applications. Capacity ranges 2,400 through 300,000 lbs."
+    },
+    {
+      "url": "https://www.transducertechniques.com/mdb-load-cell.aspx",
+      "status": "ok",
+      "model": "MDB",
+      "title": "Ultra-Precision Miniature Load Cell Universal / Tension or Compression",
+      "description": "Ultra Precision Miniature MDB series Load Cells can be utilized in tension or compression or both with excellent compliance. Capacity Ranges 2.5 through 100 lbs."
+    },
+    {
+      "url": "https://www.transducertechniques.com/mlc-load-cell.aspx",
+      "status": "ok",
+      "model": "MLC",
+      "title": "Miniature Load Column Compression Load Cell with Threaded Mounting Hole",
+      "description": "The MLC series is our miniature column, high capacity compression only load cell. The load diameter is slightly convex for accurate load distribution. Capacity ranges 2000 through 30000 lbs."
+    },
+    {
+      "url": "https://www.transducertechniques.com/mlp-load-cell.aspx",
+      "status": "ok",
+      "model": "MLP",
+      "title": "Miniature Low Profile Load Cell Universal / Tension or Compression",
+      "description": "The MLP series Miniature low profile load cells were designed with economy as first priority. They can be utilized in tension or compression or both with excellent compliance. Capacity Ranges 10 through 1000 lbs."
+    },
+    {
+      "url": "https://www.transducertechniques.com/sbl-load-cell.aspx",
+      "status": "ok",
+      "model": "SBL",
+      "title": "Heavy Duty Shear Beam Load Cells",
+      "description": "The SBL series heavy duty shear beam load cells are ideal for process weighing and for use in low profile industrial scales. Capacity ranges 500 lbs. Through 20,000 lbs."
+    },
+    {
+      "url": "https://www.transducertechniques.com/sbo-load-cell.aspx",
+      "status": "ok",
+      "model": "SBO",
+      "title": "Precision S Type Load Cell Universal / Tension or Compression",
+      "description": "SBO series load cells are offered for tension or compression applications for precision weight and force measurements. Applications are conveyor scales, check weighers, and counting scales."
+    },
+    {
+      "url": "https://www.transducertechniques.com/slb-load-cell.aspx",
+      "status": "ok",
+      "model": "SLB",
+      "title": "Subminiature Load Button Compression Load Cell",
+      "description": "The SLB Series Subminiature load cells (Load Buttons) are offered for compression only applications where space is limited."
+    },
+    {
+      "url": "https://www.transducertechniques.com/spl-load-cell.aspx",
+      "status": "ok",
+      "model": "SPL",
+      "title": "Medium Capacity Single Point Bending Beam Force Sensors",
+      "description": "The SPL single point load cell simplifies scale designs, packaging machinery and orther industrial weighing equipment. Capacity ranges 65 Kg. through 500 Kg."
+    },
+    {
+      "url": "https://www.transducertechniques.com/ssm-load-cell.aspx",
+      "status": "ok",
+      "model": "SSM",
+      "title": "Surface Stud Mount Load Cell Universal / Tension or Compression",
+      "description": "The SSM series surface stud mount load cells were designed to be surface mounted with the load applied through the mounting stud for tension or compression applications. Capacity ranges 50 through 10,000 lbs."
+    },
+    {
+      "url": "https://www.transducertechniques.com/swo-load-cell.aspx",
+      "status": "ok",
+      "model": "SWO",
+      "title": "A Compact Accurate Load Cell Universal / Tension or Compression",
+      "description": "The SWO series load cells provide an economical solution for applications that require force measurement or load feedback in both tension and compression. Capacity ranges 1,000 through 50,000 lbs."
+    },
+    {
+      "url": "https://www.transducertechniques.com/swp-load-cell.aspx",
+      "status": "ok",
+      "model": "SWP",
+      "title": "Precision Fatigue Resistant Load Cell Universal Tension / Compression",
+      "description": "Our SWP series low profile load cells are an excellent choice for applications that require ultra stiffness and resistance to extraneous bending and side forces. Capacity ranges 1000 through 50,000 lbs."
+    },
+    {
+      "url": "https://www.transducertechniques.com/tbs-load-cell.aspx",
+      "status": "ok",
+      "model": "TBS",
+      "title": "Full Bridge Thin Beam Force Sensors",
+      "description": "TBS Series thin beam load cells are designed to measure many different parameters found in medical instrumentation, home appliances, process control, robotics, automotive and many other high volume applications."
+    },
+    {
+      "url": "https://www.transducertechniques.com/tha-load-cell.aspx",
+      "status": "ok",
+      "model": "THA",
+      "title": "Through Hole Donut Load Cell (1.00 O.D.)",
+      "description": "The THA series thru-hole (donut) load cells offer an outside diameter of 1.00 inches and up to two different thru-hole diameter options per capacity range. Capacity ranges 50 through 500 lbs."
+    },
+    {
+      "url": "https://www.transducertechniques.com/thb-load-cell.aspx",
+      "status": "ok",
+      "model": "THB",
+      "title": "Through Hole Donut Load Cell (1.50 O.D.)",
+      "description": "The THB series thru-hole (donut) load cells offer an outside diameter of 1.50 inches and up to four different thru-hole diameter options per capacity range. Capacity ranges 100 through 2000 lbs."
+    },
+    {
+      "url": "https://www.transducertechniques.com/thc-load-cell.aspx",
+      "status": "ok",
+      "model": "THC",
+      "title": "Through Hole Donut Load Cell (2.00 O.D.)",
+      "description": "The THC series thru-hole (donut) load cells offer an outside diameter of 2.00 inches and up to six different thru-hole diameter options per capacity range. Capacity ranges 250 through 10,000 lbs."
+    },
+    {
+      "url": "https://www.transducertechniques.com/thd-load-cell.aspx",
+      "status": "ok",
+      "model": "THD",
+      "title": "Through Hole Donut Load Cell (3.00 O.D.)",
+      "description": "The THD series thru-hole (donut) load cells offer an outside diameter of 3.00 inches and up to nine different thru-hole diameter options per capacity range. Capacity ranges 2000 through 50,000 lbs."
+    },
+    {
+      "url": "https://www.transducertechniques.com/through-hole-donut-load-cell.aspx",
+      "status": "ok",
+      "model": "THROUGH-HOLE-DONUT",
+      "title": "Through Hole / Donut Load Cells",
+      "description": "Order Load Cells online including through hole load cell, thru hole load cell, donut load cell, load washer load cell."
+    },
+    {
+      "url": "https://www.transducertechniques.com/tll-load-cell.aspx",
+      "status": "ok",
+      "model": "TLL",
+      "title": "Economical Tension Load Cell for Accurate In-Line Force Measurements",
+      "description": "Our TLL-F series load cells are offered as an economical method for accurately measuring in line tension forces with female threads. Best results are obtained when loaded through spherical rod end bearings. Capacity ranges 500 through 3,000 lbs."
+    },
+    {
+      "url": "https://www.transducertechniques.com/tllm-load-cell.aspx",
+      "status": "ok",
+      "model": "TLLM",
+      "title": "Economical Tension Load Cell for Accurate In-Line Force Measurement",
+      "description": "Our TLL-M series load cells are offered as an economical method for accurately measuring in line tension forces with male threads. Best results are obtained when loaded through spherical rod end bearings. Capacity ranges 5000 through 50,000 lbs."
+    }
+  ]
+}

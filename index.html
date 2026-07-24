@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full bg-slate-950 text-slate-100">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ForceFind — Force Sensor & Load Cell Selector</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              50: '#f0f9ff',
+              100: '#e0f2fe',
+              500: '#0ea5e9',
+              600: '#0284c7',
+              700: '#0369a1',
+              900: '#0c4a6e',
+            }
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    /* Custom scrollbars */
+    ::-webkit-scrollbar { width: 8px; height: 8px; }
+    ::-webkit-scrollbar-track { background: #0f172a; }
+    ::-webkit-scrollbar-thumb { background: #334155; border-radius: 4px; }
+    ::-webkit-scrollbar-thumb:hover { background: #475569; }
+    
+    .ocr-content h1 { font-size: 1.5rem; font-weight: 700; margin-top: 1rem; margin-bottom: 0.5rem; color: #38bdf8; border-bottom: 1px solid #334155; padding-bottom: 0.25rem; }
+    .ocr-content h2 { font-size: 1.25rem; font-weight: 600; margin-top: 1rem; margin-bottom: 0.5rem; color: #e2e8f0; }
+    .ocr-content h3 { font-size: 1.1rem; font-weight: 600; margin-top: 0.75rem; margin-bottom: 0.25rem; color: #cbd5e1; }
+    .ocr-content table { width: 100%; border-collapse: collapse; margin: 0.75rem 0; font-size: 0.875rem; }
+    .ocr-content th, .ocr-content td { border: 1px solid #334155; padding: 0.4rem 0.6rem; text-align: left; }
+    .ocr-content th { background-color: #1e293b; color: #f8fafc; font-weight: 600; }
+    .ocr-content tr:nth-child(even) { background-color: #0f172a; }
+    .ocr-content ul { list-style-type: disc; padding-left: 1.25rem; margin: 0.5rem 0; }
+    .ocr-content p { margin: 0.5rem 0; color: #cbd5e1; line-height: 1.5; }
+    .ocr-content code { background-color: #1e293b; padding: 0.1rem 0.3rem; border-radius: 0.2rem; font-family: monospace; font-size: 0.85em; color: #38bdf8; }
+  </style>
+</head>
+<body class="h-full flex flex-col font-sans bg-slate-950 text-slate-100 antialiased overflow-hidden">
+
+  <!-- TOP HEADER & METRICS -->
+  <header class="bg-slate-900 border-b border-slate-800 shrink-0 px-4 py-3 shadow-lg z-20">
+    <div class="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-3">
+      
+      <!-- Brand & Title -->
+      <div class="flex items-center gap-3">
+        <div class="w-10 h-10 rounded-xl bg-gradient-to-tr from-sky-500 to-indigo-600 flex items-center justify-center text-white shadow-md shadow-sky-500/20">
+          <i class="fa-solid fa-weight-hanging text-lg"></i>
+        </div>
+        <div>
+          <div class="flex items-center gap-2">
+            <h1 class="text-xl font-bold tracking-tight text-white">ForceFind</h1>
+            <span class="text-xs font-semibold px-2 py-0.5 rounded-full bg-sky-500/10 text-sky-400 border border-sky-500/20">v2.0 Selector</span>
+          </div>
+          <p class="text-xs text-slate-400">Source-grounded database of force sensors, load cells & transducers</p>
+        </div>
+      </div>
+
+      <!-- Live Statistics Badges -->
+      <div class="flex items-center gap-2 text-xs flex-wrap justify-center">
+        <div class="bg-slate-800/80 border border-slate-700 px-3 py-1.5 rounded-lg flex items-center gap-2">
+          <i class="fa-solid fa-microchip text-sky-400"></i>
+          <span><strong id="stat-sensors" class="text-white font-semibold">2,628</strong> Sensors</span>
+        </div>
+        <div class="bg-slate-800/80 border border-slate-700 px-3 py-1.5 rounded-lg flex items-center gap-2">
+          <i class="fa-solid fa-building text-indigo-400"></i>
+          <span><strong id="stat-mfrs" class="text-white font-semibold">226</strong> Brands</span>
+        </div>
+        <div class="bg-slate-800/80 border border-slate-700 px-3 py-1.5 rounded-lg flex items-center gap-2">
+          <i class="fa-solid fa-layer-group text-purple-400"></i>
+          <span><strong id="stat-families" class="text-white font-semibold">1,501</strong> Families</span>
+        </div>
+        <div class="bg-slate-800/80 border border-slate-700 px-3 py-1.5 rounded-lg flex items-center gap-2">
+          <i class="fa-solid fa-file-pdf text-emerald-400"></i>
+          <span><strong id="stat-ocr" class="text-white font-semibold">910</strong> OCR'd Datasheets</span>
+        </div>
+      </div>
+
+      <!-- View Switcher & Actions -->
+      <div class="flex items-center gap-2">
+        <div class="bg-slate-950 p-1 rounded-lg border border-slate-800 flex text-xs font-medium">
+          <button id="view-all-btn" onclick="setViewMode('all')" class="px-3 py-1.5 rounded-md text-white bg-sky-600 font-semibold shadow-sm transition">
+            <i class="fa-solid fa-table-list mr-1.5"></i>All Sensors
+          </button>
+          <button id="view-shortlist-btn" onclick="setViewMode('shortlist')" class="px-3 py-1.5 rounded-md text-slate-400 hover:text-white transition flex items-center gap-1.5">
+            <i class="fa-solid fa-star text-amber-400"></i>Shortlist <span id="shortlist-count-badge" class="ml-1 px-1.5 py-0.2 bg-amber-500/20 text-amber-300 rounded-full text-[10px] font-bold">0</span>
+          </button>
+        </div>
+        
+        <button onclick="exportCSV()" class="px-3 py-1.5 text-xs font-semibold rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-200 border border-slate-700 transition flex items-center gap-1.5" title="Export matching rows to CSV">
+          <i class="fa-solid fa-download text-slate-400"></i>Export
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- MAIN CONTENT AREA -->
+  <div class="flex-1 flex overflow-hidden">
+    
+    <!-- SIDEBAR FILTERS -->
+    <aside class="w-80 bg-slate-900/90 border-r border-slate-800 flex flex-col shrink-0 overflow-y-auto">
+      <div class="p-4 border-b border-slate-800 flex items-center justify-between">
+        <h2 class="text-sm font-semibold text-white flex items-center gap-2">
+          <i class="fa-solid fa-filter text-sky-400"></i>Filters & Search
+        </h2>
+        <button onclick="resetFilters()" class="text-xs text-sky-400 hover:text-sky-300 font-medium transition">Reset All</button>
+      </div>
+
+      <div class="p-4 space-y-5 flex-1">
+        
+        <!-- Global Search -->
+        <div>
+          <label class="block text-xs font-semibold text-slate-300 mb-1.5">Global Search</label>
+          <div class="relative">
+            <i class="fa-solid fa-magnifying-glass absolute left-3 top-2.5 text-slate-500 text-xs"></i>
+            <input type="text" id="search-input" oninput="onFilterChange()" placeholder="Model, keyword, or OCR spec..." 
+              class="w-full bg-slate-950 border border-slate-800 rounded-lg pl-8 pr-3 py-1.5 text-xs text-white placeholder-slate-500 focus:outline-none focus:border-sky-500 focus:ring-1 focus:ring-sky-500 transition">
+          </div>
+        </div>
+
+        <!-- Manufacturer Filter -->
+        <div>
+          <div class="flex items-center justify-between mb-1.5">
+            <label class="text-xs font-semibold text-slate-300">Manufacturer / Brand</label>
+            <span id="mfr-count" class="text-[10px] text-slate-500">226 available</span>
+          </div>
+          <select id="mfr-select" onchange="onFilterChange()" class="w-full bg-slate-950 border border-slate-800 rounded-lg px-2.5 py-1.5 text-xs text-white focus:outline-none focus:border-sky-500 transition">
+            <option value="">All Manufacturers (226)</option>
+          </select>
+        </div>
+
+        <!-- Sensor Technology / Type Filter -->
+        <div>
+          <label class="block text-xs font-semibold text-slate-300 mb-1.5">Sensor Type / Technology</label>
+          <select id="type-select" onchange="onFilterChange()" class="w-full bg-slate-950 border border-slate-800 rounded-lg px-2.5 py-1.5 text-xs text-white focus:outline-none focus:border-sky-500 transition">
+            <option value="">All Sensor Types</option>
+          </select>
+        </div>
+
+        <!-- Force Capacity Range (Newtons) -->
+        <div>
+          <label class="block text-xs font-semibold text-slate-300 mb-1.5">Max Force / Capacity (N)</label>
+          <div class="grid grid-cols-2 gap-2">
+            <div>
+              <input type="number" id="force-min" oninput="onFilterChange()" placeholder="Min N" 
+                class="w-full bg-slate-950 border border-slate-800 rounded-lg px-2.5 py-1.5 text-xs text-white placeholder-slate-500 focus:outline-none focus:border-sky-500 transition">
+            </div>
+            <div>
+              <input type="number" id="force-max" oninput="onFilterChange()" placeholder="Max N" 
+                class="w-full bg-slate-950 border border-slate-800 rounded-lg px-2.5 py-1.5 text-xs text-white placeholder-slate-500 focus:outline-none focus:border-sky-500 transition">
+            </div>
+          </div>
+          <div class="flex justify-between text-[10px] text-slate-500 mt-1">
+            <span>e.g., 100 N</span>
+            <span>100,000 N (100 kN)</span>
+          </div>
+        </div>
+
+        <!-- Datasheet & OCR Availability -->
+        <div>
+          <label class="block text-xs font-semibold text-slate-300 mb-1.5">Datasheet & OCR Filter</label>
+          <div class="space-y-1.5">
+            <label class="flex items-center gap-2 text-xs text-slate-300 cursor-pointer">
+              <input type="checkbox" id="filter-has-pdf" onchange="onFilterChange()" class="rounded bg-slate-950 border-slate-800 text-sky-600 focus:ring-sky-500">
+              <span>Has Local PDF Datasheet</span>
+            </label>
+            <label class="flex items-center gap-2 text-xs text-slate-300 cursor-pointer">
+              <input type="checkbox" id="filter-has-ocr" onchange="onFilterChange()" class="rounded bg-slate-950 border-slate-800 text-sky-600 focus:ring-sky-500">
+              <span>Has Complete Mistral OCR Text</span>
+            </label>
+          </div>
+        </div>
+
+        <!-- Form Factor Filter -->
+        <div>
+          <label class="block text-xs font-semibold text-slate-300 mb-1.5">Form Factor Keywords</label>
+          <input type="text" id="form-input" oninput="onFilterChange()" placeholder="e.g. Pancake, S-beam, Button..." 
+            class="w-full bg-slate-950 border border-slate-800 rounded-lg px-2.5 py-1.5 text-xs text-white placeholder-slate-500 focus:outline-none focus:border-sky-500 transition">
+        </div>
+
+      </div>
+
+      <!-- Footer Info -->
+      <div class="p-4 border-t border-slate-800 bg-slate-950/50 text-[11px] text-slate-500">
+        <p>Showing <strong id="matched-count" class="text-slate-300 font-semibold">0</strong> of <span id="total-count">0</span> items</p>
+      </div>
+    </aside>
+
+    <!-- SPREADSHEET DATA GRID -->
+    <main class="flex-1 flex flex-col min-w-0 bg-slate-950">
+      
+      <!-- Table Controls Bar -->
+      <div class="bg-slate-900/50 border-b border-slate-800 px-4 py-2 flex items-center justify-between text-xs">
+        <div class="flex items-center gap-3">
+          <span class="text-slate-400">Sort by:</span>
+          <select id="sort-select" onchange="onSortChange()" class="bg-slate-950 border border-slate-800 rounded px-2 py-1 text-xs text-slate-200 focus:outline-none focus:border-sky-500">
+            <option value="name_asc">Model Name (A-Z)</option>
+            <option value="name_desc">Model Name (Z-A)</option>
+            <option value="mfr_asc">Manufacturer (A-Z)</option>
+            <option value="force_desc">Max Force (High to Low)</option>
+            <option value="force_asc">Max Force (Low to High)</option>
+            <option value="ocr_desc">OCR Status (Available First)</option>
+          </select>
+        </div>
+
+        <div class="flex items-center gap-3">
+          <span id="page-info" class="text-slate-400">Page 1 of 1</span>
+          <div class="flex items-center gap-1">
+            <button id="prev-page" onclick="changePage(-1)" class="p-1 px-2.5 rounded bg-slate-800 hover:bg-slate-700 text-slate-300 disabled:opacity-40 transition">
+              <i class="fa-solid fa-chevron-left"></i>
+            </button>
+            <button id="next-page" onclick="changePage(1)" class="p-1 px-2.5 rounded bg-slate-800 hover:bg-slate-700 text-slate-300 disabled:opacity-40 transition">
+              <i class="fa-solid fa-chevron-right"></i>
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Main Table Container -->
+      <div class="flex-1 overflow-auto">
+        <table class="w-full text-left border-collapse text-xs">
+          <thead class="sticky top-0 bg-slate-900 text-slate-300 font-semibold border-b border-slate-800 z-10 shadow-sm">
+            <tr>
+              <th class="py-2.5 px-3 w-10 text-center">⭐</th>
+              <th class="py-2.5 px-3 font-medium cursor-pointer hover:text-white" onclick="toggleSort('name')">
+                Model / MPN <i class="fa-solid fa-sort text-slate-600 text-[10px] ml-1"></i>
+              </th>
+              <th class="py-2.5 px-3 font-medium cursor-pointer hover:text-white" onclick="toggleSort('mfr')">
+                Manufacturer <i class="fa-solid fa-sort text-slate-600 text-[10px] ml-1"></i>
+              </th>
+              <th class="py-2.5 px-3 font-medium">Type / Category</th>
+              <th class="py-2.5 px-3 font-medium cursor-pointer hover:text-white" onclick="toggleSort('force')">
+                Max Capacity / Force <i class="fa-solid fa-sort text-slate-600 text-[10px] ml-1"></i>
+              </th>
+              <th class="py-2.5 px-3 font-medium">Form Factor</th>
+              <th class="py-2.5 px-3 font-medium">Price ($)</th>
+              <th class="py-2.5 px-3 font-medium text-center">Datasheet & OCR</th>
+              <th class="py-2.5 px-3 text-right pr-4">Action</th>
+            </tr>
+          </thead>
+          <tbody id="table-body" class="divide-y divide-slate-800/60 font-normal">
+            <!-- Dynamic Rows rendered via JS -->
+            <tr>
+              <td colspan="9" class="py-12 text-center text-slate-500">
+                <i class="fa-solid fa-circle-notch fa-spin text-xl text-sky-500 mb-2"></i>
+                <p>Loading ForceFind sensor database...</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+    </main>
+  </div>
+
+  <!-- SENSOR DETAIL & OCR DRAWER (SLIDE-OVER) -->
+  <div id="detail-drawer" class="fixed inset-y-0 right-0 w-full max-w-2xl bg-slate-900 border-l border-slate-800 shadow-2xl z-50 transform translate-x-full transition-transform duration-300 ease-in-out flex flex-col">
+    
+    <!-- Drawer Header -->
+    <div class="p-4 border-b border-slate-800 flex items-center justify-between bg-slate-950">
+      <div class="flex items-center gap-3">
+        <button id="drawer-star-btn" onclick="toggleCurrentStar()" class="text-slate-600 hover:text-amber-400 text-lg transition">
+          <i class="fa-regular fa-star"></i>
+        </button>
+        <div>
+          <h2 id="drawer-title" class="text-base font-bold text-white">Sensor Detail</h2>
+          <p id="drawer-subtitle" class="text-xs text-sky-400 font-medium">Manufacturer</p>
+        </div>
+      </div>
+      <button onclick="closeDrawer()" class="p-1.5 text-slate-400 hover:text-white hover:bg-slate-800 rounded-lg transition">
+        <i class="fa-solid fa-xmark text-base"></i>
+      </button>
+    </div>
+
+    <!-- Drawer Body -->
+    <div class="flex-1 overflow-y-auto p-5 space-y-6">
+      
+      <!-- Specifications Cards Grid -->
+      <div class="grid grid-cols-2 gap-3">
+        <div class="bg-slate-950 p-3 rounded-lg border border-slate-800">
+          <span class="text-[10px] uppercase font-semibold text-slate-500 tracking-wider">Max Capacity / Force</span>
+          <p id="drawer-force" class="text-sm font-bold text-slate-100 mt-0.5">-</p>
+        </div>
+        <div class="bg-slate-950 p-3 rounded-lg border border-slate-800">
+          <span class="text-[10px] uppercase font-semibold text-slate-500 tracking-wider">Sensor Technology</span>
+          <p id="drawer-type" class="text-sm font-semibold text-slate-100 mt-0.5">-</p>
+        </div>
+        <div class="bg-slate-950 p-3 rounded-lg border border-slate-800">
+          <span class="text-[10px] uppercase font-semibold text-slate-500 tracking-wider">Form Factor</span>
+          <p id="drawer-form" class="text-xs font-medium text-slate-300 mt-0.5">-</p>
+        </div>
+        <div class="bg-slate-950 p-3 rounded-lg border border-slate-800">
+          <span class="text-[10px] uppercase font-semibold text-slate-500 tracking-wider">Observed Unit Price</span>
+          <p id="drawer-price" class="text-xs font-semibold text-slate-300 mt-0.5">Unspecified</p>
+        </div>
+      </div>
+
+      <!-- Action Buttons (PDF Links) -->
+      <div class="flex gap-2">
+        <a id="drawer-pdf-link" href="#" target="_blank" class="flex-1 py-2 px-3 bg-sky-600 hover:bg-sky-500 text-white rounded-lg font-semibold text-xs text-center flex items-center justify-center gap-2 shadow-sm transition">
+          <i class="fa-solid fa-file-pdf"></i>View Original PDF
+        </a>
+        <a id="drawer-remote-link" href="#" target="_blank" class="py-2 px-3 bg-slate-800 hover:bg-slate-700 text-slate-200 rounded-lg font-medium text-xs flex items-center justify-center gap-1.5 border border-slate-700 transition">
+          <i class="fa-solid fa-arrow-up-right-from-square"></i>Product Page
+        </a>
+      </div>
+
+      <!-- OCR Markdown Content Section -->
+      <div class="space-y-2">
+        <div class="flex items-center justify-between">
+          <h3 class="text-xs font-bold uppercase tracking-wider text-slate-400 flex items-center gap-2">
+            <i class="fa-solid fa-file-lines text-sky-400"></i>Mistral OCR Markdown Text
+          </h3>
+          <span id="drawer-ocr-badge" class="text-[10px] font-semibold px-2 py-0.5 rounded bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">OCR Complete</span>
+        </div>
+
+        <div id="drawer-ocr-container" class="bg-slate-950 border border-slate-800 rounded-xl p-4 min-h-[250px] max-h-[450px] overflow-y-auto ocr-content text-xs">
+          <p class="text-slate-500 italic">No OCR text available for this item.</p>
+        </div>
+      </div>
+
+      <!-- Audit Provenance Info -->
+      <div class="p-3 bg-slate-950/60 rounded-lg border border-slate-800/80 text-[11px] space-y-1 text-slate-400">
+        <div class="flex justify-between">
+          <span>Source Tag:</span>
+          <span id="drawer-source" class="font-mono text-slate-300">-</span>
+        </div>
+        <div class="flex justify-between">
+          <span>OCR Model:</span>
+          <span class="font-mono text-sky-400">mistral-ocr-latest</span>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- BACKDROP OVERLAY -->
+  <div id="drawer-backdrop" onclick="closeDrawer()" class="fixed inset-0 bg-slate-950/70 backdrop-blur-sm z-40 hidden transition-opacity"></div>
+
+  <!-- APPLICATION SCRIPT -->
+  <script>
+    let allSensors = [];
+    let filteredSensors = [];
+    let shortlistedIds = new Set(JSON.parse(localStorage.getItem('forcefind_shortlist') || '[]'));
+    let currentViewMode = 'all'; // 'all' or 'shortlist'
+    
+    let currentPage = 1;
+    const pageSize = 50;
+    let currentSortField = 'name';
+    let currentSortDir = 'asc';
+    let currentActiveSensor = null;
+
+    // Load compiled dataset
+    async function loadDataset() {
+      try {
+        let res;
+        try {
+          res = await fetch('selector-data.json');
+          if (!res.ok) throw new Error('Not ok');
+        } catch (e) {
+          try {
+            res = await fetch('public/selector-data.json');
+            if (!res.ok) throw new Error('Not ok');
+          } catch (e2) {
+            res = await fetch('data/selector-data.json');
+          }
+        }
+        const data = await res.json();
+        allSensors = data.sensors || [];
+
+        // Update statistics
+        document.getElementById('stat-sensors').innerText = (data.metadata?.totalSensors || allSensors.length).toLocaleString();
+        document.getElementById('stat-mfrs').innerText = (data.metadata?.totalManufacturers || 226).toLocaleString();
+        document.getElementById('stat-families').innerText = (data.metadata?.totalFamilies || 1501).toLocaleString();
+        document.getElementById('stat-ocr').innerText = (data.metadata?.totalDocuments || 910).toLocaleString();
+
+        populateDropdowns(data.manufacturers || [], data.types || []);
+        updateShortlistBadge();
+        onFilterChange();
+      } catch (err) {
+        console.error('Failed to load selector-data.json:', err);
+        document.getElementById('table-body').innerHTML = `
+          <tr>
+            <td colspan="9" class="py-12 text-center text-red-400">
+              <i class="fa-solid fa-triangle-exclamation text-2xl mb-2"></i>
+              <p class="font-semibold">Failed to load selector-data.json</p>
+              <p class="text-xs text-slate-500 mt-1">Run <code>python scripts/build_selector_data.py</code> first.</p>
+            </td>
+          </tr>`;
+      }
+    }
+
+    function populateDropdowns(mfrs, types) {
+      const mfrSelect = document.getElementById('mfr-select');
+      mfrs.forEach(m => {
+        const opt = document.createElement('option');
+        opt.value = m;
+        opt.textContent = m;
+        mfrSelect.appendChild(opt);
+      });
+      document.getElementById('mfr-count').innerText = `${mfrs.length} available`;
+
+      const typeSelect = document.getElementById('type-select');
+      types.forEach(t => {
+        const opt = document.createElement('option');
+        opt.value = t;
+        opt.textContent = t;
+        typeSelect.appendChild(opt);
+      });
+    }
+
+    function updateShortlistBadge() {
+      document.getElementById('shortlist-count-badge').innerText = shortlistedIds.size;
+    }
+
+    function setViewMode(mode) {
+      currentViewMode = mode;
+      const allBtn = document.getElementById('view-all-btn');
+      const shortBtn = document.getElementById('view-shortlist-btn');
+
+      if (mode === 'all') {
+        allBtn.className = 'px-3 py-1.5 rounded-md text-white bg-sky-600 font-semibold shadow-sm transition';
+        shortBtn.className = 'px-3 py-1.5 rounded-md text-slate-400 hover:text-white transition flex items-center gap-1.5';
+      } else {
+        shortBtn.className = 'px-3 py-1.5 rounded-md text-amber-300 bg-amber-500/20 font-semibold border border-amber-500/30 transition flex items-center gap-1.5';
+        allBtn.className = 'px-3 py-1.5 rounded-md text-slate-400 hover:text-white transition';
+      }
+      onFilterChange();
+    }
+
+    function onFilterChange() {
+      const search = document.getElementById('search-input').value.toLowerCase().trim();
+      const mfr = document.getElementById('mfr-select').value;
+      const type = document.getElementById('type-select').value;
+      const minForce = parseFloat(document.getElementById('force-min').value) || null;
+      const maxForce = parseFloat(document.getElementById('force-max').value) || null;
+      const hasPdf = document.getElementById('filter-has-pdf').checked;
+      const hasOcr = document.getElementById('filter-has-ocr').checked;
+      const formKey = document.getElementById('form-input').value.toLowerCase().trim();
+
+      filteredSensors = allSensors.filter(s => {
+        if (currentViewMode === 'shortlist' && !shortlistedIds.has(s.id)) return false;
+
+        if (mfr && s.manufacturer !== mfr) return false;
+        if (type && s.type !== type) return false;
+        
+        if (minForce !== null && (s.maxForceN === null || s.maxForceN < minForce)) return false;
+        if (maxForce !== null && (s.maxForceN === null || s.maxForceN > maxForce)) return false;
+
+        if (hasPdf && !s.pdfPath) return false;
+        if (hasOcr && !s.ocrPath) return false;
+
+        if (formKey && !(s.formFactor || '').toLowerCase().includes(formKey)) return false;
+
+        if (search) {
+          const textMatch = (s.name || '').toLowerCase().includes(search) ||
+                            (s.manufacturer || '').toLowerCase().includes(search) ||
+                            (s.type || '').toLowerCase().includes(search) ||
+                            (s.ocrSnippet || '').toLowerCase().includes(search) ||
+                            (s.ocrText || '').toLowerCase().includes(search);
+          if (!textMatch) return false;
+        }
+
+        return true;
+      });
+
+      sortSensors();
+      currentPage = 1;
+      renderTable();
+    }
+
+    function onSortChange() {
+      const val = document.getElementById('sort-select').value;
+      const [field, dir] = val.split('_');
+      currentSortField = field;
+      currentSortDir = dir;
+      sortSensors();
+      renderTable();
+    }
+
+    function toggleSort(field) {
+      if (currentSortField === field) {
+        currentSortDir = currentSortDir === 'asc' ? 'desc' : 'asc';
+      } else {
+        currentSortField = field;
+        currentSortDir = 'asc';
+      }
+      sortSensors();
+      renderTable();
+    }
+
+    function sortSensors() {
+      filteredSensors.sort((a, b) => {
+        let valA, valB;
+        if (currentSortField === 'name') {
+          valA = a.name.toLowerCase();
+          valB = b.name.toLowerCase();
+        } else if (currentSortField === 'mfr') {
+          valA = a.manufacturer.toLowerCase();
+          valB = b.manufacturer.toLowerCase();
+        } else if (currentSortField === 'force') {
+          valA = a.maxForceN ?? -1;
+          valB = b.maxForceN ?? -1;
+        } else if (currentSortField === 'ocr') {
+          valA = a.ocrPath ? 1 : 0;
+          valB = b.ocrPath ? 1 : 0;
+        }
+        if (valA < valB) return currentSortDir === 'asc' ? -1 : 1;
+        if (valA > valB) return currentSortDir === 'asc' ? 1 : -1;
+        return 0;
+      });
+    }
+
+    function renderTable() {
+      const total = filteredSensors.length;
+      document.getElementById('matched-count').innerText = total.toLocaleString();
+      document.getElementById('total-count').innerText = allSensors.length.toLocaleString();
+
+      const totalPages = Math.ceil(total / pageSize) || 1;
+      if (currentPage > totalPages) currentPage = totalPages;
+
+      document.getElementById('page-info').innerText = `Page ${currentPage} of ${totalPages}`;
+      document.getElementById('prev-page').disabled = currentPage <= 1;
+      document.getElementById('next-page').disabled = currentPage >= totalPages;
+
+      const tbody = document.getElementById('table-body');
+      if (total === 0) {
+        tbody.innerHTML = `
+          <tr>
+            <td colspan="9" class="py-12 text-center text-slate-500">
+              <i class="fa-solid fa-folder-open text-2xl mb-2 text-slate-600"></i>
+              <p class="font-medium">No matching force sensors found.</p>
+              <p class="text-xs text-slate-600 mt-1">Try broadening your search or resetting filters.</p>
+            </td>
+          </tr>`;
+        return;
+      }
+
+      const start = (currentPage - 1) * pageSize;
+      const pageRows = filteredSensors.slice(start, start + pageSize);
+
+      tbody.innerHTML = pageRows.map(s => {
+        const isStarred = shortlistedIds.has(s.id);
+        const hasPdf = !!s.pdfPath;
+        const hasOcr = !!s.ocrPath;
+
+        return `
+          <tr class="hover:bg-slate-900/80 transition group border-b border-slate-800/40">
+            <td class="py-2.5 px-3 text-center">
+              <button onclick="toggleStar('${s.id}')" class="text-sm transition ${isStarred ? 'text-amber-400' : 'text-slate-700 hover:text-amber-400'}">
+                <i class="fa-${isStarred ? 'solid' : 'regular'} fa-star"></i>
+              </button>
+            </td>
+            <td class="py-2.5 px-3 font-semibold text-white group-hover:text-sky-300 transition">
+              ${escapeHtml(s.name)}
+            </td>
+            <td class="py-2.5 px-3 text-slate-300">
+              <span class="px-2 py-0.5 rounded-md bg-slate-900 border border-slate-800 text-slate-300 font-medium">
+                ${escapeHtml(s.manufacturer)}
+              </span>
+            </td>
+            <td class="py-2.5 px-3 text-slate-400">${escapeHtml(s.type)}</td>
+            <td class="py-2.5 px-3 font-medium text-slate-200 font-mono">${escapeHtml(s.maxForceFormatted)}</td>
+            <td class="py-2.5 px-3 text-slate-400">${escapeHtml(s.formFactor)}</td>
+            <td class="py-2.5 px-3 text-slate-400">${s.price ? '$' + s.price : '-'}</td>
+            <td class="py-2.5 px-3 text-center">
+              <div class="flex items-center justify-center gap-1.5">
+                ${hasPdf ? `<span class="px-1.5 py-0.5 text-[10px] font-semibold bg-sky-500/10 text-sky-400 border border-sky-500/20 rounded" title="Local PDF Available">PDF</span>` : `<span class="text-slate-700">-</span>`}
+                ${hasOcr ? `<span class="px-1.5 py-0.5 text-[10px] font-semibold bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 rounded" title="Mistral OCR Complete">OCR</span>` : ``}
+              </div>
+            </td>
+            <td class="py-2.5 px-3 text-right pr-4">
+              <button onclick="openDrawer('${s.id}')" class="px-2.5 py-1 bg-slate-800 hover:bg-sky-600 text-slate-200 hover:text-white rounded border border-slate-700 font-medium transition text-[11px] flex items-center gap-1 ml-auto">
+                <i class="fa-solid fa-eye text-[10px]"></i>Details
+              </button>
+            </td>
+          </tr>
+        `;
+      }).join('');
+    }
+
+    function changePage(delta) {
+      currentPage += delta;
+      renderTable();
+    }
+
+    function toggleStar(id) {
+      if (shortlistedIds.has(id)) {
+        shortlistedIds.delete(id);
+      } else {
+        shortlistedIds.add(id);
+      }
+      localStorage.setItem('forcefind_shortlist', JSON.stringify(Array.from(shortlistedIds)));
+      updateShortlistBadge();
+      renderTable();
+      if (currentActiveSensor && currentActiveSensor.id === id) {
+        updateDrawerStarButton();
+      }
+    }
+
+    function openDrawer(id) {
+      const sensor = allSensors.find(s => s.id === id);
+      if (!sensor) return;
+      currentActiveSensor = sensor;
+
+      document.getElementById('drawer-title').innerText = sensor.name;
+      document.getElementById('drawer-subtitle').innerText = sensor.manufacturer;
+      document.getElementById('drawer-force').innerText = sensor.maxForceFormatted;
+      document.getElementById('drawer-type').innerText = sensor.type;
+      document.getElementById('drawer-form').innerText = sensor.formFactor;
+      document.getElementById('drawer-price').innerText = sensor.price ? `$${sensor.price}` : 'Unspecified';
+      document.getElementById('drawer-source').innerText = sensor.sourceTag || 'ForceFind Audit';
+
+      updateDrawerStarButton();
+
+      const pdfLink = document.getElementById('drawer-pdf-link');
+      if (sensor.pdfPath) {
+        pdfLink.href = sensor.pdfPath;
+        pdfLink.classList.remove('pointer-events-none', 'opacity-50');
+      } else {
+        pdfLink.href = '#';
+        pdfLink.classList.add('pointer-events-none', 'opacity-50');
+      }
+
+      const remoteLink = document.getElementById('drawer-remote-link');
+      if (sensor.remoteUrl) {
+        remoteLink.href = sensor.remoteUrl;
+        remoteLink.classList.remove('pointer-events-none', 'opacity-50');
+      } else {
+        remoteLink.href = '#';
+        remoteLink.classList.add('pointer-events-none', 'opacity-50');
+      }
+
+      const ocrContainer = document.getElementById('drawer-ocr-container');
+      if (sensor.ocrText) {
+        ocrContainer.innerHTML = marked.parse(sensor.ocrText);
+        document.getElementById('drawer-ocr-badge').style.display = 'inline-block';
+      } else {
+        ocrContainer.innerHTML = `<p class="text-slate-500 italic p-4 text-center">No OCR text available for this item. Primary datasheet resolution pending.</p>`;
+        document.getElementById('drawer-ocr-badge').style.display = 'none';
+      }
+
+      document.getElementById('detail-drawer').classList.remove('translate-x-full');
+      document.getElementById('drawer-backdrop').classList.remove('hidden');
+    }
+
+    function closeDrawer() {
+      document.getElementById('detail-drawer').classList.add('translate-x-full');
+      document.getElementById('drawer-backdrop').classList.add('hidden');
+      currentActiveSensor = null;
+    }
+
+    function updateDrawerStarButton() {
+      if (!currentActiveSensor) return;
+      const starBtn = document.getElementById('drawer-star-btn');
+      const isStarred = shortlistedIds.has(currentActiveSensor.id);
+      starBtn.className = `text-lg transition ${isStarred ? 'text-amber-400' : 'text-slate-600 hover:text-amber-400'}`;
+      starBtn.innerHTML = `<i class="fa-${isStarred ? 'solid' : 'regular'} fa-star"></i>`;
+    }
+
+    function toggleCurrentStar() {
+      if (currentActiveSensor) {
+        toggleStar(currentActiveSensor.id);
+      }
+    }
+
+    function resetFilters() {
+      document.getElementById('search-input').value = '';
+      document.getElementById('mfr-select').value = '';
+      document.getElementById('type-select').value = '';
+      document.getElementById('force-min').value = '';
+      document.getElementById('force-max').value = '';
+      document.getElementById('filter-has-pdf').checked = false;
+      document.getElementById('filter-has-ocr').checked = false;
+      document.getElementById('form-input').value = '';
+      onFilterChange();
+    }
+
+    function exportCSV() {
+      if (!filteredSensors.length) return alert('No sensors match current filters.');
+      const headers = ['Model', 'Manufacturer', 'Type', 'Max Force', 'Form Factor', 'Price', 'PDF Path', 'OCR Path'];
+      const rows = filteredSensors.map(s => [
+        `"${(s.name || '').replace(/"/g, '""')}"`,
+        `"${(s.manufacturer || '').replace(/"/g, '""')}"`,
+        `"${(s.type || '').replace(/"/g, '""')}"`,
+        `"${(s.maxForceFormatted || '').replace(/"/g, '""')}"`,
+        `"${(s.formFactor || '').replace(/"/g, '""')}"`,
+        `"${s.price || ''}"`,
+        `"${s.pdfPath || ''}"`,
+        `"${s.ocrPath || ''}"`
+      ]);
+      const csv = [headers.join(','), ...rows.map(r => r.join(','))].join('\n');
+      const blob = new Blob([csv], { type: 'text/csv' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `forcefind_sensors_export_${new Date().toISOString().slice(0, 10)}.csv`;
+      a.click();
+    }
+
+    function escapeHtml(str) {
+      if (!str) return '';
+      return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    // Initialize on page load
+    loadDataset();
+  </script>
+</body>
+</html>

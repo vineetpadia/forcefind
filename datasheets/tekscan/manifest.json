@@ -1,0 +1,106 @@
+{
+  "sourcePage": "https://www.tekscan.com/force-sensors",
+  "harvestedAt": "2026-07-24T16:44:57.127802+00:00",
+  "documents": [
+    {
+      "model": "A201",
+      "productPage": "https://www.tekscan.com/products-solutions/force-sensors/a201",
+      "url": "https://www.tekscan.com/sites/default/files/resources/FLX-Datasheet-A201-RevI_1.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "bytes": 152076,
+      "file": "datasheets/tekscan/FLX-Datasheet-A201-RevI_1.pdf",
+      "sha256": "b71181163546f6f5e53645700e8999768e1f83b0bf910aa71f82837c054d894d"
+    },
+    {
+      "model": "A101",
+      "productPage": "https://www.tekscan.com/products-solutions/force-sensors/flexiforce-a101-sensor",
+      "url": "https://www.tekscan.com/sites/default/files/resources/FLX-Datasheet-A101-RevK.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "bytes": 209012,
+      "file": "datasheets/tekscan/FLX-Datasheet-A101-RevK.pdf",
+      "sha256": "a85793fa522ab2961dd5589f7ea08ebc45a6c61038ee7a4980976ca6e5873008"
+    },
+    {
+      "model": "A301",
+      "productPage": "https://www.tekscan.com/products-solutions/force-sensors/flexiforce-a301-sensor",
+      "url": "https://www.tekscan.com/sites/default/files/resources/FLX-Datasheet-A301-RevJ.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "bytes": 146535,
+      "file": "datasheets/tekscan/FLX-Datasheet-A301-RevJ.pdf",
+      "sha256": "edaceca45180c16bcd8a06e3a623d2ef16ab4d2c02a8fd44f8dfa57fddc5f28e"
+    },
+    {
+      "model": "A401",
+      "productPage": "https://www.tekscan.com/products-solutions/force-sensors/flexiforce-a401-sensor",
+      "url": "https://www.tekscan.com/sites/default/files/resources/FLX-Datasheet-A401-RevJ.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "bytes": 150673,
+      "file": "datasheets/tekscan/FLX-Datasheet-A401-RevJ.pdf",
+      "sha256": "a4876094d7dba31e4b78b8d320b692d724e0fa2d616f6ba31f0423e606033da8"
+    },
+    {
+      "model": "A502",
+      "productPage": "https://www.tekscan.com/products-solutions/force-sensors/flexiforce-a502-sensor",
+      "url": "https://www.tekscan.com/sites/default/files/resources/FLX-Datasheet-A502-Rev%20H.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "bytes": 160349,
+      "file": "datasheets/tekscan/FLX-Datasheet-A502-Rev_H.pdf",
+      "sha256": "c7ce12063e7d9ba9dfbeeedb8632d72e3c2b6d1d24dadcd7a9c0444ed2c3fb9e"
+    },
+    {
+      "model": "B201",
+      "productPage": "https://www.tekscan.com/products-solutions/force-sensors/flexiforce-b201-sensor",
+      "url": "https://www.tekscan.com/sites/default/files/resources/FLX-Datasheet-ELF-RevI.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "bytes": 701318,
+      "file": "datasheets/tekscan/FLX-Datasheet-ELF-RevI.pdf",
+      "sha256": "c6999b2b95476cfce638ef6cc93d28b4ce271ea90d925477642b155d0bf53c89"
+    },
+    {
+      "model": "ESS102",
+      "productPage": "https://www.tekscan.com/products-solutions/force-sensors/flexiforce-ess102-sensor",
+      "url": "https://www.tekscan.com/sites/default/files/resources/FLX-Datasheet-ESS102-RevB.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "bytes": 242030,
+      "file": "datasheets/tekscan/FLX-Datasheet-ESS102-RevB.pdf",
+      "sha256": "e8c754738146f747e12e523cd05ca938d09b58667ff6b7d4cc92179b3ed14a4f"
+    },
+    {
+      "model": "ESS301",
+      "productPage": "https://www.tekscan.com/products-solutions/force-sensors/flexiforce-ess301-sensor",
+      "url": "https://www.tekscan.com/sites/default/files/resources/FLX-Datasheet-ESS301-Rev%20I.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "bytes": 149313,
+      "file": "datasheets/tekscan/FLX-Datasheet-ESS301-Rev_I.pdf",
+      "sha256": "c502250a3a058c88fc71690ff8c2ba0f819ef39374822a925d0b45c8cb1b5a74"
+    },
+    {
+      "model": "HT201",
+      "productPage": "https://www.tekscan.com/products-solutions/force-sensors/flexiforce-ht201-sensor",
+      "url": "https://www.tekscan.com/sites/default/files/resources/FLX-Datasheet-HT201-RevL.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "bytes": 210865,
+      "file": "datasheets/tekscan/FLX-Datasheet-HT201-RevL.pdf",
+      "sha256": "f4b464c84b14366dbd6c2c31a78ba85c20de829fc46b90c931dc9a1c0611aca0"
+    },
+    {
+      "model": "WB201",
+      "productPage": "https://www.tekscan.com/products-solutions/force-sensors/wb201",
+      "url": "https://www.tekscan.com/sites/default/files/resources/FLX-Datasheet-WELF-RevJ.pdf",
+      "status": "ok",
+      "httpStatus": 200,
+      "bytes": 925247,
+      "file": "datasheets/tekscan/FLX-Datasheet-WELF-RevJ.pdf",
+      "sha256": "ecbe1fda51d83675933e82a93db51e8b0471617f52a04e0329c45ebe65e7e7c0"
+    }
+  ]
+}

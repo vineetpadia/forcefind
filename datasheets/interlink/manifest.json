@@ -1,0 +1,42 @@
+{
+  "sourcePage": "https://www.interlinkelectronics.com/data-sheets",
+  "harvestedAt": "2026-07-24T16:45:40.967974+00:00",
+  "documents": [
+    {
+      "url": "https://www.interlinkelectronics.com/downloads/datasheets/fslp-datasheet.pdf",
+      "title": "Force Sensing Linear Potentiometer (FSLP) Datasheet",
+      "status": "ok",
+      "httpStatus": 200,
+      "bytes": 559652,
+      "file": "datasheets/interlink/fslp-datasheet.pdf",
+      "sha256": "9c641b84a019a0f90a67a4cbb13f205c5e50d89405ac6f2a13920c8f8038bd64"
+    },
+    {
+      "url": "https://www.interlinkelectronics.com/downloads/datasheets/fsr-400-series-datasheet.pdf",
+      "title": "Force Sensing Resistor (FSR) 400 Series Datasheet",
+      "status": "ok",
+      "httpStatus": 200,
+      "bytes": 1492362,
+      "file": "datasheets/interlink/fsr-400-series-datasheet.pdf",
+      "sha256": "149c7d9d1bcae0e28a215fc4d0097fefffb037402b98d6727ee1b0d761c0cccb"
+    },
+    {
+      "url": "https://www.interlinkelectronics.com/downloads/datasheets/fsr-ux-400-series-datasheet.pdf",
+      "title": "FSR UX 400 Series Datasheet",
+      "status": "ok",
+      "httpStatus": 200,
+      "bytes": 10318879,
+      "file": "datasheets/interlink/fsr-ux-400-series-datasheet.pdf",
+      "sha256": "3b19e9432b07cfbaaeaee690e7c121efd782bf46b4d7ace17ba4f0bdda6d4bf2"
+    },
+    {
+      "url": "https://www.interlinkelectronics.com/downloads/datasheets/fsr-x-400-series-datasheet.pdf",
+      "title": "FSR X 400 Series Datasheet",
+      "status": "ok",
+      "httpStatus": 200,
+      "bytes": 10199934,
+      "file": "datasheets/interlink/fsr-x-400-series-datasheet.pdf",
+      "sha256": "77b655a85037095b815dc41f8645c7e3271b62a5b0dfbefe0973c7b8e7ea7ceb"
+    }
+  ]
+}

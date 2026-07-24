@@ -1,0 +1,129 @@
+# tlu
+
+- PDF: `datasheets/laumas/tlu.pdf`
+- SHA-256: `77fcdf21da6b2bf6773c990f4338331eec026679ce6ae63baf9d85019fa46a9f`
+- OCR model: `mistral-ocr-latest`
+
+## Page 1
+
+# TLU
+
+## LOAD LIMITING DEVICE/WEIGHT TRANSMITTER
+
+LAUMAS®
+
+MODBUS RTU
+
+
+
+CODE
+
+TLU
+
+TLUANA (analog output)
+
+### DESCRIPTION
+
+- Load limiting device/weight transmitter suitable for back panel mounting on Omega/DIN rail or junction box (on request).
+- Dimensions: 123x92x50 mm.
+- 6-digit semi-alphanumeric red LED display (8 mm height).
+- 6 signalling LED.
+- 4-key keyboard.
+
+### INPUTS/OUTPUTS AND COMMUNICATION
+
+- RS485/RS232 serial ports for communication via protocols ModBus RTU, ASCII Laumas or continuous one way transmission.
+- Current or voltage 16 bit optoisolated analog output (TLUANA).
+- 4 relay outputs controlled by the setpoint values or via protocols.
+- 2 optoisolated PNP digital inputs: status reading via serial communication protocols.
+- 1 load cell dedicated input.
+
+### MAIN FUNCTIONS
+
+- Connections to:
+  - PLC via analog output (TLUANA);
+  - PC/PLC via RS485/RS232 (up to 99 instruments with line repeaters, up to 32 without line repeaters);
+  - remote display via RS485/RS232;
+  - up to 8 load cells in parallel by junction box.
+- Digital filter to reduce the effects of weight oscillation.
+- Theoretical calibration (via keyboard) and real calibration (with sample weights and the possibility of weight linearization up to 5 points).
+- Tare weight zero setting.
+- Automatic zero setting at power-on.
+- Gross weight zero tracking.
+- Semi-automatic tare (net/gross weight) and preset tare.
+- Semi-automatic zero.
+- Displaying of the maximum weight value reached (peak).
+- Direct connection between RS485 and RS232 without converter.
+- Setpoint value setting.
+
+### CERTIFICATIONS
+
+UL Recognized component - Complies with United States and Canada regulations
+
+Complies with the Eurasian Customs Union regulations
+
+Equivalent of the CE marking for the United Kingdom
+
+LAUMAS Elettronica srl • SALES DEPARTMENT: sales@laumas.it
+Fax: (+39) 0521 681091 • Phone: (+39) 0521 683124
+
+ISO 9001
+ISO 14001
+
+www.laumas.com
+
+## Page 2
+
+TLU
+
+LOAD LIMITING DEVICE/WEIGHT TRANSMITTER
+
+LAUMAS®
+
+# TECHNICAL FEATURES
+
+|  Power supply and consumption | 12÷24 VDC ±10%; 5 W  |
+| --- | --- |
+|  Number of load cells • Load cells supply | up to 8 (350 Ω) - 4/6 wires • 5 VDC/120 mA  |
+|  Linearity • Analog output linearity | <0.01% full scale • <0.01% full scale  |
+|  Thermal drift • Analog output thermal drift | <0.0005% full scale/°C • <0.003% full scale/°C  |
+|  A/D Converter | 24 bit (16000000 points) - 80 Hz  |
+|  Divisions (with measurement range ±10 mV and sensitivity 2 mV/V) | ±999999 • 0,01 μV/d  |
+|  Measurement range | ±19.5 mV  |
+|  Usable load cells sensitivity | ±3 mV/V  |
+|  Conversions per second | 80  |
+|  Display range | ±999999  |
+|  Decimals • Display increments | 0÷4 • x1 x2 x5 x10 x20 x50 x100  |
+|  Digital filter • Readings per second | 10 levels • 5÷80  |
+|  Relay outputs | 4 - max 115 VAC/150 mA  |
+|  Optoisolated digital inputs | 2 - 5÷24 VDC PNP  |
+|  Serial ports | RS485, RS232  |
+|  Baud rate | 2400, 4800, 9600, 19200, 38400, 115200 (bit/s)  |
+|  Optoisolated analog output | 16 bit = 65535 divisions. 0÷20 mA; 4÷20 mA (up to 300 Ω) 0÷10 V; 0÷5 V; ±10 V; ±5 V (min 10 kΩ)  |
+|  Humidity (condensate free) | 85%  |
+|  Storage temperature | -30 °C +80 °C  |
+|  Working temperature | -20 °C +60 °C  |
+|  Relay outputs | 4 - max 115 VAC/150 mA  |
+|  Working temperature | -20 °C +60 °C  |
+|  Equipment to be powered by 12-24 VDC LPS or Class 2 power source  |   |
+
+# OPTIONS ON REQUEST
+
+|   | DESCRIPTION  |
+| --- | --- |
+|   | IP67 polycarbonate box; dimensions: 170x140x95 mm (four fixing holes Ø4 mm; centre distance: 152x122 mm)  |
+|   | CASTL - transparent lid - transparent lid; 4+2 M16x1.5 cable glands - plugs - transparent lid; 4+2 PVC end-fittings for sheath  |
+|   | CASTLTAST - external keyboard - external keyboard; 4+2 M16x1.5 cable glands - plugs - external keyboard; 4+2 PVC end-fittings for sheath  |
+|   | CASTLTASTATEX - ATEX (zone 2-22) version - external keyboard; 4+2 M16x1.5 cable glands - plugs  |
+
+The Company reserves the right to make changes to the technical data, drawings and images without notice.
+
+LAUMAS Elettronica srl • SALES DEPARTMENT: sales@laumas.it
+
+Fax: (+39) 0521 681091 • Phone: (+39) 0521 683124
+
+ISO 9001
+
+ISO 14001
+
+www.laumas.com
