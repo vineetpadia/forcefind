@@ -275,6 +275,7 @@ def normalized_record(
         "ocrStatus": sensor.get("mistralOcrStatus"),
         "documentSummary": summary,
         "sourceScope": source_scope,
+        "evidenceCount": len(specs.get("evidence") or {}),
         "evidence": specs.get("evidence") or {},
         "searchText": searchable,
     }
