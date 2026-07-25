@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import math
 from collections import Counter
 from datetime import UTC, datetime
 from pathlib import Path
@@ -41,16 +42,39 @@ def first_value(*values: Any) -> Any:
     return None
 
 
+def positive_force(value: Any) -> float | None:
+    if isinstance(value, bool) or not isinstance(value, (int, float)):
+        return None
+    number = float(value)
+    return number if math.isfinite(number) and number > 0 else None
+
+
 def format_force(newtons: float | None) -> str | None:
     if newtons is None or newtons <= 0:
         return None
-    if newtons >= 1_000_000:
-        return f"{newtons / 1_000_000:g} MN"
-    if newtons >= 1_000:
-        return f"{newtons / 1_000:g} kN"
-    if newtons >= 1:
-        return f"{newtons:g} N"
-    return f"{newtons * 1_000:g} mN"
+    prefixes = (
+        (1_000_000_000, "GN"),
+        (1_000_000, "MN"),
+        (1_000, "kN"),
+        (1, "N"),
+        (0.001, "mN"),
+        (0.000_001, "µN"),
+        (0.000_000_001, "nN"),
+    )
+    for scale, unit in prefixes:
+        if newtons >= scale:
+            return f"{newtons / scale:.4g} {unit}"
+    return f"{newtons / 0.000_000_001:.4g} nN"
+
+
+def format_force_range(minimum: float | None, maximum: float | None) -> str | None:
+    if minimum is None and maximum is None:
+        return None
+    if minimum is None:
+        return format_force(maximum)
+    if maximum is None or math.isclose(minimum, maximum):
+        return format_force(minimum)
+    return f"{format_force(minimum)}–{format_force(maximum)}"
 
 
 def format_range(minimum: float | None, maximum: float | None, unit: str) -> str | None:
@@ -157,13 +181,26 @@ def normalized_record(
     summary: str | None,
 ) -> dict[str, Any]:
     specs = specs or {}
-    capacity_max = first_value(specs.get("capacityMaxN"), sensor.get("maxForceN"))
-    capacity_min = specs.get("capacityMinN")
-    capacity_display = first_value(
-        specs.get("capacityDisplay"),
-        sensor.get("operatingForce"),
-        format_force(capacity_max),
+    capacities = sorted(
+        {
+            number
+            for value in specs.get("capacitiesN") or []
+            if (number := positive_force(value)) is not None
+        }
     )
+    capacity_max = positive_force(
+        first_value(specs.get("capacityMaxN"), sensor.get("maxForceN"))
+    )
+    capacity_min = positive_force(specs.get("capacityMinN"))
+    if capacity_max is None and capacities:
+        capacity_max = capacities[-1]
+    if capacity_min is None and len(capacities) > 1:
+        capacity_min = capacities[0]
+    if capacity_min is not None and capacity_max is not None and capacity_min > capacity_max:
+        capacity_min, capacity_max = capacity_max, capacity_min
+    if not capacities and capacity_max is not None:
+        capacities = [capacity_max]
+    capacity_display = format_force_range(capacity_min, capacity_max)
     error_pct, error_kind = engineering_error(specs)
     output_signals = specs.get("outputSignals") or ([] if sensor.get("output") in (None, "", "-") else [sensor["output"]])
     temp_min = first_value(specs.get("operatingTempMinC"))
@@ -225,7 +262,7 @@ def normalized_record(
         "formFactor": form_factor,
         "axisCount": specs.get("axisCount"),
         "loadDirection": specs.get("loadDirection"),
-        "capacitiesN": specs.get("capacitiesN") or ([] if capacity_max is None else [capacity_max]),
+        "capacitiesN": capacities,
         "capacityMinN": capacity_min,
         "capacityMaxN": capacity_max,
         "capacityDisplay": capacity_display,
