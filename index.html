@@ -71,6 +71,32 @@
     .mobile-specs dt{font-size:9px;font-weight:700;letter-spacing:.045em}
     .mobile-specs dd{font-size:12px;line-height:1.45}
     .mobile-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}
+    .view-bar{display:flex;align-items:center;justify-content:space-between;padding:0 20px 14px}
+    .view-switch{display:inline-flex;padding:3px;border:1px solid #e3e5e8;border-radius:10px;background:#f1f2f4}
+    .view-tab{min-width:94px;border:0;border-radius:7px;padding:7px 13px;background:transparent;color:#737982;font-size:11px;font-weight:650}
+    .view-tab.active{background:#fff;color:#17191c;box-shadow:0 1px 4px rgba(24,28,36,.12)}
+    .chart-view{padding:0 20px 24px}
+    .chart-view[hidden],.table-view[hidden]{display:none!important}
+    .chart-controls{display:grid;grid-template-columns:minmax(150px,1fr) minmax(150px,1fr) auto auto auto;align-items:end;gap:10px;padding:14px;border:1px solid #e5e7ea;border-radius:14px;background:#fafafb}
+    .chart-field{display:grid;gap:6px}
+    .chart-field label{color:#707680;font-size:9px;font-weight:700;letter-spacing:.055em;text-transform:uppercase}
+    .chart-field .select{min-height:36px;padding-top:7px;padding-bottom:7px;background:#fff}
+    .chart-log{display:flex;min-height:36px;align-items:center;gap:6px;padding:0 4px;color:#5d636c;font-size:11px;white-space:nowrap}
+    .chart-log input{accent-color:#087cf0}
+    .chart-swap{min-height:36px;padding:7px 12px}
+    .chart-meta{display:flex;justify-content:space-between;gap:12px;padding:12px 2px 9px;color:#717780;font-size:11px}
+    .chart-stage{position:relative;height:590px;overflow:hidden;border:1px solid #e5e7ea;border-radius:16px;background:#fff}
+    #ashby-canvas{display:block;width:100%;height:100%;touch-action:none}
+    .chart-tooltip{position:absolute;z-index:2;max-width:240px;pointer-events:none;opacity:0;transform:translate(10px,-50%);border-radius:10px;padding:9px 11px;background:rgba(24,27,32,.94);color:#fff;font-size:11px;line-height:1.45;box-shadow:0 8px 24px rgba(0,0,0,.18);transition:opacity .1s}
+    .chart-tooltip.show{opacity:1}
+    .chart-tooltip strong{display:block;font-size:12px}
+    .chart-tooltip span{color:#cdd2d9}
+    .chart-legend{display:flex;flex-wrap:wrap;gap:8px 14px;padding:12px 2px 0}
+    .chart-key{display:inline-flex;align-items:center;gap:6px;color:#6f757e;font-size:10px}
+    .chart-swatch{width:8px;height:8px;border-radius:50%}
+    .chart-help{margin:8px 2px 0;color:#8a9098;font-size:10px}
+    @media(max-width:900px){.chart-controls{grid-template-columns:1fr 1fr auto auto}.chart-swap{grid-column:1/-1}.chart-stage{height:500px}}
+    @media(max-width:560px){.view-bar{padding-left:14px;padding-right:14px}.view-switch{width:100%}.view-tab{flex:1}.chart-view{padding-left:14px;padding-right:14px}.chart-controls{grid-template-columns:1fr 1fr;padding:12px}.chart-field{grid-column:1/-1}.chart-stage{height:440px}.chart-meta{display:block}.chart-meta span{display:block;margin-top:3px}}
     @media(max-width:1120px){.shell{grid-template-columns:270px minmax(0,1fr);gap:16px;padding-left:16px;padding-right:16px}.topbar{padding-left:18px;padding-right:18px}}
     @media(max-width:900px){.shell{display:block}.filters{position:static;margin-bottom:14px}.filter-body{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 12px}.advanced{grid-column:1/-1}.table-wrap{display:none}.mobile-list{display:block}.results{border-radius:16px}.results-head{min-height:78px}.top-stats{display:none}}
     @media(max-width:560px){.topbar{padding-top:18px}.brand h1{font-size:21px}.shell{padding-left:8px;padding-right:8px}.filters{padding:18px}.filter-body{grid-template-columns:1fr}.advanced{grid-column:auto}.results-head{display:block}.result-meta{text-align:left;margin-top:-8px}.searchbar{padding-left:14px;padding-right:14px}.mobile-specs{grid-template-columns:1fr 1fr}.tray-label,#clear-compare{display:none}.compare-modal{inset:0;border-radius:0}.drawer-body,.drawer-head{padding-left:16px;padding-right:16px}}
@@ -92,12 +118,11 @@
     <div class="filter-body">
       <div class="field"><label for="manufacturer">Manufacturer</label><select class="select" id="manufacturer"><option value="">Any manufacturer</option></select></div>
       <div class="field"><label for="sensor-type">Sensor class</label><select class="select" id="sensor-type"><option value="">Any sensor class</option></select></div>
-      <div class="field"><label for="technology">Technology / output</label><select class="select" id="technology"><option value="">Any technology</option></select></div>
+      <div class="field"><label for="technology">Sensing technology</label><select class="select" id="technology"><option value="">Any sensing technology</option></select></div>
       <div class="field"><label>Rated force range, N</label><div class="pair"><input class="input" id="force-min" type="number" min="0" step="any" placeholder="Minimum"><input class="input" id="force-max" type="number" min="0" step="any" placeholder="Maximum"></div></div>
       <details class="advanced"><summary>Advanced filters</summary>
         <div class="field"><label for="max-error">Maximum error, % FS</label><input class="input" id="max-error" type="number" min="0" step="0.001" placeholder="e.g. 0.05"></div>
         <div class="field"><label>Required service temperature, °C</label><div class="pair"><input class="input" id="temp-min" type="number" step="any" placeholder="Minimum"><input class="input" id="temp-max" type="number" step="any" placeholder="Maximum"></div></div>
-        <div class="field"><label for="output-signal">Output signal</label><select class="select" id="output-signal"><option value="">Any output</option></select></div>
         <label class="check"><input type="checkbox" id="ip-only"> IP / ingress rating stated</label>
         <label class="check"><input type="checkbox" id="datasheet-only"> Source datasheet linked</label>
         <label class="check"><input type="checkbox" id="specs-only"> Model-read engineering specs</label>
@@ -108,11 +133,27 @@
   <section class="card results">
     <div class="results-head"><div><div class="section-number">02</div><div class="result-title"><h2>Matches</h2><span class="count" id="match-count">—</span></div></div><div class="result-meta" id="result-meta">Loading source-grounded catalog…</div></div>
     <div class="searchbar"><div class="search-wrap"><span class="search-icon">⌕</span><input class="input" id="search" type="search" placeholder="Search model, manufacturer, type, material, or datasheet text" autocomplete="off"></div></div>
+    <div class="view-bar"><div class="view-switch" role="tablist" aria-label="Results view"><button class="view-tab active" id="table-tab" data-view="table" role="tab" aria-controls="table-view" aria-selected="true">Table</button><button class="view-tab" id="chart-tab" data-view="chart" role="tab" aria-controls="chart-view" aria-selected="false">Ashby chart</button></div></div>
+    <div class="table-view" id="table-view" role="tabpanel" aria-labelledby="table-tab">
     <div class="table-wrap"><table><thead><tr>
       <th class="sortable" data-sort="evidenceCount">Source ↕</th><th class="sortable" data-sort="model">Product ↕</th><th class="sortable" data-sort="category">Measurement ↕</th><th class="sortable" data-sort="capacityMaxN">Force range, N ↕</th><th class="sortable" data-sort="primaryErrorPctFS">Performance ↕</th><th class="sortable" data-sort="operatingTempMinC">Environment ↕</th><th>Construction</th><th class="sortable" data-sort="priceUSD">Price ↕</th><th>Actions</th>
     </tr></thead><tbody id="table-body"></tbody></table></div>
     <div id="mobile-list" class="mobile-list"></div>
     <div class="pager"><span id="page-label">—</span><div class="pager-actions"><button id="prev-page">Previous</button><button id="next-page">Next</button></div></div>
+    </div>
+    <section class="chart-view" id="chart-view" role="tabpanel" aria-labelledby="chart-tab" hidden>
+      <div class="chart-controls">
+        <div class="chart-field"><label for="chart-x">Horizontal axis</label><select class="select" id="chart-x"></select></div>
+        <div class="chart-field"><label for="chart-y">Vertical axis</label><select class="select" id="chart-y"></select></div>
+        <label class="chart-log"><input type="checkbox" id="chart-x-log" checked> Log X</label>
+        <label class="chart-log"><input type="checkbox" id="chart-y-log" checked> Log Y</label>
+        <button class="btn chart-swap" id="chart-swap" type="button">Swap axes</button>
+      </div>
+      <div class="chart-meta"><strong id="chart-count">Choose two parameters</strong><span>Filtered products with values for both axes</span></div>
+      <div class="chart-stage" id="chart-stage"><canvas id="ashby-canvas" aria-label="Interactive Ashby property chart"></canvas><div class="chart-tooltip" id="chart-tooltip"></div></div>
+      <div class="chart-legend" id="chart-legend"></div>
+      <p class="chart-help">Hover to inspect a product. Click a point to open its source-grounded specifications.</p>
+    </section>
   </section>
 </main>
 <div class="tray" id="compare-tray"><span class="tray-label">Comparison</span><div class="tray-items" id="tray-items"></div><button class="btn primary" id="compare-btn">Compare</button><button class="btn" id="clear-compare">Clear</button></div>
@@ -120,7 +161,7 @@
 <div class="overlay" id="compare-overlay" role="dialog" aria-modal="true" aria-labelledby="compare-title"><article class="compare-modal"><header class="compare-head"><div><div class="eyebrow">Side-by-side engineering review</div><h2 id="compare-title" style="margin:2px 0 0">Compare sensors</h2></div><div><label class="check" style="display:inline-flex;margin-right:12px"><input type="checkbox" id="differences-only"> Differences only</label><button class="close" data-close="compare" aria-label="Close">×</button></div></header><div class="compare-table" id="compare-content"></div></article></div>
 <script>
 'use strict';
-const state={data:null,all:[],filtered:[],page:1,pageSize:50,sortField:'evidenceCount',sortDir:-1,quick:'',kept:new Set(JSON.parse(localStorage.getItem('forcefind-compare')||'[]'))};
+const state={data:null,all:[],filtered:[],page:1,pageSize:50,sortField:'evidenceCount',sortDir:-1,quick:'',view:'table',chartPoints:[],chartFrame:0,kept:new Set(JSON.parse(localStorage.getItem('forcefind-compare')||'[]'))};
 const $=id=>document.getElementById(id); const esc=value=>String(value??'').replace(/[&<>"']/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
 const fmt=(value,digits=3)=>value==null?'—':Number(value).toLocaleString(undefined,{maximumFractionDigits:digits});
 const force=value=>{if(value==null)return '—';if(value>=1e9)return `${fmt(value/1e9)} GN`;if(value>=1e6)return `${fmt(value/1e6)} MN`;if(value>=1e3)return `${fmt(value/1e3)} kN`;if(value>=1)return `${fmt(value)} N`;if(value>=1e-3)return `${fmt(value*1e3)} mN`;if(value>=1e-6)return `${fmt(value*1e6)} µN`;return `${fmt(value*1e9)} nN`};
@@ -129,14 +170,166 @@ const ev=(r,field)=>r.evidence&&r.evidence[field]?'<span class="evidence-dot" ti
 const safeUrl=value=>{if(!value)return '';try{const url=new URL(value,location.href);return ['http:','https:'].includes(url.protocol)?url.href:''}catch{return ''}};
 const externalSources=r=>({product:safeUrl(r.productUrl),datasheet:safeUrl(r.datasheetUrl)});
 function fillSelect(id,values){const select=$(id);for(const value of values){const option=document.createElement('option');option.value=value;option.textContent=value;select.appendChild(option)}}
-async function load(){let response;for(const path of ['selector-data.json','public/selector-data.json']){try{response=await fetch(path);if(response.ok)break}catch{}}if(!response||!response.ok)throw new Error('selector-data.json could not be loaded');state.data=await response.json();state.all=state.data.sensors;state.kept=new Set([...state.kept].filter(id=>state.all.some(r=>r.id===id)).slice(0,4));persist();fillSelect('manufacturer',state.data.facets.manufacturers);fillSelect('sensor-type',state.data.facets.sensorTypes);fillSelect('technology',state.data.facets.technologies);fillSelect('output-signal',state.data.facets.outputSignals);$('stat-products').textContent=`${state.data.metadata.totalProducts.toLocaleString()} products`;$('stat-makers').textContent=`${state.data.metadata.totalManufacturers} makers`;$('stat-docs').textContent=`${state.data.metadata.totalDocuments} datasheets`;apply();}
+async function load(){let response;for(const path of ['selector-data.json','public/selector-data.json']){try{response=await fetch(path);if(response.ok)break}catch{}}if(!response||!response.ok)throw new Error('selector-data.json could not be loaded');state.data=await response.json();state.all=state.data.sensors;state.kept=new Set([...state.kept].filter(id=>state.all.some(r=>r.id===id)).slice(0,4));persist();fillSelect('manufacturer',state.data.facets.manufacturers);fillSelect('sensor-type',state.data.facets.sensorTypes);fillSelect('technology',state.data.facets.technologies);fillChartAxes();$('stat-products').textContent=`${state.data.metadata.totalProducts.toLocaleString()} products`;$('stat-makers').textContent=`${state.data.metadata.totalManufacturers} makers`;$('stat-docs').textContent=`${state.data.metadata.totalDocuments} datasheets`;apply();}
 const numberValue=id=>$(id).value===''?null:Number($(id).value);
-function apply(){const q=$('search').value.trim().toLowerCase(),maker=$('manufacturer').value,type=$('sensor-type').value,tech=$('technology').value,forceMin=numberValue('force-min'),forceMax=numberValue('force-max'),maxError=numberValue('max-error'),tempMin=numberValue('temp-min'),tempMax=numberValue('temp-max'),signal=$('output-signal').value,ipOnly=$('ip-only').checked,dsOnly=$('datasheet-only').checked,specsOnly=$('specs-only').checked;state.filtered=state.all.filter(r=>{if(q&&!r.searchText.includes(q))return false;if(maker&&r.manufacturer!==maker)return false;if(type&&r.category!==type)return false;if(tech&&r.technologyGroup!==tech)return false;if(forceMin!=null&&(r.capacityMaxN==null||r.capacityMaxN<forceMin))return false;if(forceMax!=null&&(r.capacityMaxN==null||r.capacityMaxN>forceMax))return false;if(maxError!=null&&(r.primaryErrorPctFS==null||r.primaryErrorPctFS>maxError))return false;if(tempMin!=null&&(r.operatingTempMinC==null||r.operatingTempMinC>tempMin))return false;if(tempMax!=null&&(r.operatingTempMaxC==null||r.operatingTempMaxC<tempMax))return false;if(signal&&!r.outputSignals.includes(signal))return false;if(ipOnly&&!r.ipRating)return false;if(dsOnly&&!r.datasheetUrl)return false;if(specsOnly&&!r.sourceScope)return false;if(state.quick==='load'&&r.category!=='Load cell')return false;if(state.quick==='multi'&&r.category!=='Multi-axis force / torque')return false;if(state.quick==='torque'&&!['Torque sensor','Multi-axis force / torque'].includes(r.category))return false;if(state.quick==='mini'&&!/mini|micro|submini/i.test(`${r.formFactor||''} ${r.name}`))return false;if(state.quick==='protected'&&!r.ipRating)return false;if(state.quick==='specs'&&!r.sourceScope)return false;return true});sortRows();state.page=1;render()}
+function apply(){const q=$('search').value.trim().toLowerCase(),maker=$('manufacturer').value,type=$('sensor-type').value,tech=$('technology').value,forceMin=numberValue('force-min'),forceMax=numberValue('force-max'),maxError=numberValue('max-error'),tempMin=numberValue('temp-min'),tempMax=numberValue('temp-max'),ipOnly=$('ip-only').checked,dsOnly=$('datasheet-only').checked,specsOnly=$('specs-only').checked;state.filtered=state.all.filter(r=>{if(q&&!r.searchText.includes(q))return false;if(maker&&r.manufacturer!==maker)return false;if(type&&r.category!==type)return false;if(tech&&r.technologyGroup!==tech)return false;if(forceMin!=null&&(r.capacityMaxN==null||r.capacityMaxN<forceMin))return false;if(forceMax!=null&&(r.capacityMaxN==null||r.capacityMaxN>forceMax))return false;if(maxError!=null&&(r.primaryErrorPctFS==null||r.primaryErrorPctFS>maxError))return false;if(tempMin!=null&&(r.operatingTempMinC==null||r.operatingTempMinC>tempMin))return false;if(tempMax!=null&&(r.operatingTempMaxC==null||r.operatingTempMaxC<tempMax))return false;if(ipOnly&&!r.ipRating)return false;if(dsOnly&&!r.datasheetUrl)return false;if(specsOnly&&!r.sourceScope)return false;if(state.quick==='load'&&r.category!=='Load cell')return false;if(state.quick==='multi'&&r.category!=='Multi-axis force / torque')return false;if(state.quick==='torque'&&!['Torque sensor','Multi-axis force / torque'].includes(r.category))return false;if(state.quick==='mini'&&!/mini|micro|submini/i.test(`${r.formFactor||''} ${r.name}`))return false;if(state.quick==='protected'&&!r.ipRating)return false;if(state.quick==='specs'&&!r.sourceScope)return false;return true});sortRows();state.page=1;render()}
 function sortRows(){const f=state.sortField,d=state.sortDir;state.filtered.sort((a,b)=>{const av=a[f],bv=b[f];if(av==null&&bv==null)return 0;if(av==null)return 1;if(bv==null)return -1;if(typeof av==='number'&&typeof bv==='number')return (av-bv)*d;return String(av).localeCompare(String(bv),undefined,{numeric:true})*d})}
 function electrical(r){const parts=[];if(r.ratedOutputMvV!=null)parts.push(`${fmt(r.ratedOutputMvV)} mV/V`);if(r.outputSignals.length)parts.push(r.outputSignals.slice(0,2).join(', '));if(r.excitationRecommendedV!=null)parts.push(`${fmt(r.excitationRecommendedV)} V excitation`);return parts}
+const chartFields=[
+  {key:'capacityMaxN',label:'Maximum rated force',unit:'N',kind:'force',allowLog:true},
+  {key:'capacityMinN',label:'Minimum rated force',unit:'N',kind:'force',allowLog:true},
+  {key:'primaryErrorPctFS',label:'Best stated error',unit:'% FS',kind:'percent',allowLog:true},
+  {key:'accuracyPctFS',label:'Accuracy',unit:'% FS',kind:'percent',allowLog:true},
+  {key:'combinedErrorPctFS',label:'Combined error',unit:'% FS',kind:'percent',allowLog:true},
+  {key:'nonlinearityPctFS',label:'Nonlinearity',unit:'% FS',kind:'percent',allowLog:true},
+  {key:'hysteresisPctFS',label:'Hysteresis',unit:'% FS',kind:'percent',allowLog:true},
+  {key:'repeatabilityPctFS',label:'Repeatability',unit:'% FS',kind:'percent',allowLog:true},
+  {key:'creepPctFS',label:'Creep',unit:'% FS',kind:'percent',allowLog:true},
+  {key:'ratedOutputMvV',label:'Rated output',unit:'mV/V',kind:'output',allowLog:true},
+  {key:'safeOverloadPct',label:'Safe overload',unit:'% rated',kind:'percent',allowLog:true},
+  {key:'ultimateOverloadPct',label:'Ultimate overload',unit:'% rated',kind:'percent',allowLog:true},
+  {key:'operatingTempMinC',label:'Minimum operating temperature',unit:'°C',kind:'temperature',allowLog:false},
+  {key:'operatingTempMaxC',label:'Maximum operating temperature',unit:'°C',kind:'temperature',allowLog:false},
+  {key:'weightKg',label:'Weight',unit:'kg',kind:'weight',allowLog:true},
+  {key:'priceUSD',label:'Observed price',unit:'USD',kind:'price',allowLog:true}
+];
+const chartFieldByKey=Object.fromEntries(chartFields.map(field=>[field.key,field]));
+const chartColors={'Load cell':'#007aff','Force sensor':'#34c759','Multi-axis force / torque':'#af52de','Torque sensor':'#ff9500','Force-sensing resistor':'#ff375f','Weighing system':'#5ac8fa','Accessory':'#8e8e93','Other sensor':'#5856d6'};
+function fillChartAxes(){
+  const options=chartFields.map(field=>`<option value="${field.key}">${field.label} (${field.unit})</option>`).join('');
+  $('chart-x').innerHTML=options;
+  $('chart-y').innerHTML=options;
+  $('chart-x').value='capacityMaxN';
+  $('chart-y').value='primaryErrorPctFS';
+  syncChartLog('x');
+  syncChartLog('y');
+}
+function syncChartLog(axis){
+  const field=chartFieldByKey[$(`chart-${axis}`).value];
+  const control=$(`chart-${axis}-log`);
+  control.disabled=!field.allowLog;
+  if(!field.allowLog)control.checked=false;
+}
+function setView(view){
+  state.view=view;
+  $('table-view').hidden=view!=='table';
+  $('chart-view').hidden=view!=='chart';
+  for(const button of document.querySelectorAll('[data-view]')){
+    const active=button.dataset.view===view;
+    button.classList.toggle('active',active);
+    button.setAttribute('aria-selected',String(active));
+  }
+  render();
+}
+function chartNumber(value,field){
+  if(field.kind==='force')return force(value);
+  if(field.kind==='price')return money(value);
+  if(field.kind==='temperature')return `${fmt(value)} °C`;
+  if(field.kind==='output')return `${fmt(value,4)} mV/V`;
+  if(field.kind==='weight')return `${fmt(value,4)} kg`;
+  return `${fmt(value,4)}%`;
+}
+function chartTick(value,field){
+  const absolute=Math.abs(value);
+  const compact=new Intl.NumberFormat(undefined,{notation:absolute>=1000?'compact':'standard',maximumSignificantDigits:3}).format(value);
+  return field.kind==='price'?`$${compact}`:compact;
+}
+function chartTransform(value,logarithmic){return logarithmic?Math.log10(value):value}
+function chartInverse(value,logarithmic){return logarithmic?10**value:value}
+function chartExtent(values){
+  let minimum=Math.min(...values),maximum=Math.max(...values);
+  if(minimum===maximum){
+    const padding=Math.abs(minimum||1)*.1;
+    minimum-=padding;
+    maximum+=padding;
+  }
+  return [minimum,maximum];
+}
+function queueAshby(){
+  cancelAnimationFrame(state.chartFrame);
+  state.chartFrame=requestAnimationFrame(renderAshby);
+}
+function renderAshby(){
+  if(state.view!=='chart'||!state.data)return;
+  const canvas=$('ashby-canvas'),stage=$('chart-stage'),rect=stage.getBoundingClientRect();
+  if(rect.width<100||rect.height<100)return;
+  const dpr=Math.min(devicePixelRatio||1,2),width=rect.width,height=rect.height;
+  canvas.width=Math.round(width*dpr);
+  canvas.height=Math.round(height*dpr);
+  const context=canvas.getContext('2d');
+  context.setTransform(dpr,0,0,dpr,0,0);
+  context.clearRect(0,0,width,height);
+  const xField=chartFieldByKey[$('chart-x').value],yField=chartFieldByKey[$('chart-y').value];
+  const xLog=$('chart-x-log').checked,yLog=$('chart-y-log').checked;
+  const records=state.filtered.map(record=>({record,x:record[xField.key],y:record[yField.key]})).filter(point=>Number.isFinite(point.x)&&Number.isFinite(point.y)&&(!xLog||point.x>0)&&(!yLog||point.y>0));
+  $('chart-count').textContent=`${records.length.toLocaleString()} of ${state.filtered.length.toLocaleString()} products plotted`;
+  const padding={left:76,right:24,top:24,bottom:64},plotWidth=width-padding.left-padding.right,plotHeight=height-padding.top-padding.bottom;
+  if(!records.length||plotWidth<=0||plotHeight<=0){
+    state.chartPoints=[];
+    context.fillStyle='#7d838c';
+    context.font='13px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif';
+    context.textAlign='center';
+    context.fillText('No filtered products have values for both axes.',width/2,height/2);
+    $('chart-legend').innerHTML='';
+    return;
+  }
+  const transformed=records.map(point=>({...point,tx:chartTransform(point.x,xLog),ty:chartTransform(point.y,yLog)}));
+  const [xMin,xMax]=chartExtent(transformed.map(point=>point.tx)),[yMin,yMax]=chartExtent(transformed.map(point=>point.ty));
+  const xPosition=value=>padding.left+(value-xMin)/(xMax-xMin)*plotWidth;
+  const yPosition=value=>padding.top+plotHeight-(value-yMin)/(yMax-yMin)*plotHeight;
+  context.strokeStyle='#e7e9ec';
+  context.lineWidth=1;
+  context.fillStyle='#767c85';
+  context.font='10px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif';
+  const tickCount=width<500?3:5;
+  for(let index=0;index<=tickCount;index++){
+    const ratio=index/tickCount,x=padding.left+ratio*plotWidth,y=padding.top+ratio*plotHeight;
+    context.beginPath();context.moveTo(x,padding.top);context.lineTo(x,padding.top+plotHeight);context.stroke();
+    context.beginPath();context.moveTo(padding.left,y);context.lineTo(padding.left+plotWidth,y);context.stroke();
+    const xValue=chartInverse(xMin+ratio*(xMax-xMin),xLog);
+    const yValue=chartInverse(yMax-ratio*(yMax-yMin),yLog);
+    context.textAlign='center';context.textBaseline='top';context.fillText(chartTick(xValue,xField),x,padding.top+plotHeight+9);
+    context.textAlign='right';context.textBaseline='middle';context.fillText(chartTick(yValue,yField),padding.left-10,y);
+  }
+  context.strokeStyle='#aeb3ba';
+  context.beginPath();context.moveTo(padding.left,padding.top);context.lineTo(padding.left,padding.top+plotHeight);context.lineTo(padding.left+plotWidth,padding.top+plotHeight);context.stroke();
+  context.fillStyle='#30343a';
+  context.font='600 11px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif';
+  context.textAlign='center';context.textBaseline='bottom';context.fillText(`${xField.label} (${xField.unit})${xLog?' · logarithmic':''}`,padding.left+plotWidth/2,height-4);
+  context.save();context.translate(13,padding.top+plotHeight/2);context.rotate(-Math.PI/2);context.fillText(`${yField.label} (${yField.unit})${yLog?' · logarithmic':''}`,0,0);context.restore();
+  state.chartPoints=transformed.map(point=>({x:xPosition(point.tx),y:yPosition(point.ty),valueX:point.x,valueY:point.y,record:point.record}));
+  for(const point of state.chartPoints){
+    context.globalAlpha=.62;
+    context.fillStyle=chartColors[point.record.category]||'#8e8e93';
+    context.beginPath();context.arc(point.x,point.y,state.kept.has(point.record.id)?4.5:3,0,Math.PI*2);context.fill();
+    if(state.kept.has(point.record.id)){context.globalAlpha=1;context.strokeStyle='#fff';context.lineWidth=1.5;context.stroke()}
+  }
+  context.globalAlpha=1;
+  const categories=[...new Set(records.map(point=>point.record.category))].sort();
+  $('chart-legend').innerHTML=categories.map(category=>`<span class="chart-key"><i class="chart-swatch" style="background:${chartColors[category]||'#8e8e93'}"></i>${esc(category)}</span>`).join('');
+}
+function nearestChartPoint(event){
+  const rect=$('ashby-canvas').getBoundingClientRect(),x=event.clientX-rect.left,y=event.clientY-rect.top;
+  let nearest=null,distance=81;
+  for(const point of state.chartPoints){
+    const squared=(point.x-x)**2+(point.y-y)**2;
+    if(squared<distance){nearest=point;distance=squared}
+  }
+  return nearest;
+}
+function inspectChartPoint(event){
+  const point=nearestChartPoint(event),tooltip=$('chart-tooltip'),stage=$('chart-stage');
+  $('ashby-canvas').style.cursor=point?'pointer':'default';
+  if(!point){tooltip.classList.remove('show');return}
+  const xField=chartFieldByKey[$('chart-x').value],yField=chartFieldByKey[$('chart-y').value],stageRect=stage.getBoundingClientRect();
+  tooltip.innerHTML=`<strong>${esc(point.record.model)}</strong><span>${esc(point.record.manufacturer)} · ${esc(point.record.category)}</span><br>${esc(xField.label)}: ${esc(chartNumber(point.valueX,xField))}<br>${esc(yField.label)}: ${esc(chartNumber(point.valueY,yField))}`;
+  tooltip.style.left=`${Math.max(4,Math.min(event.clientX-stageRect.left,stage.clientWidth-250))}px`;
+  tooltip.style.top=`${Math.max(28,Math.min(event.clientY-stageRect.top,stage.clientHeight-28))}px`;
+  tooltip.classList.add('show');
+}
 function rowHtml(r){const kept=state.kept.has(r.id),capacity=r.capacityDisplay||force(r.capacityMaxN),output=electrical(r),links=externalSources(r),error=r.primaryErrorPctFS==null?null:`${fmt(r.primaryErrorPctFS)}% FS`,source=r.evidenceCount?`<span class="source-badge">CITED</span><span class="citation-count">${r.evidenceCount} fields</span>`:'<span class="source-badge catalog">CATALOG</span><span class="citation-count">No field quotes</span>',subtitle=r.series||(r.name!==r.model?r.name:'');return `<tr class="${kept?'selected':''}" data-id="${esc(r.id)}"><td><div class="source-stack">${source}</div></td><td><div class="product-maker">${esc(r.manufacturer)}</div><div class="model">${esc(r.model)}</div><div class="sub">${esc(subtitle||'')}</div></td><td><div class="cell-main">${esc(r.category)}</div><div class="cell-sub">${esc(r.sensorType)}</div><div class="cell-sub">${esc(r.technology||r.technologyGroup)}</div></td><td><div class="cell-main">${esc(capacity)}</div>${r.axisCount?`<div class="cell-sub">${r.axisCount} axes${r.loadDirection?` · ${esc(r.loadDirection)}`:''}</div>`:r.loadDirection?`<div class="cell-sub">${esc(r.loadDirection)}</div>`:''}${ev(r,'capacityDisplay')}</td><td>${error?`<div class="assessment-good">${esc(error)} ${esc((r.primaryErrorKind||'error').toLowerCase())}</div>`:'<div class="assessment-warn">Error not stated</div>'}<div class="cell-sub">${esc(output[0]||'Output not stated')}</div><div class="cell-sub">${esc(output.slice(1).join(' · '))}</div></td><td>${r.operatingTempDisplay?`<div class="assessment-good">${esc(r.operatingTempDisplay)}</div>`:'<div class="assessment-warn">Service range not stated</div>'}<div class="cell-sub">${esc(r.ipRating||'No IP rating stated')}</div>${r.safeOverloadPct!=null?`<div class="cell-sub">${fmt(r.safeOverloadPct)}% safe overload</div>`:''}</td><td><div class="cell-main">${esc(r.formFactor||'Form not stated')}</div><div class="cell-sub">${esc(r.material||'Material not stated')}</div></td><td><div class="cell-main price-value">${money(r.priceUSD)}</div></td><td><div class="action-stack"><button class="detail-btn" data-detail="${esc(r.id)}">Details</button><button class="action-pill secondary ${kept?'on':''}" data-keep="${esc(r.id)}" aria-label="${kept?'Remove from':'Add to'} comparison" aria-pressed="${kept}">${kept?'Saved':'Compare'}</button>${links.product?`<a class="source-link" href="${esc(links.product)}" target="_blank" rel="noopener">Product ↗</a>`:''}${links.datasheet?`<a class="source-link" href="${esc(links.datasheet)}" target="_blank" rel="noopener">Datasheet ↗</a>`:''}${!links.product&&!links.datasheet?'<span class="cell-sub">Source unavailable</span>':''}</div></td></tr>`}
 function mobileHtml(r){const kept=state.kept.has(r.id),links=externalSources(r),capacity=r.capacityDisplay||force(r.capacityMaxN);return `<article class="mobile-card"><div class="mobile-title"><div><div class="product-maker">${esc(r.manufacturer)}</div><div class="model">${esc(r.model)}</div><div class="sub">${esc(r.sensorType)}</div></div>${r.evidenceCount?`<span class="source-badge">CITED · ${r.evidenceCount}</span>`:'<span class="source-badge catalog">CATALOG</span>'}</div><dl class="mobile-specs"><div><dt>Measurement</dt><dd>${esc(r.category)}<br><span class="cell-sub">${esc(r.technology||r.technologyGroup)}</span></dd></div><div><dt>Force range, N</dt><dd>${esc(capacity)}</dd></div><div><dt>Error</dt><dd>${r.primaryErrorPctFS==null?'Not stated':`${fmt(r.primaryErrorPctFS)}% FS`}</dd></div><div><dt>Output</dt><dd>${esc(electrical(r)[0]||'Not stated')}</dd></div><div><dt>Service range</dt><dd>${esc(r.operatingTempDisplay||'Not stated')}</dd></div><div><dt>Protection</dt><dd>${esc(r.ipRating||'Not stated')}</dd></div></dl><div class="mobile-actions"><button class="action-pill ${kept?'on':''}" data-keep="${esc(r.id)}">★ ${kept?'Saved':'Compare'}</button><button class="detail-btn" data-detail="${esc(r.id)}">Details</button>${links.product?`<a class="source-link" href="${esc(links.product)}" target="_blank" rel="noopener">Product ↗</a>`:''}${links.datasheet?`<a class="source-link" href="${esc(links.datasheet)}" target="_blank" rel="noopener">Datasheet ↗</a>`:''}</div></article>`}
-function render(){const pages=Math.max(1,Math.ceil(state.filtered.length/state.pageSize));if(state.page>pages)state.page=pages;const start=(state.page-1)*state.pageSize,items=state.filtered.slice(start,start+state.pageSize);$('table-body').innerHTML=items.map(rowHtml).join('');$('mobile-list').innerHTML=items.map(mobileHtml).join('')||'<div class="empty">No products meet these constraints.</div>';$('match-count').textContent=state.filtered.length.toLocaleString();$('result-meta').innerHTML=`Showing ${state.filtered.length?start+1:0}–${Math.min(start+state.pageSize,state.filtered.length)} of ${state.filtered.length.toLocaleString()}<br>${state.data.metadata.productsWithSemanticSpecs.toLocaleString()} products have model-read datasheet specs`;$('page-label').textContent=`Page ${state.page} of ${pages}`;$('prev-page').disabled=state.page===1;$('next-page').disabled=state.page===pages;renderTray()}
+function render(){const pages=Math.max(1,Math.ceil(state.filtered.length/state.pageSize));if(state.page>pages)state.page=pages;const start=(state.page-1)*state.pageSize,items=state.filtered.slice(start,start+state.pageSize);$('table-body').innerHTML=items.map(rowHtml).join('');$('mobile-list').innerHTML=items.map(mobileHtml).join('')||'<div class="empty">No products meet these constraints.</div>';$('match-count').textContent=state.filtered.length.toLocaleString();$('result-meta').innerHTML=state.view==='chart'?`${state.filtered.length.toLocaleString()} filtered products<br>Only products with both axis values are plotted`:`Showing ${state.filtered.length?start+1:0}–${Math.min(start+state.pageSize,state.filtered.length)} of ${state.filtered.length.toLocaleString()}<br>${state.data.metadata.productsWithSemanticSpecs.toLocaleString()} products have model-read datasheet specs`;$('page-label').textContent=`Page ${state.page} of ${pages}`;$('prev-page').disabled=state.page===1;$('next-page').disabled=state.page===pages;renderTray();if(state.view==='chart')queueAshby()}
 function persist(){localStorage.setItem('forcefind-compare',JSON.stringify([...state.kept]))}
 function toggleKeep(id){if(state.kept.has(id))state.kept.delete(id);else{if(state.kept.size>=4){alert('Compare up to four products at a time.');return}state.kept.add(id)}persist();render()}
 function renderTray(){const records=[...state.kept].map(id=>state.all.find(r=>r.id===id)).filter(Boolean);$('compare-tray').classList.toggle('show',records.length>0);$('tray-items').innerHTML=records.map(r=>`<span class="tray-item">${esc(r.model)}</span>`).join('');$('compare-btn').textContent=`Compare ${records.length}`;$('compare-btn').disabled=records.length<2}
@@ -148,9 +341,9 @@ const compareFields=['sensorType','technology','formFactor','axisCount','loadDir
 function renderCompare(){const records=[...state.kept].map(id=>state.all.find(r=>r.id===id)).filter(Boolean),diffOnly=$('differences-only').checked;const rows=compareFields.filter(key=>{const values=records.map(r=>displayValue(r,key)||'—');return !diffOnly||new Set(values).size>1}).map(key=>`<tr><th>${esc(labels[key]||key)}</th>${records.map(r=>`<td>${esc(displayValue(r,key)||'—')}${ev(r,key)}</td>`).join('')}</tr>`).join('');$('compare-content').innerHTML=`<table><thead><tr><th>Specification</th>${records.map(r=>`<th class="product-head"><div>${esc(r.model)}</div><div class="sub">${esc(r.manufacturer)}</div></th>`).join('')}</tr></thead><tbody>${rows}</tbody></table>`}
 function openCompare(){if(state.kept.size<2)return;renderCompare();$('compare-overlay').classList.add('open');document.body.style.overflow='hidden'}
 function closeOverlay(which){$(which+'-overlay').classList.remove('open');document.body.style.overflow=''}
-function clearFilters(){for(const id of ['search','manufacturer','sensor-type','technology','force-min','force-max','max-error','temp-min','temp-max','output-signal'])$(id).value='';for(const id of ['ip-only','datasheet-only','specs-only'])$(id).checked=false;state.quick='';document.querySelectorAll('[data-quick]').forEach(b=>b.classList.remove('active'));apply()}
+function clearFilters(){for(const id of ['search','manufacturer','sensor-type','technology','force-min','force-max','max-error','temp-min','temp-max'])$(id).value='';for(const id of ['ip-only','datasheet-only','specs-only'])$(id).checked=false;state.quick='';document.querySelectorAll('[data-quick]').forEach(button=>button.classList.remove('active'));apply()}
 function csv(){const fields=['model','manufacturer','sensorType','technology','formFactor','capacityMinN','capacityMaxN','torqueMinNm','torqueMaxNm','primaryErrorPctFS','ratedOutputMvV','operatingTempMinC','operatingTempMaxC','safeOverloadPct','ipRating','material','priceUSD','datasheetUrl'];const quote=v=>`"${String(v??'').replace(/"/g,'""')}"`;const text=[fields.join(','),...state.filtered.map(r=>fields.map(f=>quote(Array.isArray(r[f])?r[f].join('; '):r[f])).join(','))].join('\n');const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([text],{type:'text/csv'}));a.download='forcefind-selection.csv';a.click();URL.revokeObjectURL(a.href)}
-for(const id of ['search','manufacturer','sensor-type','technology','force-min','force-max','max-error','temp-min','temp-max','output-signal','ip-only','datasheet-only','specs-only'])$(id).addEventListener(id==='search'?'input':'change',apply);document.addEventListener('click',event=>{const keep=event.target.closest('[data-keep]'),detail=event.target.closest('[data-detail]'),sort=event.target.closest('[data-sort]'),quick=event.target.closest('[data-quick]'),close=event.target.closest('[data-close]');if(keep)toggleKeep(keep.dataset.keep);if(detail)openDetail(detail.dataset.detail);if(sort){const f=sort.dataset.sort;state.sortDir=state.sortField===f?-state.sortDir:1;state.sortField=f;sortRows();state.page=1;render()}if(quick){state.quick=state.quick===quick.dataset.quick?'':quick.dataset.quick;document.querySelectorAll('[data-quick]').forEach(b=>b.classList.toggle('active',b.dataset.quick===state.quick));apply()}if(close)closeOverlay(close.dataset.close)});$('clear-filters').onclick=clearFilters;$('reset-top').onclick=clearFilters;$('prev-page').onclick=()=>{state.page--;render();document.querySelector('.results').scrollIntoView()};$('next-page').onclick=()=>{state.page++;render();document.querySelector('.results').scrollIntoView()};$('clear-compare').onclick=()=>{state.kept.clear();persist();render()};$('compare-btn').onclick=openCompare;$('differences-only').onchange=renderCompare;$('export-btn').onclick=csv;for(const id of ['drawer-overlay','compare-overlay'])$(id).addEventListener('click',event=>{if(event.target.id===id)closeOverlay(id.replace('-overlay',''))});document.addEventListener('keydown',event=>{if(event.key==='Escape'){closeOverlay('drawer');closeOverlay('compare')}});
+for(const id of ['search','manufacturer','sensor-type','technology','force-min','force-max','max-error','temp-min','temp-max','ip-only','datasheet-only','specs-only'])$(id).addEventListener(id==='search'?'input':'change',apply);document.addEventListener('click',event=>{const keep=event.target.closest('[data-keep]'),detail=event.target.closest('[data-detail]'),sort=event.target.closest('[data-sort]'),quick=event.target.closest('[data-quick]'),close=event.target.closest('[data-close]'),view=event.target.closest('[data-view]');if(keep)toggleKeep(keep.dataset.keep);if(detail)openDetail(detail.dataset.detail);if(sort){const field=sort.dataset.sort;state.sortDir=state.sortField===field?-state.sortDir:1;state.sortField=field;sortRows();state.page=1;render()}if(quick){state.quick=state.quick===quick.dataset.quick?'':quick.dataset.quick;document.querySelectorAll('[data-quick]').forEach(button=>button.classList.toggle('active',button.dataset.quick===state.quick));apply()}if(close)closeOverlay(close.dataset.close);if(view)setView(view.dataset.view)});for(const axis of ['x','y']){$(`chart-${axis}`).addEventListener('change',()=>{syncChartLog(axis);queueAshby()});$(`chart-${axis}-log`).addEventListener('change',queueAshby)}$('chart-swap').onclick=()=>{const x=$('chart-x'),y=$('chart-y'),xLog=$('chart-x-log'),yLog=$('chart-y-log'),xValue=x.value,xChecked=xLog.checked;x.value=y.value;y.value=xValue;xLog.checked=yLog.checked;yLog.checked=xChecked;syncChartLog('x');syncChartLog('y');queueAshby()};$('ashby-canvas').addEventListener('pointermove',inspectChartPoint);$('ashby-canvas').addEventListener('pointerleave',()=>{$('chart-tooltip').classList.remove('show')});$('ashby-canvas').addEventListener('click',event=>{const point=nearestChartPoint(event);if(point)openDetail(point.record.id)});window.addEventListener('resize',()=>{if(state.view==='chart')queueAshby()});$('clear-filters').onclick=clearFilters;$('reset-top').onclick=clearFilters;$('prev-page').onclick=()=>{state.page--;render();document.querySelector('.results').scrollIntoView()};$('next-page').onclick=()=>{state.page++;render();document.querySelector('.results').scrollIntoView()};$('clear-compare').onclick=()=>{state.kept.clear();persist();render()};$('compare-btn').onclick=openCompare;$('differences-only').onchange=renderCompare;$('export-btn').onclick=csv;for(const id of ['drawer-overlay','compare-overlay'])$(id).addEventListener('click',event=>{if(event.target.id===id)closeOverlay(id.replace('-overlay',''))});document.addEventListener('keydown',event=>{if(event.key==='Escape'){closeOverlay('drawer');closeOverlay('compare')}});
 load().catch(error=>{$('result-meta').textContent=error.message;$('mobile-list').innerHTML=`<div class="empty">${esc(error.message)}</div>`;console.error(error)});
 </script>
 </body>

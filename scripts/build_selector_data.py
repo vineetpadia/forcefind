@@ -335,12 +335,16 @@ def main() -> None:
         )
         for sensor in actual_sensors
     ]
+    instrumentation_count = sum(
+        record["category"] == "Instrumentation" for record in records
+    )
+    records = [record for record in records if record["category"] != "Instrumentation"]
+
 
     manufacturers = sorted({record["manufacturer"] for record in records})
     categories = sorted({record["category"] for record in records})
     technology_groups = sorted({record["technologyGroup"] for record in records})
     form_factors = sorted({record["formFactor"] for record in records if record["formFactor"]})
-    output_signals = sorted({signal for record in records for signal in record["outputSignals"]})
     field_coverage = Counter(
         field
         for record in records
@@ -365,6 +369,7 @@ def main() -> None:
         "metadata": {
             "generatedAt": datetime.now(UTC).isoformat(),
             "totalProducts": len(records),
+            "excludedInstrumentationProducts": instrumentation_count,
             "totalManufacturers": len(manufacturers),
             "auditedManufacturers": sensors_envelope.get("manufacturerCount"),
             "totalFamilies": families_envelope.get("familyCount", len(families_envelope.get("families", []))),
@@ -378,7 +383,6 @@ def main() -> None:
             "sensorTypes": categories,
             "technologies": technology_groups,
             "formFactors": form_factors,
-            "outputSignals": output_signals,
         },
         "sensors": records,
     }
