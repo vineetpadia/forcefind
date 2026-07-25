@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T19:23:20.762274+00:00",
+  "generatedAt": "2026-07-25T21:27:58.318971+00:00",
   "coveredManufacturers": [
     "A&D Company",
     "ABB Force Measurement",
@@ -244,5 +244,14 @@
     "X-SENSORS",
     "XSENSOR"
   ],
-  "method": "Current data/sensors.json names compared with official manufacturer catalog and datasheet portals; list remains open-ended."
+  "method": "Current data/sensors.json names compared with official manufacturer catalog and datasheet portals; list remains open-ended.",
+  "regionalCatalogExpansion": {
+    "source": "data/regional-force-sensor-products.json",
+    "productCount": 207,
+    "regions": {
+      "China": 102,
+      "Europe": 53,
+      "Japan": 52
+    }
+  }
 }

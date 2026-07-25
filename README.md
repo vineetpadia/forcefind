@@ -6,15 +6,17 @@ ForceFind is a source-grounded database and engineer-facing comparison tool for 
 
 Current generated indexes contain:
 
-- 2,628 sensor records across 226 manufacturer names
-- 1,199 active distributor MPN records and 1,429 manufacturer catalog/family records
-- 1,501 normalized selector families
+- 2,835 sensor records across 226 audited manufacturer names
+- 1,199 active distributor MPN records and 1,636 manufacturer catalog/model records
+- 1,708 normalized selector families
 - 910 unique, locally stored PDF documents
 - 1,525 sensor records linked to a local PDF
-- 136 additional records linked to a remote datasheet
-- 967 records whose primary datasheet still needs resolution
+- 206 additional records linked to a remote datasheet
+- 1,104 records whose primary datasheet still needs resolution
 
 Manufacturer catalog harvesting covers 226 global load-cell developers and force-measurement manufacturers audited from `global_load_cell_manufacturers_audited_2026-07-24.xlsx` (143 confirmed manufacturers and 50 verification candidates). Regional coverage spans North America, Europe, East Asia, South Asia, and Latin America. Key manufacturer lines include VPG Force Sensors (Tedea-Huntleigh, Sensortronics, Revere Transducers, Celtron, BLH Nobel), FUTEK, Interface, Burster, Lorenz Messtechnik, PCB Piezotronics, Transducer Techniques, HBK, Flintec, ATI Industrial Automation, Rice Lake Weighing Systems, Shimadzu, Kyowa Electronic Instruments, MinebeaMitsumi (NMB), A&D Company, Kistler Group, SCAIME, Eilersen, TE Connectivity, Tekscan, and Interlink Electronics. DigiKey category 531 contributes the active MPN inventory and distributor records.
+
+The 2026-07-25 regional official-catalog crawl added 207 individually sourced product records: 53 from European catalogs, 102 from Chinese catalogs, and 52 from Japanese catalogs. Every added record retains its official manufacturer product URL and retrieval evidence; 70 also expose an official remote PDF datasheet.
 
 Counts are generated from the current JSON artifacts rather than estimated. Catalog entries without a resolved PDF remain explicit; the database does not invent electrical or mechanical specifications.
 
