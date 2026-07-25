@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-25T21:27:58.318971+00:00",
-  "familyCount": 1708,
+  "generatedAt": "2026-07-25T21:49:30.397318+00:00",
+  "familyCount": 1710,
   "families": [
     {
       "id": "adafruit-industries-llc----manufacturer-series",
@@ -11969,7 +11969,7 @@
     {
       "id": "sparkfun-electronics--flexiforce--manufacturer-series",
       "manufacturer": "SparkFun Electronics",
-      "family": "FlexiForce\u00ae",
+      "family": "FlexiForce®",
       "familySource": "manufacturer_series",
       "recordCount": 4,
       "models": [
@@ -13282,7 +13282,7 @@
     {
       "id": "tekscan--flexiforce--manufacturer-series",
       "manufacturer": "Tekscan",
-      "family": "FlexiForce\u2122",
+      "family": "FlexiForce™",
       "familySource": "manufacturer_series",
       "recordCount": 13,
       "models": [
@@ -17808,1348 +17808,6 @@
       ],
       "pdfPaths": [
         "datasheets/burster/model-8400.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-1250--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-1250",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-1250"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080797c_k-1250_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-1250.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-13--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-13",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-13"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080781g_k-13_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-13.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-14--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-14",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-14"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080791d_k-14_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-14.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-1613--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-1613",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-1613"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080779c_k-1613_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-1613.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-18--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-18",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-18"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080795c_k-18_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-18.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-181--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-181",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-181"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080793c_k-181_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-181.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-2071--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-2071",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-2071"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080783c_k-2071_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-2071.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-22--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-22",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-22"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080777b_k-22_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-22.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-2283--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-2283",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-2283"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080785c_k-2283_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-2283.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-2528--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-2528",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-2528"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080787c_k-2528_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-2528.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-2529--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-2529",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-2529"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080789c_k-2529_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-2529.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-450--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-450",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-450"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080775c_k-450_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-450.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-w-2752--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model W-2752",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model W-2752"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081096_w-2752_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-w-2752.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-w-ca40x--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model W-CA40X",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model W-CA40X"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081059_w-ca40x_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-w-ca40x.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-w-cb50x-dl--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model W-CB50X-DL",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model W-CB50X-DL"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081035_w-cb50x-dl_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-w-cb50x-dl.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-w-cb50x--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model W-CB50X",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model W-CB50X"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081039_w-cb50x_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-w-cb50x.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-w-f60x--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model W-F60X",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model W-F60X"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081090_f60x-6w_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-w-f60x.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-w-r10x--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model W-R10X",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model W-R10X"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081043_w-r10x_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-w-r10x.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-w-rh10x--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model W-RH10X",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model W-RH10X"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081037a_w-rh10x_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-w-rh10x.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-w-sk30x--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model W-SK30X",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model W-SK30X"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080871a_sk30x_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-w-sk30x.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-w-sk30x5t--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model W-SK30X5T",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model W-SK30X5T"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080873_sk30x-5t_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-w-sk30x5t.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-w-za30x--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model W-ZA30X",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model W-ZA30X"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081033_w-za30x_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-w-za30x.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-w-zfa--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model W-ZFA",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model W-ZFA"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081041_w-zfa_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-w-zfa.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-w-ab--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model W-AB",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model W-AB"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080901a_w-ab_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-w-ab.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-w-ag--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model W-AG",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model W-AG"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081086_w-ag-c6_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-w-ag.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-w-ah--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model W-AH",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model W-AH"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080907_w-ah_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-w-ah.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-w-ahn--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model W-AHN",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model W-AHN"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080909_w-ahn_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-w-ahn.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-w-ak--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model W-AK",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model W-AK"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/0081088_w-ak-300_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-w-ak.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-w-al--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model W-AL",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model W-AL"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080913_w-al_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-w-al.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-w-ap--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model W-AP",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model W-AP"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080915_w-ap_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-w-ap.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-w-aq--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model W-AQ",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model W-AQ"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080917_w-aq_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-w-aq.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-w-ar--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model W-AR",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model W-AR"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080919_w-ar_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-w-ar.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-w-axh--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model W-AXH",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model W-AXH"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080923-w-axh_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-w-axh.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-w-axl--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model W-AXL",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model W-AXL"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080925_w-axl_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-w-axl.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-w-bef--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model W-BEF",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model W-BEF"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080927_w-bef-f_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-w-bef.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-w-pm--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model W-PM",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model W-PM"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080929_w-pm_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-w-pm.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-dz-1--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model DZ-1",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model DZ-1"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080825d_dz-1_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-dz-1.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-1509--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-1509",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-1509"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080829d_K-1509_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-1509.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-1661--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-1661",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-1661"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080821c_k-1661_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-1661.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-2148--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-2148",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-2148"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080823d_k-2148_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-2148.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-2565--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-2565",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-2565"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080827d_k-2565_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-2565.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-2618--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-2618",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-2618"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080831c_k-2618_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-2618.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-100--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-100",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-100"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080803b_k-100_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-100.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-1107--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-1107",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-1107"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080801b_k-1107_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-1107.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-1368--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-1368",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-1368"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080805b_k-1368_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-1368.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-11--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-11",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-11"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080817e_k-11_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-11.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-12--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-12",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-12"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080809d_k-12_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-12.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-1427--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-1427",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-1427"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080813d_k-1427_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-1427.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-1563--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-1563",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-1563"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080807f_k-1563_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-1563.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-1882--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-1882",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-1882"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080819d_k-1882_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-1882.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-2145--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-2145",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-2145"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080811d_k-2145_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-2145.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-25--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-25",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-25"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080815g_k-25_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-25.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-k-2698--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model K-2698",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model K-2698"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080799d_k-2698_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-k-2698.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-dr-2371--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model DR-2371",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model DR-2371"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080985a_m-2371_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-dr-2371.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-1902--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model 1902",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model 1902"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080973b_m-1902_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-1902.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-1983--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model 1983",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model 1983"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080977b_m-1983_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-1983.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-2025--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model 2025",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model 2025"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080981a_m-2025_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-2025.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-2230--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model 2230",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model 2230"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080975b_m-2230_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-2230.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-2354--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model 2354",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model 2354"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080983b_m-2354_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-2354.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-2396--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model 2396",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model 2396"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080979b_m-2396_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-2396.pdf"
-      ]
-    },
-    {
-      "id": "lorenz-messtechnik--model-2416--catalog-model",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Model 2416",
-      "familySource": "catalog_model",
-      "recordCount": 1,
-      "models": [
-        "Model 2416"
-      ],
-      "sensorTypes": [
-        "Force Transducer"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "datasheetUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080971b_m-2416_en.pdf"
-      ],
-      "pdfPaths": [
-        "datasheets/lorenz-messtechnik/model-2416.pdf"
       ]
     },
     {
@@ -27185,11 +25843,11 @@
     {
       "id": "sensy--model-diagnostic-pont-formulaire-amplifi--catalog-model",
       "manufacturer": "SENSY",
-      "family": "Model Diagnostic-pont-formulaire-amplifi\u00e9",
+      "family": "Model Diagnostic-pont-formulaire-amplifié",
       "familySource": "catalog_model",
       "recordCount": 1,
       "models": [
-        "Model Diagnostic-pont-formulaire-amplifi\u00e9"
+        "Model Diagnostic-pont-formulaire-amplifié"
       ],
       "sensorTypes": [
         "Load Cell / Force Sensor"
@@ -27198,7 +25856,7 @@
         "SENSY catalog harvest"
       ],
       "datasheetUrls": [
-        "https://files.sensy.com/support/Diagnostic-pont-formulaire-amplifi\u00e9_EN.pdf"
+        "https://files.sensy.com/support/Diagnostic-pont-formulaire-amplifié_EN.pdf"
       ],
       "pdfPaths": [
         "datasheets/sensy/model-diagnostic-pont-formulaire-amplifi.pdf"
@@ -30282,12 +28940,12 @@
     },
     {
       "id": "hbk-hottinger-br-el-kj-r--catalog-family--series",
-      "manufacturer": "HBK (Hottinger Br\u00fcel & Kj\u00e6r)",
-      "family": "HBK (Hottinger Br\u00fcel & Kj\u00e6r) Product Series",
+      "manufacturer": "HBK (Hottinger Brüel & Kjær)",
+      "family": "HBK (Hottinger Brüel & Kjær) Product Series",
       "familySource": "excel_audit",
       "recordCount": 1,
       "models": [
-        "HBK (Hottinger Br\u00fcel & Kj\u00e6r) Force Sensor Catalog Family"
+        "HBK (Hottinger Brüel & Kjær) Force Sensor Catalog Family"
       ],
       "sensorTypes": [
         "Strain gauge; piezoelectric"
@@ -30354,12 +29012,12 @@
     },
     {
       "id": "burster-pr-zisionsmesstechnik--catalog-family--series",
-      "manufacturer": "burster pr\u00e4zisionsmesstechnik",
-      "family": "burster pr\u00e4zisionsmesstechnik Product Series",
+      "manufacturer": "burster präzisionsmesstechnik",
+      "family": "burster präzisionsmesstechnik Product Series",
       "familySource": "excel_audit",
       "recordCount": 1,
       "models": [
-        "burster pr\u00e4zisionsmesstechnik Force Sensor Catalog Family"
+        "burster präzisionsmesstechnik Force Sensor Catalog Family"
       ],
       "sensorTypes": [
         "Strain gauge; piezoelectric"
@@ -30369,24 +29027,6 @@
       ],
       "productScope": "Tension/compression, miniature, ring, bending-beam and reference load cells",
       "officialUrl": "https://www.burster.com/en/sensors/force-sensors"
-    },
-    {
-      "id": "lorenz-messtechnik--catalog-family--series",
-      "manufacturer": "Lorenz Messtechnik",
-      "family": "Lorenz Messtechnik Product Series",
-      "familySource": "excel_audit",
-      "recordCount": 1,
-      "models": [
-        "Lorenz Messtechnik Force Sensor Catalog Family"
-      ],
-      "sensorTypes": [
-        "Strain gauge"
-      ],
-      "sources": [
-        "Global Load-Cell Manufacturer Audit Excel (2026-07-24)"
-      ],
-      "productScope": "Force transducers, load cells, torque sensors and custom measurement systems",
-      "officialUrl": "https://www.lorenz-messtechnik.de/english/products/force-sensors/"
     },
     {
       "id": "gtm-testing-and-metrology--catalog-family--series",
@@ -30408,12 +29048,12 @@
     },
     {
       "id": "me-me-systeme--catalog-family--series",
-      "manufacturer": "ME-Me\u00dfsysteme",
-      "family": "ME-Me\u00dfsysteme Product Series",
+      "manufacturer": "ME-Meßsysteme",
+      "family": "ME-Meßsysteme Product Series",
       "familySource": "excel_audit",
       "recordCount": 1,
       "models": [
-        "ME-Me\u00dfsysteme Force Sensor Catalog Family"
+        "ME-Meßsysteme Force Sensor Catalog Family"
       ],
       "sensorTypes": [
         "Strain gauge"
@@ -30444,12 +29084,12 @@
     },
     {
       "id": "haehne-elektronische-messger-te--catalog-family--series",
-      "manufacturer": "HAEHNE Elektronische Messger\u00e4te",
-      "family": "HAEHNE Elektronische Messger\u00e4te Product Series",
+      "manufacturer": "HAEHNE Elektronische Messgeräte",
+      "family": "HAEHNE Elektronische Messgeräte Product Series",
       "familySource": "excel_audit",
       "recordCount": 1,
       "models": [
-        "HAEHNE Elektronische Messger\u00e4te Force Sensor Catalog Family"
+        "HAEHNE Elektronische Messgeräte Force Sensor Catalog Family"
       ],
       "sensorTypes": [
         "Strain gauge"
@@ -30678,12 +29318,12 @@
     },
     {
       "id": "dinacell-electr-nica--catalog-family--series",
-      "manufacturer": "DINACELL Electr\u00f3nica",
-      "family": "DINACELL Electr\u00f3nica Product Series",
+      "manufacturer": "DINACELL Electrónica",
+      "family": "DINACELL Electrónica Product Series",
       "familySource": "excel_audit",
       "recordCount": 1,
       "models": [
-        "DINACELL Electr\u00f3nica Force Sensor Catalog Family"
+        "DINACELL Electrónica Force Sensor Catalog Family"
       ],
       "sensorTypes": [
         "Strain gauge"
@@ -32028,12 +30668,12 @@
     },
     {
       "id": "alfa-instrumentos-eletr-nicos--catalog-family--series",
-      "manufacturer": "Alfa Instrumentos Eletr\u00f4nicos",
-      "family": "Alfa Instrumentos Eletr\u00f4nicos Product Series",
+      "manufacturer": "Alfa Instrumentos Eletrônicos",
+      "family": "Alfa Instrumentos Eletrônicos Product Series",
       "familySource": "excel_audit",
       "recordCount": 1,
       "models": [
-        "Alfa Instrumentos Eletr\u00f4nicos Force Sensor Catalog Family"
+        "Alfa Instrumentos Eletrônicos Force Sensor Catalog Family"
       ],
       "sensorTypes": [
         "Strain gauge"
@@ -32046,12 +30686,12 @@
     },
     {
       "id": "mk-controle-e-instrumenta-o-mk-cells--catalog-family--series",
-      "manufacturer": "MK Controle e Instrumenta\u00e7\u00e3o / MK Cells",
-      "family": "MK Controle e Instrumenta\u00e7\u00e3o / MK Cells Product Series",
+      "manufacturer": "MK Controle e Instrumentação / MK Cells",
+      "family": "MK Controle e Instrumentação / MK Cells Product Series",
       "familySource": "excel_audit",
       "recordCount": 1,
       "models": [
-        "MK Controle e Instrumenta\u00e7\u00e3o / MK Cells Force Sensor Catalog Family"
+        "MK Controle e Instrumentação / MK Cells Force Sensor Catalog Family"
       ],
       "sensorTypes": [
         "Strain gauge"
@@ -32398,12 +31038,12 @@
     },
     {
       "id": "sika-dr-siebert-k-hn--needs-verification--series",
-      "manufacturer": "SIKA Dr. Siebert & K\u00fchn",
-      "family": "SIKA Dr. Siebert & K\u00fchn Product Series",
+      "manufacturer": "SIKA Dr. Siebert & Kühn",
+      "family": "SIKA Dr. Siebert & Kühn Product Series",
       "familySource": "excel_needs_verification",
       "recordCount": 1,
       "models": [
-        "SIKA Dr. Siebert & K\u00fchn Force Measurement Catalog"
+        "SIKA Dr. Siebert & Kühn Force Measurement Catalog"
       ],
       "sensorTypes": [
         "Force Sensor / Load Cell"
@@ -39057,6 +37697,1414 @@
       ],
       "region": "Japan",
       "hqCountry": "Japan"
+    },
+    {
+      "id": "lorenz-messtechnik--model-1902--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model 1902",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model 1902"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080973b_m-1902_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-1902.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-1983--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model 1983",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model 1983"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080977b_m-1983_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-1983.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-2025--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model 2025",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model 2025"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080981a_m-2025_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-2025.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-2230--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model 2230",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model 2230"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080975b_m-2230_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-2230.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-2354--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model 2354",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model 2354"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080983b_m-2354_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-2354.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-2396--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model 2396",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model 2396"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080979b_m-2396_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-2396.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-2416--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model 2416",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model 2416"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080971b_m-2416_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-2416.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-dr-2371--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model DR-2371",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model DR-2371"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080985a_m-2371_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-dr-2371.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-dz-1--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model DZ-1",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model DZ-1"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080825d_dz-1_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-dz-1.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-100--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-100",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-100"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080803b_k-100_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-100.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-11--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-11",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-11"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080817e_k-11_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-11.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-1107--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-1107",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-1107"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080801b_k-1107_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-1107.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-12--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-12",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-12"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080809d_k-12_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-12.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-1250--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-1250",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-1250"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080797c_k-1250_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-1250.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-13--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-13",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-13"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080781g_k-13_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-13.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-1368--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-1368",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-1368"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080805b_k-1368_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-1368.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-14--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-14",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-14"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080791d_k-14_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-14.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-1427--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-1427",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-1427"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080813d_k-1427_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-1427.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-1509--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-1509",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-1509"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080829d_k-1509_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-1509.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-1563--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-1563",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-1563"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080807f_k-1563_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-1563.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-1613--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-1613",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-1613"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080779c_k-1613_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-1613.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-1661--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-1661",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-1661"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080821c_k-1661_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-1661.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-18--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-18",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-18"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080795c_k-18_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-18.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-181--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-181",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-181"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080793c_k-181_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-181.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-1882--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-1882",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-1882"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080819d_k-1882_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-1882.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-2071--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-2071",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-2071"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080783c_k-2071_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-2071.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-2145--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-2145",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-2145"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080811d_k-2145_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-2145.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-2148--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-2148",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-2148"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080823d_k-2148_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-2148.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-22--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-22",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-22"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080777b_k-22_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-22.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-2283--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-2283",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-2283"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080785c_k-2283_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-2283.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-25--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-25",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-25"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080815g_k-25_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-25.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-2528--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-2528",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-2528"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080787c_k-2528_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-2528.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-2529--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-2529",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-2529"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080789c_k-2529_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-2529.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-2565--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-2565",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-2565"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080827d_k-2565_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-2565.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-2618--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-2618",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-2618"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080831c_k-2618_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-2618.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-2698--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-2698",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-2698"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080799d_k-2698_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-2698.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-k-450--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model K-450",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model K-450"
+      ],
+      "sensorTypes": [
+        "Force Transducer"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080775c_k-450_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-k-450.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-2752--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-2752",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-2752"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081096_w-2752_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-2752.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-ab--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-AB",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-AB"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080901a_w-ab_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-ab.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-ag--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-AG",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-AG"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081080_w-ag_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-ag.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-ag-c3--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-AG-C3",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-AG-C3"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081084_w-ag-c3_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-ag-c3.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-ag-c6--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-AG-C6",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-AG-C6"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081086_w-ag-c6_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-ag-c6.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-ah--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-AH",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-AH"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080907_w-ah_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-ah.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-ahn--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-AHN",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-AHN"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080909_w-ahn_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-ahn.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-ak-60--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-AK-60",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-AK-60"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080911_w-ak-60_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-ak-60.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-ak-300--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-AK-300",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-AK-300"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081088_w-ak-300_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-ak-300.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-al--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-AL",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-AL"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080913_w-al_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-al.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-ap--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-AP",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-AP"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080915_w-ap_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-ap.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-aq--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-AQ",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-AQ"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080917_w-aq_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-aq.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-ar--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-AR",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-AR"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080919_w-ar_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-ar.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-axh--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-AXH",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-AXH"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080923-w-axh_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-axh.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-axl--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-AXL",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-AXL"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080925_w-axl_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-axl.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-bef--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-BEF",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-BEF"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080927_w-bef-f_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-bef.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-ca40x--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-CA40X",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-CA40X"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081059_w-ca40x_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-ca40x.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-cb50x--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-CB50X",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-CB50X"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081039_w-cb50x_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-cb50x.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-cb50x-dl--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-CB50X-DL",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-CB50X-DL"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081035_w-cb50x-dl_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-cb50x-dl.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-f60x--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-F60X",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-F60X"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081090_f60x-6w_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-f60x.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-pm--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-PM",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-PM"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080929_w-pm_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-pm.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-r10x--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-R10X",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-R10X"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081043_w-r10x_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-r10x.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-rh10x--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-RH10X",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-RH10X"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081037a_w-rh10x_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-rh10x.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-sk30x--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-SK30X",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-SK30X"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080871a_sk30x_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-sk30x.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-sk30x5t--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-SK30X5T",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-SK30X5T"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080873_sk30x-5t_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-sk30x5t.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-za30x--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-ZA30X",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-ZA30X"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081033_w-za30x_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-za30x.pdf"
+      ]
+    },
+    {
+      "id": "lorenz-messtechnik--model-w-zfa--catalog-model",
+      "manufacturer": "Lorenz Messtechnik",
+      "family": "Model W-ZFA",
+      "familySource": "catalog_model",
+      "recordCount": 1,
+      "models": [
+        "Model W-ZFA"
+      ],
+      "sensorTypes": [
+        "Load Cell"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "datasheetUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081041_w-zfa_en.pdf"
+      ],
+      "pdfPaths": [
+        "datasheets/lorenz-messtechnik/model-w-zfa.pdf"
+      ]
     }
   ]
 }

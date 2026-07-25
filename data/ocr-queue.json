@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-24T19:28:45.644912+00:00",
+  "generatedAt": "2026-07-25T21:49:30.397318+00:00",
   "model": "mistral-ocr-latest",
   "maxWorkers": 5,
-  "status": "complete",
+  "status": "partial",
   "documents": [
     {
       "id": "sha256-8cb02f397d53714b",
@@ -4826,738 +4826,6 @@
       "completedAt": "2026-07-24T19:06:11.695018+00:00"
     },
     {
-      "id": "sha256-04f55ceebb10547d",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1250.pdf",
-      "sha256": "04f55ceebb10547dd45ba3e7b90c421856874816080be13ee2cd3fd296de24d2",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080797c_k-1250_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-04f55ceebb10547d.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-c9c7fc414f62e051",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-13.pdf",
-      "sha256": "c9c7fc414f62e051cf30db1a57fc9801fcc3ad794e810b38ab7d7ee46e46ca01",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080781g_k-13_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-c9c7fc414f62e051.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-88940d474d9ab27f",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-14.pdf",
-      "sha256": "88940d474d9ab27fd100a256a4ec2a27e3dec07db1bf533bd0a7551db714a5bf",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080791d_k-14_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-88940d474d9ab27f.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-59a977a67ebf04ef",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1613.pdf",
-      "sha256": "59a977a67ebf04ef65b63ddd70fd3be569e63fb507bcecb2d11fc208bbe4f6cd",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080779c_k-1613_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-59a977a67ebf04ef.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-20abbd455765d5ca",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-18.pdf",
-      "sha256": "20abbd455765d5ca57a409aeb20b0c8297c8637efc3de6c02e87e70a98c09293",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080795c_k-18_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-20abbd455765d5ca.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-123f2e72ffecf3fd",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-181.pdf",
-      "sha256": "123f2e72ffecf3fd7679942eb70a38035eb617acc8516cc816bd1016bcd4f907",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080793c_k-181_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-123f2e72ffecf3fd.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-49de9dcdded3d393",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2071.pdf",
-      "sha256": "49de9dcdded3d39305fcb01b8a4f168b481f7bf7585bd1eb954b4d3a5c92206f",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080783c_k-2071_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-49de9dcdded3d393.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-c9634f6dfcd69589",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-22.pdf",
-      "sha256": "c9634f6dfcd69589a05dba3f81ef032add6975d45bfbee7b2b0e34296971b74c",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080777b_k-22_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-c9634f6dfcd69589.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-b1f2e588925429b4",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2283.pdf",
-      "sha256": "b1f2e588925429b412632a15851f4f1fdc2a553be28b9a8c54dd4fa8357ab6e7",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080785c_k-2283_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-b1f2e588925429b4.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-9fddee89742472e6",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2528.pdf",
-      "sha256": "9fddee89742472e6ac459e9cb028f07a98722a0f2d7ccbd77fae8ccc5884958e",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080787c_k-2528_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-9fddee89742472e6.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-0259c51ba71025ea",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2529.pdf",
-      "sha256": "0259c51ba71025eaec292944ebb4b66601dda1aea16c04d06ab42cce36945dea",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080789c_k-2529_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-0259c51ba71025ea.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-3ef8be14a9c1da66",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-450.pdf",
-      "sha256": "3ef8be14a9c1da6672695c33642e70217cfce14893ed29ebeedf9a6287edefdb",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080775c_k-450_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-3ef8be14a9c1da66.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-d458fe1a9642ef96",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-2752.pdf",
-      "sha256": "d458fe1a9642ef968e4f359df527f877042e73745dd0e5a129bc891629404c4f",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081096_w-2752_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-d458fe1a9642ef96.md",
-      "pages": 3,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-dfd0727b675ac111",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ca40x.pdf",
-      "sha256": "dfd0727b675ac111b46209615440d9eecfa6a2f86136e240ff751b7e60dfd646",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081059_w-ca40x_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-dfd0727b675ac111.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-4ece77b9b2c44533",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-cb50x-dl.pdf",
-      "sha256": "4ece77b9b2c445339e48c0a8c09f792613a440d8aacf17d693c94ab75aef3563",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081035_w-cb50x-dl_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-4ece77b9b2c44533.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-89723b0b69262ea1",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-cb50x.pdf",
-      "sha256": "89723b0b69262ea1827c110798c16ae467c0bc6ee298d39e50fad650cf8f50bb",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081039_w-cb50x_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-89723b0b69262ea1.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-4cd5c602a9b18a9d",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-f60x.pdf",
-      "sha256": "4cd5c602a9b18a9dd7d5fa649aee24edeaf2f5eeec975649a7d865a779afd685",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081090_f60x-6w_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-4cd5c602a9b18a9d.md",
-      "pages": 3,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-aae42837a51c6b3f",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-r10x.pdf",
-      "sha256": "aae42837a51c6b3f80122a3ca9a2604dc597070055521a48f6abfec394f9bb8f",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081043_w-r10x_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-aae42837a51c6b3f.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-f3e9fd7b4eec873f",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-rh10x.pdf",
-      "sha256": "f3e9fd7b4eec873fc89eebfe68d54b99543fa2e24bea7181e78b79032228f79a",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081037a_w-rh10x_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-f3e9fd7b4eec873f.md",
-      "pages": 3,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-562a337fa424d4bc",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-sk30x.pdf",
-      "sha256": "562a337fa424d4bc5b7642753d409a60ba1e37a85679091830c648b46adb4eff",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080871a_sk30x_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-562a337fa424d4bc.md",
-      "pages": 3,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-9e87c8adec802f89",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-sk30x5t.pdf",
-      "sha256": "9e87c8adec802f89c421d70976cab69f92d9f70386364808c3a6ddfe5795d5d3",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080873_sk30x-5t_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-9e87c8adec802f89.md",
-      "pages": 3,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-81eb485c035116e1",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-za30x.pdf",
-      "sha256": "81eb485c035116e152810b8cb3016c396988fdac70ed32d791cc8237f0428531",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081033_w-za30x_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-81eb485c035116e1.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-8288c0e7c8865c31",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-zfa.pdf",
-      "sha256": "8288c0e7c8865c319260b295be34d2d4a98fb756e9a1e1bd137d2cac01678f0f",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081041_w-zfa_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-8288c0e7c8865c31.md",
-      "pages": 3,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-6cfc5b186d377a16",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ab.pdf",
-      "sha256": "6cfc5b186d377a1672d78f53ce5f6b0ea3c96d3af7f511b1358715b169807999",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080901a_w-ab_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-6cfc5b186d377a16.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-320381f17245eabe",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ag.pdf",
-      "sha256": "320381f17245eabe24c67bde92e23f4d36268af092efa2a261f9449407340816",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081086_w-ag-c6_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-320381f17245eabe.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-a4ebdf4d4e79b93a",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ah.pdf",
-      "sha256": "a4ebdf4d4e79b93a9a81b822caeac99f077d92f6e2c5c8fee9707b9f722918a8",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080907_w-ah_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-a4ebdf4d4e79b93a.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-27bdc5bb53c4e1e9",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ahn.pdf",
-      "sha256": "27bdc5bb53c4e1e99aaf19c66741b969332867df3a04fee85f958515e1873b46",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080909_w-ahn_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-27bdc5bb53c4e1e9.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-e0740b747ffe30c2",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ak.pdf",
-      "sha256": "e0740b747ffe30c29a15aa0be7f6407603821a6881accd890ec75d8e2068ecad",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/0081088_w-ak-300_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-e0740b747ffe30c2.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-2ffaddf5e5b54ae0",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-al.pdf",
-      "sha256": "2ffaddf5e5b54ae044555fea622a1332378dd30a3f90684fed7f9d5ab74be0cf",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080913_w-al_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-2ffaddf5e5b54ae0.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-cc496bcf59b8158f",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ap.pdf",
-      "sha256": "cc496bcf59b8158fae5d1e4f8dac1b392b798844a14be5bc34c4de0e4df500f9",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080915_w-ap_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-cc496bcf59b8158f.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-79e8d6b6a5aeb1e5",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-aq.pdf",
-      "sha256": "79e8d6b6a5aeb1e5b36c69cc6988b5df50e84dd8cb62e0372b2fa55fd23603c6",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080917_w-aq_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-79e8d6b6a5aeb1e5.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-888f998b6af791af",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ar.pdf",
-      "sha256": "888f998b6af791afb78a781b61a93c467b683b0bb177d3b8ae526402aa3fbf4c",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080919_w-ar_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-888f998b6af791af.md",
-      "pages": 3,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-c1de8898f6ca5750",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-axh.pdf",
-      "sha256": "c1de8898f6ca5750a2ba88a4d0ebe8c0009653868aa21c700d5373150ea0d283",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080923-w-axh_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-c1de8898f6ca5750.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-1a4fe8fa3adfbbe2",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-axl.pdf",
-      "sha256": "1a4fe8fa3adfbbe23b8f6ccf471a034af6c4714d4a3b976b9858464a51c960b7",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080925_w-axl_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-1a4fe8fa3adfbbe2.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-e02e1be48c60f590",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-bef.pdf",
-      "sha256": "e02e1be48c60f5905bbdcea3b4d4720529d586be45352cbc9b2ee0913443e270",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080927_w-bef-f_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-e02e1be48c60f590.md",
-      "pages": 3,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-6bc17a2319716f30",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-pm.pdf",
-      "sha256": "6bc17a2319716f303d7a8a1d170a6a98e7cf1037d247f66f2a57174aac982165",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080929_w-pm_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-6bc17a2319716f30.md",
-      "pages": 3,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-f0dd8c5674a1d6ca",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-dz-1.pdf",
-      "sha256": "f0dd8c5674a1d6ca92ac0b05a2152ec98d1cd8514950c1cef833f34c71a68255",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080825d_dz-1_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-f0dd8c5674a1d6ca.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-d150d4c7086b79ac",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1509.pdf",
-      "sha256": "d150d4c7086b79ac9233417954d4aac90ff37ebc093bb4e46b11b379538a2bf0",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080829d_K-1509_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-d150d4c7086b79ac.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-6cf15850333332ca",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1661.pdf",
-      "sha256": "6cf15850333332cae6bb0d992267fd660cd3a973b1c88aaf8d8ecc97357350c1",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080821c_k-1661_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-6cf15850333332ca.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-1a1a3167f576b93b",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2148.pdf",
-      "sha256": "1a1a3167f576b93b6d3f8b68ee1330b660f4f4aa479f3b34efea6b808aeed247",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080823d_k-2148_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-1a1a3167f576b93b.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-c329428cfe89f1f6",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2565.pdf",
-      "sha256": "c329428cfe89f1f6e2056ddc47d7e2cfd41e54babbea647e8c4cb245e42f8f70",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080827d_k-2565_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-c329428cfe89f1f6.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-82a0d873d6bae72a",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2618.pdf",
-      "sha256": "82a0d873d6bae72afdec94318b3f16fc0f8823cf5844e9692df02e90abb1e0c3",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080831c_k-2618_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-82a0d873d6bae72a.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-45d667db37686437",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-100.pdf",
-      "sha256": "45d667db37686437dfc85b46ee52b6f63b880fc783bcbf87706a1d067425cc80",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080803b_k-100_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-45d667db37686437.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-0fb8a8776e2e490a",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1107.pdf",
-      "sha256": "0fb8a8776e2e490a0b48caec01936f82ca716d8fecfea14a9165faee0b210cd7",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080801b_k-1107_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-0fb8a8776e2e490a.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-29eb01afc1a99f10",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1368.pdf",
-      "sha256": "29eb01afc1a99f10a4b930eef6a1d77c7116c8b0124cf58b3410f2926e55b4cd",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080805b_k-1368_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-29eb01afc1a99f10.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-b07c550ba3b369d3",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-11.pdf",
-      "sha256": "b07c550ba3b369d3387667cc7769ee38a11b2a52812eb774aa597ea5126b82b5",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080817e_k-11_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-b07c550ba3b369d3.md",
-      "pages": 6,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-2e16b077a324c68c",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-12.pdf",
-      "sha256": "2e16b077a324c68cdb5fa3af22e17885c4bb744af60a6a7dc4c2f645a62bd3d5",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080809d_k-12_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-2e16b077a324c68c.md",
-      "pages": 5,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-ccf5423464064774",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1427.pdf",
-      "sha256": "ccf542346406477465e86c43f85f227b30c901c338bbe6272524338d1a038e54",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080813d_k-1427_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-ccf5423464064774.md",
-      "pages": 5,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-daec097a7eb31209",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1563.pdf",
-      "sha256": "daec097a7eb3120960db1a716e519dbb23f0b29b7c93ed25b152cd81ba4decfd",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080807f_k-1563_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-daec097a7eb31209.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-8b96491e0ab565b6",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1882.pdf",
-      "sha256": "8b96491e0ab565b6a67b02800a653e5bd5ca495850debd4c5691fdf40571e7e8",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080819d_k-1882_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-8b96491e0ab565b6.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-69bdfe2627743aa1",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2145.pdf",
-      "sha256": "69bdfe2627743aa12eb54eede353a778050d7975808c281e7b8dd23a279c56f5",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080811d_k-2145_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-69bdfe2627743aa1.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-d1ddcfccc61dc676",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-25.pdf",
-      "sha256": "d1ddcfccc61dc6762942b581be24ca20baad7de16eb835688aa1ec789242e860",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080815g_k-25_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-d1ddcfccc61dc676.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-38ac5eb8d7a4bdc5",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2698.pdf",
-      "sha256": "38ac5eb8d7a4bdc59a49110930d7902e8cf6ae09bf86f9d5c684d5b9e68fd85b",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080799d_k-2698_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-38ac5eb8d7a4bdc5.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-4737402f95a3dbfe",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-dr-2371.pdf",
-      "sha256": "4737402f95a3dbfed8add6e77c47c78d106173f6ae5052c743c9195f9196058c",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080985a_m-2371_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-4737402f95a3dbfe.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-e713a8c159975158",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-1902.pdf",
-      "sha256": "e713a8c159975158b561efd9694a5b6eb323b3908e4bbcebc07530f91f42b43f",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080973b_m-1902_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-e713a8c159975158.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-dfd0f02b7ae0fbe6",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-1983.pdf",
-      "sha256": "dfd0f02b7ae0fbe6380c10de311dc431fe0f86b66a63d3fa6940633477d89b2e",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080977b_m-1983_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-dfd0f02b7ae0fbe6.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-a4aa8fc0c81bd019",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-2025.pdf",
-      "sha256": "a4aa8fc0c81bd019dcba4501aad8b9028936f1410ae4a3bb02a75ed09794421e",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080981a_m-2025_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-a4aa8fc0c81bd019.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-d2e16380ad7a5eae",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-2230.pdf",
-      "sha256": "d2e16380ad7a5eae017ed95a701e0a32e3acd807e5334af541af49ea9f53b8fd",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080975b_m-2230_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-d2e16380ad7a5eae.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-2e232b276d4f859b",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-2354.pdf",
-      "sha256": "2e232b276d4f859b404bb0446366203a49a7e4e45e4eb21d8c6cb10d6b16f14c",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080983b_m-2354_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-2e232b276d4f859b.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-5ad1dbb70cda1cc5",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-2396.pdf",
-      "sha256": "5ad1dbb70cda1cc588b1040d252d09038a946c2d2dcca013a8967a7415dbea4e",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080979b_m-2396_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-5ad1dbb70cda1cc5.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
-      "id": "sha256-a9fe53efe71c70fc",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-2416.pdf",
-      "sha256": "a9fe53efe71c70fc79f59bfe482029b179f70f36a9877a0606b84e574ed9be8a",
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080971b_m-2416_en.pdf"
-      ],
-      "status": "complete",
-      "ocrPath": "ocr_results/mistral/sha256-a9fe53efe71c70fc.md",
-      "pages": 4,
-      "completedAt": "2026-07-24T19:06:11.695018+00:00"
-    },
-    {
       "id": "sha256-e378569048d0b48b",
       "pdfPath": "datasheets/sparkfun-electronics/tal220.pdf",
       "sha256": "e378569048d0b48befa28791813d05e53690bc81159f536ba29df11a538263b6",
@@ -9932,7 +9200,7 @@
       "pdfPath": "datasheets/sensy/model-diagnostic-pont-formulaire-amplifi.pdf",
       "sha256": "991a6c73b379ca4c1cac6136f51dbda90c928565ad9a730945e0ec40ee1afb54",
       "sourceUrls": [
-        "https://files.sensy.com/support/Diagnostic-pont-formulaire-amplifi\u00e9_EN.pdf"
+        "https://files.sensy.com/support/Diagnostic-pont-formulaire-amplifié_EN.pdf"
       ],
       "status": "complete",
       "ocrPath": "ocr_results/mistral/sha256-991a6c73b379ca4c.md",
@@ -11208,9 +10476,775 @@
       "ocrPath": "ocr_results/mistral/sha256-33adf4aa72a4e8ec.md",
       "pages": 4,
       "completedAt": "2026-07-24T19:27:10.115846+00:00"
+    },
+    {
+      "id": "sha256-e713a8c159975158",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-1902.pdf",
+      "sha256": "e713a8c159975158b561efd9694a5b6eb323b3908e4bbcebc07530f91f42b43f",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080973b_m-1902_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-e713a8c159975158.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-dfd0f02b7ae0fbe6",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-1983.pdf",
+      "sha256": "dfd0f02b7ae0fbe6380c10de311dc431fe0f86b66a63d3fa6940633477d89b2e",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080977b_m-1983_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-dfd0f02b7ae0fbe6.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-a4aa8fc0c81bd019",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-2025.pdf",
+      "sha256": "a4aa8fc0c81bd019dcba4501aad8b9028936f1410ae4a3bb02a75ed09794421e",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080981a_m-2025_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-a4aa8fc0c81bd019.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-d2e16380ad7a5eae",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-2230.pdf",
+      "sha256": "d2e16380ad7a5eae017ed95a701e0a32e3acd807e5334af541af49ea9f53b8fd",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080975b_m-2230_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-d2e16380ad7a5eae.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-2e232b276d4f859b",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-2354.pdf",
+      "sha256": "2e232b276d4f859b404bb0446366203a49a7e4e45e4eb21d8c6cb10d6b16f14c",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080983b_m-2354_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-2e232b276d4f859b.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-5ad1dbb70cda1cc5",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-2396.pdf",
+      "sha256": "5ad1dbb70cda1cc588b1040d252d09038a946c2d2dcca013a8967a7415dbea4e",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080979b_m-2396_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-5ad1dbb70cda1cc5.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-a9fe53efe71c70fc",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-2416.pdf",
+      "sha256": "a9fe53efe71c70fc79f59bfe482029b179f70f36a9877a0606b84e574ed9be8a",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080971b_m-2416_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-a9fe53efe71c70fc.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-4737402f95a3dbfe",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-dr-2371.pdf",
+      "sha256": "4737402f95a3dbfed8add6e77c47c78d106173f6ae5052c743c9195f9196058c",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080985a_m-2371_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-4737402f95a3dbfe.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-f0dd8c5674a1d6ca",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-dz-1.pdf",
+      "sha256": "f0dd8c5674a1d6ca92ac0b05a2152ec98d1cd8514950c1cef833f34c71a68255",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080825d_dz-1_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-f0dd8c5674a1d6ca.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-45d667db37686437",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-100.pdf",
+      "sha256": "45d667db37686437dfc85b46ee52b6f63b880fc783bcbf87706a1d067425cc80",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080803b_k-100_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-45d667db37686437.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-b07c550ba3b369d3",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-11.pdf",
+      "sha256": "b07c550ba3b369d3387667cc7769ee38a11b2a52812eb774aa597ea5126b82b5",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080817e_k-11_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-b07c550ba3b369d3.md",
+      "pages": 6,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-0fb8a8776e2e490a",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1107.pdf",
+      "sha256": "0fb8a8776e2e490a0b48caec01936f82ca716d8fecfea14a9165faee0b210cd7",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080801b_k-1107_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-0fb8a8776e2e490a.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-2e16b077a324c68c",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-12.pdf",
+      "sha256": "2e16b077a324c68cdb5fa3af22e17885c4bb744af60a6a7dc4c2f645a62bd3d5",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080809d_k-12_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-2e16b077a324c68c.md",
+      "pages": 5,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-04f55ceebb10547d",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1250.pdf",
+      "sha256": "04f55ceebb10547dd45ba3e7b90c421856874816080be13ee2cd3fd296de24d2",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080797c_k-1250_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-04f55ceebb10547d.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-c9c7fc414f62e051",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-13.pdf",
+      "sha256": "c9c7fc414f62e051cf30db1a57fc9801fcc3ad794e810b38ab7d7ee46e46ca01",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080781g_k-13_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-c9c7fc414f62e051.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-29eb01afc1a99f10",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1368.pdf",
+      "sha256": "29eb01afc1a99f10a4b930eef6a1d77c7116c8b0124cf58b3410f2926e55b4cd",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080805b_k-1368_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-29eb01afc1a99f10.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-88940d474d9ab27f",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-14.pdf",
+      "sha256": "88940d474d9ab27fd100a256a4ec2a27e3dec07db1bf533bd0a7551db714a5bf",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080791d_k-14_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-88940d474d9ab27f.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-ccf5423464064774",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1427.pdf",
+      "sha256": "ccf542346406477465e86c43f85f227b30c901c338bbe6272524338d1a038e54",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080813d_k-1427_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-ccf5423464064774.md",
+      "pages": 5,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-d150d4c7086b79ac",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1509.pdf",
+      "sha256": "d150d4c7086b79ac9233417954d4aac90ff37ebc093bb4e46b11b379538a2bf0",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080829d_k-1509_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-d150d4c7086b79ac.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-daec097a7eb31209",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1563.pdf",
+      "sha256": "daec097a7eb3120960db1a716e519dbb23f0b29b7c93ed25b152cd81ba4decfd",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080807f_k-1563_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-daec097a7eb31209.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-59a977a67ebf04ef",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1613.pdf",
+      "sha256": "59a977a67ebf04ef65b63ddd70fd3be569e63fb507bcecb2d11fc208bbe4f6cd",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080779c_k-1613_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-59a977a67ebf04ef.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-6cf15850333332ca",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1661.pdf",
+      "sha256": "6cf15850333332cae6bb0d992267fd660cd3a973b1c88aaf8d8ecc97357350c1",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080821c_k-1661_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-6cf15850333332ca.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-20abbd455765d5ca",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-18.pdf",
+      "sha256": "20abbd455765d5ca57a409aeb20b0c8297c8637efc3de6c02e87e70a98c09293",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080795c_k-18_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-20abbd455765d5ca.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-123f2e72ffecf3fd",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-181.pdf",
+      "sha256": "123f2e72ffecf3fd7679942eb70a38035eb617acc8516cc816bd1016bcd4f907",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080793c_k-181_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-123f2e72ffecf3fd.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-8b96491e0ab565b6",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1882.pdf",
+      "sha256": "8b96491e0ab565b6a67b02800a653e5bd5ca495850debd4c5691fdf40571e7e8",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080819d_k-1882_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-8b96491e0ab565b6.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-49de9dcdded3d393",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2071.pdf",
+      "sha256": "49de9dcdded3d39305fcb01b8a4f168b481f7bf7585bd1eb954b4d3a5c92206f",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080783c_k-2071_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-49de9dcdded3d393.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-69bdfe2627743aa1",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2145.pdf",
+      "sha256": "69bdfe2627743aa12eb54eede353a778050d7975808c281e7b8dd23a279c56f5",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080811d_k-2145_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-69bdfe2627743aa1.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-1a1a3167f576b93b",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2148.pdf",
+      "sha256": "1a1a3167f576b93b6d3f8b68ee1330b660f4f4aa479f3b34efea6b808aeed247",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080823d_k-2148_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-1a1a3167f576b93b.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-c9634f6dfcd69589",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-22.pdf",
+      "sha256": "c9634f6dfcd69589a05dba3f81ef032add6975d45bfbee7b2b0e34296971b74c",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080777b_k-22_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-c9634f6dfcd69589.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-b1f2e588925429b4",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2283.pdf",
+      "sha256": "b1f2e588925429b412632a15851f4f1fdc2a553be28b9a8c54dd4fa8357ab6e7",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080785c_k-2283_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-b1f2e588925429b4.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-d1ddcfccc61dc676",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-25.pdf",
+      "sha256": "d1ddcfccc61dc6762942b581be24ca20baad7de16eb835688aa1ec789242e860",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080815g_k-25_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-d1ddcfccc61dc676.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-9fddee89742472e6",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2528.pdf",
+      "sha256": "9fddee89742472e6ac459e9cb028f07a98722a0f2d7ccbd77fae8ccc5884958e",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080787c_k-2528_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-9fddee89742472e6.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-0259c51ba71025ea",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2529.pdf",
+      "sha256": "0259c51ba71025eaec292944ebb4b66601dda1aea16c04d06ab42cce36945dea",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080789c_k-2529_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-0259c51ba71025ea.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-c329428cfe89f1f6",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2565.pdf",
+      "sha256": "c329428cfe89f1f6e2056ddc47d7e2cfd41e54babbea647e8c4cb245e42f8f70",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080827d_k-2565_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-c329428cfe89f1f6.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-82a0d873d6bae72a",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2618.pdf",
+      "sha256": "82a0d873d6bae72afdec94318b3f16fc0f8823cf5844e9692df02e90abb1e0c3",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080831c_k-2618_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-82a0d873d6bae72a.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-38ac5eb8d7a4bdc5",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2698.pdf",
+      "sha256": "38ac5eb8d7a4bdc59a49110930d7902e8cf6ae09bf86f9d5c684d5b9e68fd85b",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080799d_k-2698_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-38ac5eb8d7a4bdc5.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-3ef8be14a9c1da66",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-450.pdf",
+      "sha256": "3ef8be14a9c1da6672695c33642e70217cfce14893ed29ebeedf9a6287edefdb",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080775c_k-450_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-3ef8be14a9c1da66.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-d458fe1a9642ef96",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-2752.pdf",
+      "sha256": "d458fe1a9642ef968e4f359df527f877042e73745dd0e5a129bc891629404c4f",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081096_w-2752_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-d458fe1a9642ef96.md",
+      "pages": 3,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-6cfc5b186d377a16",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ab.pdf",
+      "sha256": "6cfc5b186d377a1672d78f53ce5f6b0ea3c96d3af7f511b1358715b169807999",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080901a_w-ab_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-6cfc5b186d377a16.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-320381f17245eabe",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ag.pdf",
+      "sha256": "320381f17245eabe24c67bde92e23f4d36268af092efa2a261f9449407340816",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081080_w-ag_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-320381f17245eabe.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-6da2e4564c9b10f8",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ag-c3.pdf",
+      "sha256": "6da2e4564c9b10f883e059e97a4c4c18372ab245c01ba08e5b4bf0c06e1e7e25",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081084_w-ag-c3_en.pdf"
+      ],
+      "status": "pending_auth",
+      "ocrPath": "ocr_results/mistral/sha256-6da2e4564c9b10f8.md",
+      "pages": 0
+    },
+    {
+      "id": "sha256-76fa69217070e210",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ag-c6.pdf",
+      "sha256": "76fa69217070e2104942b5c417f45d08a60685d8319911e19f8609bc9a8ea88a",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081086_w-ag-c6_en.pdf"
+      ],
+      "status": "pending_auth",
+      "ocrPath": "ocr_results/mistral/sha256-76fa69217070e210.md",
+      "pages": 0
+    },
+    {
+      "id": "sha256-a4ebdf4d4e79b93a",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ah.pdf",
+      "sha256": "a4ebdf4d4e79b93a9a81b822caeac99f077d92f6e2c5c8fee9707b9f722918a8",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080907_w-ah_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-a4ebdf4d4e79b93a.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-27bdc5bb53c4e1e9",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ahn.pdf",
+      "sha256": "27bdc5bb53c4e1e99aaf19c66741b969332867df3a04fee85f958515e1873b46",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080909_w-ahn_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-27bdc5bb53c4e1e9.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-e0740b747ffe30c2",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ak-60.pdf",
+      "sha256": "e0740b747ffe30c29a15aa0be7f6407603821a6881accd890ec75d8e2068ecad",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080911_w-ak-60_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-e0740b747ffe30c2.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-690064694d8e491b",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ak-300.pdf",
+      "sha256": "690064694d8e491b1bcfebd89b8a6730abaf862df36e69d06429317451b11692",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081088_w-ak-300_en.pdf"
+      ],
+      "status": "pending_auth",
+      "ocrPath": "ocr_results/mistral/sha256-690064694d8e491b.md",
+      "pages": 0
+    },
+    {
+      "id": "sha256-2ffaddf5e5b54ae0",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-al.pdf",
+      "sha256": "2ffaddf5e5b54ae044555fea622a1332378dd30a3f90684fed7f9d5ab74be0cf",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080913_w-al_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-2ffaddf5e5b54ae0.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-cc496bcf59b8158f",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ap.pdf",
+      "sha256": "cc496bcf59b8158fae5d1e4f8dac1b392b798844a14be5bc34c4de0e4df500f9",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080915_w-ap_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-cc496bcf59b8158f.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-79e8d6b6a5aeb1e5",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-aq.pdf",
+      "sha256": "79e8d6b6a5aeb1e5b36c69cc6988b5df50e84dd8cb62e0372b2fa55fd23603c6",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080917_w-aq_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-79e8d6b6a5aeb1e5.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-888f998b6af791af",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ar.pdf",
+      "sha256": "888f998b6af791afb78a781b61a93c467b683b0bb177d3b8ae526402aa3fbf4c",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080919_w-ar_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-888f998b6af791af.md",
+      "pages": 3,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-c1de8898f6ca5750",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-axh.pdf",
+      "sha256": "c1de8898f6ca5750a2ba88a4d0ebe8c0009653868aa21c700d5373150ea0d283",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080923-w-axh_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-c1de8898f6ca5750.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-1a4fe8fa3adfbbe2",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-axl.pdf",
+      "sha256": "1a4fe8fa3adfbbe23b8f6ccf471a034af6c4714d4a3b976b9858464a51c960b7",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080925_w-axl_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-1a4fe8fa3adfbbe2.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-e02e1be48c60f590",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-bef.pdf",
+      "sha256": "e02e1be48c60f5905bbdcea3b4d4720529d586be45352cbc9b2ee0913443e270",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080927_w-bef-f_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-e02e1be48c60f590.md",
+      "pages": 3,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-dfd0727b675ac111",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ca40x.pdf",
+      "sha256": "dfd0727b675ac111b46209615440d9eecfa6a2f86136e240ff751b7e60dfd646",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081059_w-ca40x_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-dfd0727b675ac111.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-89723b0b69262ea1",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-cb50x.pdf",
+      "sha256": "89723b0b69262ea1827c110798c16ae467c0bc6ee298d39e50fad650cf8f50bb",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081039_w-cb50x_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-89723b0b69262ea1.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-4ece77b9b2c44533",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-cb50x-dl.pdf",
+      "sha256": "4ece77b9b2c445339e48c0a8c09f792613a440d8aacf17d693c94ab75aef3563",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081035_w-cb50x-dl_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-4ece77b9b2c44533.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-4cd5c602a9b18a9d",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-f60x.pdf",
+      "sha256": "4cd5c602a9b18a9dd7d5fa649aee24edeaf2f5eeec975649a7d865a779afd685",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081090_f60x-6w_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-4cd5c602a9b18a9d.md",
+      "pages": 3,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-6bc17a2319716f30",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-pm.pdf",
+      "sha256": "6bc17a2319716f303d7a8a1d170a6a98e7cf1037d247f66f2a57174aac982165",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080929_w-pm_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-6bc17a2319716f30.md",
+      "pages": 3,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-aae42837a51c6b3f",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-r10x.pdf",
+      "sha256": "aae42837a51c6b3f80122a3ca9a2604dc597070055521a48f6abfec394f9bb8f",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081043_w-r10x_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-aae42837a51c6b3f.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-f3e9fd7b4eec873f",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-rh10x.pdf",
+      "sha256": "f3e9fd7b4eec873fc89eebfe68d54b99543fa2e24bea7181e78b79032228f79a",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081037a_w-rh10x_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-f3e9fd7b4eec873f.md",
+      "pages": 3,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-562a337fa424d4bc",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-sk30x.pdf",
+      "sha256": "562a337fa424d4bc5b7642753d409a60ba1e37a85679091830c648b46adb4eff",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080871a_sk30x_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-562a337fa424d4bc.md",
+      "pages": 3,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-9e87c8adec802f89",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-sk30x5t.pdf",
+      "sha256": "9e87c8adec802f89c421d70976cab69f92d9f70386364808c3a6ddfe5795d5d3",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080873_sk30x-5t_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-9e87c8adec802f89.md",
+      "pages": 3,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-81eb485c035116e1",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-za30x.pdf",
+      "sha256": "81eb485c035116e152810b8cb3016c396988fdac70ed32d791cc8237f0428531",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081033_w-za30x_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-81eb485c035116e1.md",
+      "pages": 4,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
+    },
+    {
+      "id": "sha256-8288c0e7c8865c31",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-zfa.pdf",
+      "sha256": "8288c0e7c8865c319260b295be34d2d4a98fb756e9a1e1bd137d2cac01678f0f",
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081041_w-zfa_en.pdf"
+      ],
+      "status": "complete",
+      "ocrPath": "ocr_results/mistral/sha256-8288c0e7c8865c31.md",
+      "pages": 3,
+      "completedAt": "2026-07-24T19:06:11.695018+00:00"
     }
   ],
-  "lastAttemptAt": "2026-07-24T18:31:27.028424+00:00",
+  "lastAttemptAt": "2026-07-25T21:48:10.067186+00:00",
   "completedCount": 910,
-  "remainingCount": 0
+  "remainingCount": 3,
+  "blocker": "Mistral API returned HTTP 401 Unauthorized."
 }

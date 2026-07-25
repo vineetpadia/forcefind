@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-24T19:28:45.644912+00:00",
-  "documentCount": 910,
-  "uniqueSha256Count": 910,
+  "generatedAt": "2026-07-25T21:49:30.397318+00:00",
+  "documentCount": 913,
+  "uniqueSha256Count": 913,
   "deduplication": "SHA-256",
   "mistralOcrStatus": "complete",
   "mistralOcrBlocker": "Mounted MCP and configured Mistral SDK credential both returned HTTP 401 Unauthorized on 2026-07-24.",
@@ -6031,7 +6031,7 @@
       ],
       "mpns": [],
       "titles": [
-        "VT1 Extensometer ( 500 \u03bcm/m )"
+        "VT1 Extensometer ( 500 μm/m )"
       ],
       "sourceUrls": [
         "https://res.cloudinary.com/flintec/image/upload/v1746111477/strapiDev/vt1_datasheet_en_abd381bef5.pdf"
@@ -6101,7 +6101,7 @@
       ],
       "mpns": [],
       "titles": [
-        "XT50 Extensometer ( 500 \u03bcm/m )"
+        "XT50 Extensometer ( 500 μm/m )"
       ],
       "sourceUrls": [
         "https://res.cloudinary.com/flintec/image/upload/v1771514495/strapiDev/xt50_can_datasheet_en_a441ba461b.pdf"
@@ -6136,7 +6136,7 @@
       ],
       "mpns": [],
       "titles": [
-        "XT50 Extensometer ( 500 \u03bcm/m )"
+        "XT50 Extensometer ( 500 μm/m )"
       ],
       "sourceUrls": [
         "https://res.cloudinary.com/flintec/image/upload/v1738169696/strapiDev/xt50_datasheet_en_a0eac43445.pdf"
@@ -6893,8 +6893,8 @@
       ],
       "mpns": [],
       "titles": [
-        "1000 Fatigue-Rated Universal LowProfile\u00ae Load Cell",
-        "1000 High Capacity Fatigue-Rated Universal LowProfile\u00ae Load Cell",
+        "1000 Fatigue-Rated Universal LowProfile® Load Cell",
+        "1000 High Capacity Fatigue-Rated Universal LowProfile® Load Cell",
         "1100 Ultra Precision Universal LowProfile Load Cell",
         "1101 Compression-Only Ultra Precision LowProfile Load Cell",
         "1200 High Capacity Standard Precision LowProfile Load Cell",
@@ -7100,8 +7100,8 @@
       ],
       "mpns": [],
       "titles": [
-        "1000 Fatigue-Rated Universal LowProfile\u00ae Load Cell",
-        "1000 High Capacity Fatigue-Rated Universal LowProfile\u00ae Load Cell",
+        "1000 Fatigue-Rated Universal LowProfile® Load Cell",
+        "1000 High Capacity Fatigue-Rated Universal LowProfile® Load Cell",
         "1100 Ultra Precision Universal LowProfile Load Cell",
         "1101 Compression-Only Ultra Precision LowProfile Load Cell",
         "1200 High Capacity Standard Precision LowProfile Load Cell",
@@ -7151,19 +7151,19 @@
         "5600 2-Axis Axial Torsion Load Cell",
         "5AR110 5-Axis Force/Torque Load Cells",
         "5AR70 5-Axis Force/Torque Load Cells",
-        "6A110 6-Axis Standard Capacity Load Cells \u2013 Fx Fy Fz Mx My Mz",
-        "6A130 6-Axis Standard Capacity Load Cells \u2013 Fx Fy Fz Mx My Mz",
-        "6A150 6-Axis Standard Capacity Load Cells \u2013 Fx Fy Fz Mx My Mz",
-        "6A154 6-Axis Standard Capacity Load Cells \u2013 Fx Fy Fz Mx My Mz",
-        "6A175 6-Axis Standard Capacity Load Cells \u2013 Fx Fy Fz Mx My Mz",
-        "6A175RA 6-Axis Standard Capacity Load Cells \u2013 Fx Fy Fz Mx My Mz",
-        "6A225 6-Axis High Capacity Load Cells \u2013 Fx Fy Fz Mx My Mz",
-        "6A27 6-Axis Standard Capacity Load Cells \u2013 Fx Fy Fz Mx My Mz",
-        "6A300 6-Axis High Capacity Load Cells \u2013 Fx Fy Fz Mx My Mz",
-        "6A40 6-Axis Standard Capacity Load Cells \u2013 Fx Fy Fz Mx My Mz",
+        "6A110 6-Axis Standard Capacity Load Cells – Fx Fy Fz Mx My Mz",
+        "6A130 6-Axis Standard Capacity Load Cells – Fx Fy Fz Mx My Mz",
+        "6A150 6-Axis Standard Capacity Load Cells – Fx Fy Fz Mx My Mz",
+        "6A154 6-Axis Standard Capacity Load Cells – Fx Fy Fz Mx My Mz",
+        "6A175 6-Axis Standard Capacity Load Cells – Fx Fy Fz Mx My Mz",
+        "6A175RA 6-Axis Standard Capacity Load Cells – Fx Fy Fz Mx My Mz",
+        "6A225 6-Axis High Capacity Load Cells – Fx Fy Fz Mx My Mz",
+        "6A27 6-Axis Standard Capacity Load Cells – Fx Fy Fz Mx My Mz",
+        "6A300 6-Axis High Capacity Load Cells – Fx Fy Fz Mx My Mz",
+        "6A40 6-Axis Standard Capacity Load Cells – Fx Fy Fz Mx My Mz",
         "6A55RI 6-Axis Robot Flange Force-Torque Sensor",
-        "6A68 6-Axis Standard Capacity Load Cells \u2013 Fx Fy Fz Mx My Mz",
-        "6A80 6-Axis Standard Capacity Load Cells \u2013 Fx Fy Fz Mx My Mz",
+        "6A68 6-Axis Standard Capacity Load Cells – Fx Fy Fz Mx My Mz",
+        "6A80 6-Axis Standard Capacity Load Cells – Fx Fy Fz Mx My Mz",
         "6ADF100 6-Axis DIN Flange-Type Load Cells",
         "6ADF45 6-Axis DIN Flange-Type Load Cells",
         "6ADF80 6-Axis DIN Flange-Type Load Cells",
@@ -7175,18 +7175,18 @@
         "AT105 Contactless Force and Torque Sensor",
         "BPL Pedal Load Cell",
         "ConvexBT Load Button Load Cell",
-        "Flame Proof Bow Type Crosby\u2122 Cabled Load Shackle",
+        "Flame Proof Bow Type Crosby™ Cabled Load Shackle",
         "Hazardous Environments ICPA Stainless Steel Compression Only Load",
         "Hazardous Environments ILMP Standard Stainless Steel Load Pin",
-        "Hazardous Environments ISHK-B Bow Type Crosby\u2122 Cabled Load Shackle",
-        "Hazardous Environments ISHK-D \u2018D\u2019 Type Crosby\u2122 Cabled Load Shackle",
+        "Hazardous Environments ISHK-B Bow Type Crosby™ Cabled Load Shackle",
+        "Hazardous Environments ISHK-D ‘D’ Type Crosby™ Cabled Load Shackle",
         "Hazardous Environments ITCA Tension and Compression Load Cell",
         "Hazardous Environments ITL Stainless Steel Tension Link Load Cell",
         "Hazardous Environments LP Custom Stainless Steel Load Pin",
         "Hazardous Environments WTSLP Wireless Custom Load Pins",
-        "Hazardous Environments WTSSHK-B Wireless Crosby\u2122 Bow Load Shackle",
+        "Hazardous Environments WTSSHK-B Wireless Crosby™ Bow Load Shackle",
         "Hazardous Environments WTSSHK-B-HL Wireless Bow Load Shackle",
-        "Hazardous Environments WTSSHK-D Wireless Crosby\u2122 Load Shackle",
+        "Hazardous Environments WTSSHK-D Wireless Crosby™ Load Shackle",
         "Hazardous Environments WTSTL Wireless Stainless Steel Tension Link Load Cell",
         "IBBL Stainless Steel Beam Load Cell",
         "IBBL-MOUNT Weighing Assembly",
@@ -12847,7 +12847,7 @@
         "GZ-10"
       ],
       "titles": [
-        "Model GZ-10 Gozinta\u00ae Force Transducer"
+        "Model GZ-10 Gozinta® Force Transducer"
       ],
       "sourceUrls": [
         "http://docs.vpgtransducers.com/?id=2781",
@@ -14328,1958 +14328,6 @@
       ],
       "sources": [
         "Burster catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-04f55ceebb10547d",
-      "sha256": "04f55ceebb10547dd45ba3e7b90c421856874816080be13ee2cd3fd296de24d2",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1250.pdf",
-      "bytes": 262610,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-04f55ceebb10547d.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-1250"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-1250 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080797c_k-1250_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/force/k-1250.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-c9c7fc414f62e051",
-      "sha256": "c9c7fc414f62e051cf30db1a57fc9801fcc3ad794e810b38ab7d7ee46e46ca01",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-13.pdf",
-      "bytes": 350356,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-c9c7fc414f62e051.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-13"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-13 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080781g_k-13_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/force/k-13.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-88940d474d9ab27f",
-      "sha256": "88940d474d9ab27fd100a256a4ec2a27e3dec07db1bf533bd0a7551db714a5bf",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-14.pdf",
-      "bytes": 235290,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-88940d474d9ab27f.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-14"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-14 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080791d_k-14_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/force/k-14.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-59a977a67ebf04ef",
-      "sha256": "59a977a67ebf04ef65b63ddd70fd3be569e63fb507bcecb2d11fc208bbe4f6cd",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1613.pdf",
-      "bytes": 304606,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-59a977a67ebf04ef.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-1613"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-1613 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080779c_k-1613_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/force/k-1613.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-20abbd455765d5ca",
-      "sha256": "20abbd455765d5ca57a409aeb20b0c8297c8637efc3de6c02e87e70a98c09293",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-18.pdf",
-      "bytes": 272414,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-20abbd455765d5ca.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-18"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-18 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080795c_k-18_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/force/k-18.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-123f2e72ffecf3fd",
-      "sha256": "123f2e72ffecf3fd7679942eb70a38035eb617acc8516cc816bd1016bcd4f907",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-181.pdf",
-      "bytes": 253735,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-123f2e72ffecf3fd.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-181"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-181 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080793c_k-181_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/force/k-181.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-49de9dcdded3d393",
-      "sha256": "49de9dcdded3d39305fcb01b8a4f168b481f7bf7585bd1eb954b4d3a5c92206f",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2071.pdf",
-      "bytes": 227083,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-49de9dcdded3d393.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-2071"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-2071 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080783c_k-2071_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/force/k-2071.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-c9634f6dfcd69589",
-      "sha256": "c9634f6dfcd69589a05dba3f81ef032add6975d45bfbee7b2b0e34296971b74c",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-22.pdf",
-      "bytes": 223390,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-c9634f6dfcd69589.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-22"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-22 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080777b_k-22_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/force/k-22.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-b1f2e588925429b4",
-      "sha256": "b1f2e588925429b412632a15851f4f1fdc2a553be28b9a8c54dd4fa8357ab6e7",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2283.pdf",
-      "bytes": 226163,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-b1f2e588925429b4.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-2283"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-2283 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080785c_k-2283_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/force/k-2283.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-9fddee89742472e6",
-      "sha256": "9fddee89742472e6ac459e9cb028f07a98722a0f2d7ccbd77fae8ccc5884958e",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2528.pdf",
-      "bytes": 225449,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-9fddee89742472e6.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-2528"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-2528 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080787c_k-2528_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/force/k-2528.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-0259c51ba71025ea",
-      "sha256": "0259c51ba71025eaec292944ebb4b66601dda1aea16c04d06ab42cce36945dea",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2529.pdf",
-      "bytes": 224748,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-0259c51ba71025ea.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-2529"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-2529 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080789c_k-2529_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/force/k-2529.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-3ef8be14a9c1da66",
-      "sha256": "3ef8be14a9c1da6672695c33642e70217cfce14893ed29ebeedf9a6287edefdb",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-450.pdf",
-      "bytes": 284965,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-3ef8be14a9c1da66.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-450"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-450 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080775c_k-450_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/force/k-450.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-d458fe1a9642ef96",
-      "sha256": "d458fe1a9642ef968e4f359df527f877042e73745dd0e5a129bc891629404c4f",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-2752.pdf",
-      "bytes": 178236,
-      "pages": 3,
-      "mistralOcrPath": "ocr_results/mistral/sha256-d458fe1a9642ef96.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model W-2752"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model W-2752 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081096_w-2752_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/lc_other/w-2752.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-dfd0727b675ac111",
-      "sha256": "dfd0727b675ac111b46209615440d9eecfa6a2f86136e240ff751b7e60dfd646",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ca40x.pdf",
-      "bytes": 200821,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-dfd0727b675ac111.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model W-CA40X"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model W-CA40X datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081059_w-ca40x_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/lc_other/w-ca40x.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-4ece77b9b2c44533",
-      "sha256": "4ece77b9b2c445339e48c0a8c09f792613a440d8aacf17d693c94ab75aef3563",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-cb50x-dl.pdf",
-      "bytes": 364846,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-4ece77b9b2c44533.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model W-CB50X-DL"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model W-CB50X-DL datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081035_w-cb50x-dl_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/lc_other/w-cb50x-dl.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-89723b0b69262ea1",
-      "sha256": "89723b0b69262ea1827c110798c16ae467c0bc6ee298d39e50fad650cf8f50bb",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-cb50x.pdf",
-      "bytes": 343898,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-89723b0b69262ea1.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model W-CB50X"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model W-CB50X datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081039_w-cb50x_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/lc_other/w-cb50x.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-4cd5c602a9b18a9d",
-      "sha256": "4cd5c602a9b18a9dd7d5fa649aee24edeaf2f5eeec975649a7d865a779afd685",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-f60x.pdf",
-      "bytes": 342659,
-      "pages": 3,
-      "mistralOcrPath": "ocr_results/mistral/sha256-4cd5c602a9b18a9d.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model W-F60X"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model W-F60X datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081090_f60x-6w_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/lc_other/w-f60x.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-aae42837a51c6b3f",
-      "sha256": "aae42837a51c6b3f80122a3ca9a2604dc597070055521a48f6abfec394f9bb8f",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-r10x.pdf",
-      "bytes": 282231,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-aae42837a51c6b3f.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model W-R10X"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model W-R10X datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081043_w-r10x_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/lc_other/w-r10x.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-f3e9fd7b4eec873f",
-      "sha256": "f3e9fd7b4eec873fc89eebfe68d54b99543fa2e24bea7181e78b79032228f79a",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-rh10x.pdf",
-      "bytes": 188365,
-      "pages": 3,
-      "mistralOcrPath": "ocr_results/mistral/sha256-f3e9fd7b4eec873f.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model W-RH10X"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model W-RH10X datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081037a_w-rh10x_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/lc_other/w-rh10x.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-562a337fa424d4bc",
-      "sha256": "562a337fa424d4bc5b7642753d409a60ba1e37a85679091830c648b46adb4eff",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-sk30x.pdf",
-      "bytes": 313121,
-      "pages": 3,
-      "mistralOcrPath": "ocr_results/mistral/sha256-562a337fa424d4bc.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model W-SK30X"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model W-SK30X datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080871a_sk30x_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/lc_other/w-sk30x.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-9e87c8adec802f89",
-      "sha256": "9e87c8adec802f89c421d70976cab69f92d9f70386364808c3a6ddfe5795d5d3",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-sk30x5t.pdf",
-      "bytes": 324358,
-      "pages": 3,
-      "mistralOcrPath": "ocr_results/mistral/sha256-9e87c8adec802f89.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model W-SK30X5T"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model W-SK30X5T datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080873_sk30x-5t_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/lc_other/w-sk30x5t.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-81eb485c035116e1",
-      "sha256": "81eb485c035116e152810b8cb3016c396988fdac70ed32d791cc8237f0428531",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-za30x.pdf",
-      "bytes": 238116,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-81eb485c035116e1.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model W-ZA30X"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model W-ZA30X datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081033_w-za30x_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/lc_other/w-za30x.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-8288c0e7c8865c31",
-      "sha256": "8288c0e7c8865c319260b295be34d2d4a98fb756e9a1e1bd137d2cac01678f0f",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-zfa.pdf",
-      "bytes": 216299,
-      "pages": 3,
-      "mistralOcrPath": "ocr_results/mistral/sha256-8288c0e7c8865c31.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model W-ZFA"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model W-ZFA datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081041_w-zfa_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/lc_other/w-zfa.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-6cfc5b186d377a16",
-      "sha256": "6cfc5b186d377a1672d78f53ce5f6b0ea3c96d3af7f511b1358715b169807999",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ab.pdf",
-      "bytes": 274611,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-6cfc5b186d377a16.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model W-AB"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model W-AB datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080901a_w-ab_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ab.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-320381f17245eabe",
-      "sha256": "320381f17245eabe24c67bde92e23f4d36268af092efa2a261f9449407340816",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ag.pdf",
-      "bytes": 309461,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-320381f17245eabe.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model W-AG"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model W-AG datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081086_w-ag-c6_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ag.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-a4ebdf4d4e79b93a",
-      "sha256": "a4ebdf4d4e79b93a9a81b822caeac99f077d92f6e2c5c8fee9707b9f722918a8",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ah.pdf",
-      "bytes": 280732,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-a4ebdf4d4e79b93a.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model W-AH"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model W-AH datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080907_w-ah_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ah.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-27bdc5bb53c4e1e9",
-      "sha256": "27bdc5bb53c4e1e99aaf19c66741b969332867df3a04fee85f958515e1873b46",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ahn.pdf",
-      "bytes": 167892,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-27bdc5bb53c4e1e9.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model W-AHN"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model W-AHN datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080909_w-ahn_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ahn.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-e0740b747ffe30c2",
-      "sha256": "e0740b747ffe30c29a15aa0be7f6407603821a6881accd890ec75d8e2068ecad",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ak.pdf",
-      "bytes": 313385,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-e0740b747ffe30c2.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model W-AK"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model W-AK datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/0081088_w-ak-300_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ak.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-2ffaddf5e5b54ae0",
-      "sha256": "2ffaddf5e5b54ae044555fea622a1332378dd30a3f90684fed7f9d5ab74be0cf",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-al.pdf",
-      "bytes": 277423,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-2ffaddf5e5b54ae0.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model W-AL"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model W-AL datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080913_w-al_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-al.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-cc496bcf59b8158f",
-      "sha256": "cc496bcf59b8158fae5d1e4f8dac1b392b798844a14be5bc34c4de0e4df500f9",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ap.pdf",
-      "bytes": 277020,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-cc496bcf59b8158f.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model W-AP"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model W-AP datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080915_w-ap_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ap.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-79e8d6b6a5aeb1e5",
-      "sha256": "79e8d6b6a5aeb1e5b36c69cc6988b5df50e84dd8cb62e0372b2fa55fd23603c6",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-aq.pdf",
-      "bytes": 269222,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-79e8d6b6a5aeb1e5.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model W-AQ"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model W-AQ datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080917_w-aq_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-aq.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-888f998b6af791af",
-      "sha256": "888f998b6af791afb78a781b61a93c467b683b0bb177d3b8ae526402aa3fbf4c",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ar.pdf",
-      "bytes": 175158,
-      "pages": 3,
-      "mistralOcrPath": "ocr_results/mistral/sha256-888f998b6af791af.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model W-AR"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model W-AR datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080919_w-ar_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ar.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-c1de8898f6ca5750",
-      "sha256": "c1de8898f6ca5750a2ba88a4d0ebe8c0009653868aa21c700d5373150ea0d283",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-axh.pdf",
-      "bytes": 312781,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-c1de8898f6ca5750.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model W-AXH"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model W-AXH datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080923-w-axh_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-axh.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-1a4fe8fa3adfbbe2",
-      "sha256": "1a4fe8fa3adfbbe23b8f6ccf471a034af6c4714d4a3b976b9858464a51c960b7",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-axl.pdf",
-      "bytes": 311265,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-1a4fe8fa3adfbbe2.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model W-AXL"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model W-AXL datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080925_w-axl_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-axl.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-e02e1be48c60f590",
-      "sha256": "e02e1be48c60f5905bbdcea3b4d4720529d586be45352cbc9b2ee0913443e270",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-bef.pdf",
-      "bytes": 262055,
-      "pages": 3,
-      "mistralOcrPath": "ocr_results/mistral/sha256-e02e1be48c60f590.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model W-BEF"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model W-BEF datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080927_w-bef-f_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-bef.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-6bc17a2319716f30",
-      "sha256": "6bc17a2319716f303d7a8a1d170a6a98e7cf1037d247f66f2a57174aac982165",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-w-pm.pdf",
-      "bytes": 212274,
-      "pages": 3,
-      "mistralOcrPath": "ocr_results/mistral/sha256-6bc17a2319716f30.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model W-PM"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model W-PM datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080929_w-pm_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-pm.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-f0dd8c5674a1d6ca",
-      "sha256": "f0dd8c5674a1d6ca92ac0b05a2152ec98d1cd8514950c1cef833f34c71a68255",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-dz-1.pdf",
-      "bytes": 305668,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-f0dd8c5674a1d6ca.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model DZ-1"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model DZ-1 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080825d_dz-1_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/special/dz-1.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-d150d4c7086b79ac",
-      "sha256": "d150d4c7086b79ac9233417954d4aac90ff37ebc093bb4e46b11b379538a2bf0",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1509.pdf",
-      "bytes": 174659,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-d150d4c7086b79ac.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-1509"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-1509 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080829d_K-1509_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/special/k-1509.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-6cf15850333332ca",
-      "sha256": "6cf15850333332cae6bb0d992267fd660cd3a973b1c88aaf8d8ecc97357350c1",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1661.pdf",
-      "bytes": 222346,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-6cf15850333332ca.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-1661"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-1661 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080821c_k-1661_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/special/k-1661.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-1a1a3167f576b93b",
-      "sha256": "1a1a3167f576b93b6d3f8b68ee1330b660f4f4aa479f3b34efea6b808aeed247",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2148.pdf",
-      "bytes": 258242,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-1a1a3167f576b93b.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-2148"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-2148 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080823d_k-2148_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/special/k-2148.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-c329428cfe89f1f6",
-      "sha256": "c329428cfe89f1f6e2056ddc47d7e2cfd41e54babbea647e8c4cb245e42f8f70",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2565.pdf",
-      "bytes": 267868,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-c329428cfe89f1f6.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-2565"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-2565 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080827d_k-2565_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/special/k-2565.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-82a0d873d6bae72a",
-      "sha256": "82a0d873d6bae72afdec94318b3f16fc0f8823cf5844e9692df02e90abb1e0c3",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2618.pdf",
-      "bytes": 230892,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-82a0d873d6bae72a.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-2618"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-2618 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080831c_k-2618_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/special/k-2618.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-45d667db37686437",
-      "sha256": "45d667db37686437dfc85b46ee52b6f63b880fc783bcbf87706a1d067425cc80",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-100.pdf",
-      "bytes": 255910,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-45d667db37686437.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-100"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-100 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080803b_k-100_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/tension/k-100.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-0fb8a8776e2e490a",
-      "sha256": "0fb8a8776e2e490a0b48caec01936f82ca716d8fecfea14a9165faee0b210cd7",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1107.pdf",
-      "bytes": 279724,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-0fb8a8776e2e490a.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-1107"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-1107 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080801b_k-1107_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/tension/k-1107.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-29eb01afc1a99f10",
-      "sha256": "29eb01afc1a99f10a4b930eef6a1d77c7116c8b0124cf58b3410f2926e55b4cd",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1368.pdf",
-      "bytes": 222652,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-29eb01afc1a99f10.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-1368"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-1368 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080805b_k-1368_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/tension/k-1368.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-b07c550ba3b369d3",
-      "sha256": "b07c550ba3b369d3387667cc7769ee38a11b2a52812eb774aa597ea5126b82b5",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-11.pdf",
-      "bytes": 247808,
-      "pages": 6,
-      "mistralOcrPath": "ocr_results/mistral/sha256-b07c550ba3b369d3.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-11"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-11 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080817e_k-11_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/tension_force/k-11.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-2e16b077a324c68c",
-      "sha256": "2e16b077a324c68cdb5fa3af22e17885c4bb744af60a6a7dc4c2f645a62bd3d5",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-12.pdf",
-      "bytes": 267195,
-      "pages": 5,
-      "mistralOcrPath": "ocr_results/mistral/sha256-2e16b077a324c68c.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-12"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-12 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080809d_k-12_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/tension_force/k-12.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-ccf5423464064774",
-      "sha256": "ccf542346406477465e86c43f85f227b30c901c338bbe6272524338d1a038e54",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1427.pdf",
-      "bytes": 269609,
-      "pages": 5,
-      "mistralOcrPath": "ocr_results/mistral/sha256-ccf5423464064774.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-1427"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-1427 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080813d_k-1427_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/tension_force/k-1427.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-daec097a7eb31209",
-      "sha256": "daec097a7eb3120960db1a716e519dbb23f0b29b7c93ed25b152cd81ba4decfd",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1563.pdf",
-      "bytes": 380554,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-daec097a7eb31209.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-1563"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-1563 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080807f_k-1563_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/tension_force/k-1563.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-8b96491e0ab565b6",
-      "sha256": "8b96491e0ab565b6a67b02800a653e5bd5ca495850debd4c5691fdf40571e7e8",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1882.pdf",
-      "bytes": 272653,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-8b96491e0ab565b6.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-1882"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-1882 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080819d_k-1882_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/tension_force/k-1882.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-69bdfe2627743aa1",
-      "sha256": "69bdfe2627743aa12eb54eede353a778050d7975808c281e7b8dd23a279c56f5",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2145.pdf",
-      "bytes": 256753,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-69bdfe2627743aa1.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-2145"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-2145 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080811d_k-2145_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/tension_force/k-2145.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-d1ddcfccc61dc676",
-      "sha256": "d1ddcfccc61dc6762942b581be24ca20baad7de16eb835688aa1ec789242e860",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-25.pdf",
-      "bytes": 417580,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-d1ddcfccc61dc676.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-25"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-25 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080815g_k-25_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/tension_force/k-25.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-38ac5eb8d7a4bdc5",
-      "sha256": "38ac5eb8d7a4bdc59a49110930d7902e8cf6ae09bf86f9d5c684d5b9e68fd85b",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2698.pdf",
-      "bytes": 253295,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-38ac5eb8d7a4bdc5.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model K-2698"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model K-2698 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080799d_k-2698_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/tension_force/k-2698.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-4737402f95a3dbfe",
-      "sha256": "4737402f95a3dbfed8add6e77c47c78d106173f6ae5052c743c9195f9196058c",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-dr-2371.pdf",
-      "bytes": 262480,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-4737402f95a3dbfe.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model DR-2371"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model DR-2371 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080985a_m-2371_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/torque_rotary_force/dr-2371.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-e713a8c159975158",
-      "sha256": "e713a8c159975158b561efd9694a5b6eb323b3908e4bbcebc07530f91f42b43f",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-1902.pdf",
-      "bytes": 247312,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-e713a8c159975158.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model 1902"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model 1902 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080973b_m-1902_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/torque_static_force/1902.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-dfd0f02b7ae0fbe6",
-      "sha256": "dfd0f02b7ae0fbe6380c10de311dc431fe0f86b66a63d3fa6940633477d89b2e",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-1983.pdf",
-      "bytes": 246190,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-dfd0f02b7ae0fbe6.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model 1983"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model 1983 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080977b_m-1983_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/torque_static_force/1983.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-a4aa8fc0c81bd019",
-      "sha256": "a4aa8fc0c81bd019dcba4501aad8b9028936f1410ae4a3bb02a75ed09794421e",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-2025.pdf",
-      "bytes": 253057,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-a4aa8fc0c81bd019.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model 2025"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model 2025 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080981a_m-2025_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2025.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-d2e16380ad7a5eae",
-      "sha256": "d2e16380ad7a5eae017ed95a701e0a32e3acd807e5334af541af49ea9f53b8fd",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-2230.pdf",
-      "bytes": 247041,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-d2e16380ad7a5eae.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model 2230"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model 2230 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080975b_m-2230_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2230.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-2e232b276d4f859b",
-      "sha256": "2e232b276d4f859b404bb0446366203a49a7e4e45e4eb21d8c6cb10d6b16f14c",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-2354.pdf",
-      "bytes": 247188,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-2e232b276d4f859b.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model 2354"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model 2354 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080983b_m-2354_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2354.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-5ad1dbb70cda1cc5",
-      "sha256": "5ad1dbb70cda1cc588b1040d252d09038a946c2d2dcca013a8967a7415dbea4e",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-2396.pdf",
-      "bytes": 236611,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-5ad1dbb70cda1cc5.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model 2396"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model 2396 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080979b_m-2396_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2396.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
-      ],
-      "provenanceStatus": "verified_source_url"
-    },
-    {
-      "id": "sha256-a9fe53efe71c70fc",
-      "sha256": "a9fe53efe71c70fc79f59bfe482029b179f70f36a9877a0606b84e574ed9be8a",
-      "pdfPath": "datasheets/lorenz-messtechnik/model-2416.pdf",
-      "bytes": 222975,
-      "pages": 4,
-      "mistralOcrPath": "ocr_results/mistral/sha256-a9fe53efe71c70fc.md",
-      "mistralOcr": {
-        "status": "complete",
-        "model": "mistral-ocr-latest",
-        "completedAt": "2026-07-24T19:06:11.695018+00:00"
-      },
-      "manufacturers": [
-        "Lorenz Messtechnik"
-      ],
-      "mpns": [
-        "Model 2416"
-      ],
-      "titles": [
-        "Lorenz Messtechnik Model 2416 datasheet"
-      ],
-      "sourceUrls": [
-        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080971b_m-2416_en.pdf"
-      ],
-      "productPages": [
-        "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2416.php"
-      ],
-      "sources": [
-        "Lorenz Messtechnik catalog harvest"
       ],
       "provenanceStatus": "verified_source_url"
     },
@@ -27851,13 +25899,13 @@
         "SENSY"
       ],
       "mpns": [
-        "Model Diagnostic-pont-formulaire-amplifi\u00e9"
+        "Model Diagnostic-pont-formulaire-amplifié"
       ],
       "titles": [
-        "SENSY Model Diagnostic-pont-formulaire-amplifi\u00e9 datasheet"
+        "SENSY Model Diagnostic-pont-formulaire-amplifié datasheet"
       ],
       "sourceUrls": [
-        "https://files.sensy.com/support/Diagnostic-pont-formulaire-amplifi\u00e9_EN.pdf"
+        "https://files.sensy.com/support/Diagnostic-pont-formulaire-amplifié_EN.pdf"
       ],
       "productPages": [
         "https://www.sensy.com/en/load-cells/tension-link-load-cells-5200-5205"
@@ -31248,6 +29296,2051 @@
       ],
       "sources": [
         "Novatech Measurements catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-e713a8c159975158",
+      "sha256": "e713a8c159975158b561efd9694a5b6eb323b3908e4bbcebc07530f91f42b43f",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-1902.pdf",
+      "bytes": 247312,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-e713a8c159975158.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model 1902"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model 1902 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080973b_m-1902_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/torque_static_force/1902.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-dfd0f02b7ae0fbe6",
+      "sha256": "dfd0f02b7ae0fbe6380c10de311dc431fe0f86b66a63d3fa6940633477d89b2e",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-1983.pdf",
+      "bytes": 246190,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-dfd0f02b7ae0fbe6.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model 1983"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model 1983 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080977b_m-1983_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/torque_static_force/1983.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-a4aa8fc0c81bd019",
+      "sha256": "a4aa8fc0c81bd019dcba4501aad8b9028936f1410ae4a3bb02a75ed09794421e",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-2025.pdf",
+      "bytes": 253057,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-a4aa8fc0c81bd019.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model 2025"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model 2025 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080981a_m-2025_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2025.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-d2e16380ad7a5eae",
+      "sha256": "d2e16380ad7a5eae017ed95a701e0a32e3acd807e5334af541af49ea9f53b8fd",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-2230.pdf",
+      "bytes": 247041,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-d2e16380ad7a5eae.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model 2230"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model 2230 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080975b_m-2230_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2230.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-2e232b276d4f859b",
+      "sha256": "2e232b276d4f859b404bb0446366203a49a7e4e45e4eb21d8c6cb10d6b16f14c",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-2354.pdf",
+      "bytes": 247188,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-2e232b276d4f859b.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model 2354"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model 2354 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080983b_m-2354_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2354.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-5ad1dbb70cda1cc5",
+      "sha256": "5ad1dbb70cda1cc588b1040d252d09038a946c2d2dcca013a8967a7415dbea4e",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-2396.pdf",
+      "bytes": 236611,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-5ad1dbb70cda1cc5.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model 2396"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model 2396 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080979b_m-2396_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2396.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-a9fe53efe71c70fc",
+      "sha256": "a9fe53efe71c70fc79f59bfe482029b179f70f36a9877a0606b84e574ed9be8a",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-2416.pdf",
+      "bytes": 222975,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-a9fe53efe71c70fc.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model 2416"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model 2416 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080971b_m-2416_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/torque_static_force/2416.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-4737402f95a3dbfe",
+      "sha256": "4737402f95a3dbfed8add6e77c47c78d106173f6ae5052c743c9195f9196058c",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-dr-2371.pdf",
+      "bytes": 262480,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-4737402f95a3dbfe.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model DR-2371"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model DR-2371 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/mehrkomp/080985a_m-2371_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/torque_rotary_force/dr-2371.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-f0dd8c5674a1d6ca",
+      "sha256": "f0dd8c5674a1d6ca92ac0b05a2152ec98d1cd8514950c1cef833f34c71a68255",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-dz-1.pdf",
+      "bytes": 305668,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-f0dd8c5674a1d6ca.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model DZ-1"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model DZ-1 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080825d_dz-1_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/special/dz-1.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-45d667db37686437",
+      "sha256": "45d667db37686437dfc85b46ee52b6f63b880fc783bcbf87706a1d067425cc80",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-100.pdf",
+      "bytes": 255910,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-45d667db37686437.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-100"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-100 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080803b_k-100_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/tension/k-100.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-b07c550ba3b369d3",
+      "sha256": "b07c550ba3b369d3387667cc7769ee38a11b2a52812eb774aa597ea5126b82b5",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-11.pdf",
+      "bytes": 247808,
+      "pages": 6,
+      "mistralOcrPath": "ocr_results/mistral/sha256-b07c550ba3b369d3.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-11"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-11 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080817e_k-11_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/tension_force/k-11.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-0fb8a8776e2e490a",
+      "sha256": "0fb8a8776e2e490a0b48caec01936f82ca716d8fecfea14a9165faee0b210cd7",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1107.pdf",
+      "bytes": 279724,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-0fb8a8776e2e490a.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-1107"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-1107 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080801b_k-1107_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/tension/k-1107.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-2e16b077a324c68c",
+      "sha256": "2e16b077a324c68cdb5fa3af22e17885c4bb744af60a6a7dc4c2f645a62bd3d5",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-12.pdf",
+      "bytes": 267195,
+      "pages": 5,
+      "mistralOcrPath": "ocr_results/mistral/sha256-2e16b077a324c68c.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-12"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-12 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080809d_k-12_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/tension_force/k-12.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-04f55ceebb10547d",
+      "sha256": "04f55ceebb10547dd45ba3e7b90c421856874816080be13ee2cd3fd296de24d2",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1250.pdf",
+      "bytes": 262610,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-04f55ceebb10547d.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-1250"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-1250 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080797c_k-1250_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/force/k-1250.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-c9c7fc414f62e051",
+      "sha256": "c9c7fc414f62e051cf30db1a57fc9801fcc3ad794e810b38ab7d7ee46e46ca01",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-13.pdf",
+      "bytes": 350356,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-c9c7fc414f62e051.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-13"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-13 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080781g_k-13_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/force/k-13.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-29eb01afc1a99f10",
+      "sha256": "29eb01afc1a99f10a4b930eef6a1d77c7116c8b0124cf58b3410f2926e55b4cd",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1368.pdf",
+      "bytes": 222652,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-29eb01afc1a99f10.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-1368"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-1368 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080805b_k-1368_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/tension/k-1368.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-88940d474d9ab27f",
+      "sha256": "88940d474d9ab27fd100a256a4ec2a27e3dec07db1bf533bd0a7551db714a5bf",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-14.pdf",
+      "bytes": 235290,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-88940d474d9ab27f.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-14"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-14 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080791d_k-14_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/force/k-14.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-ccf5423464064774",
+      "sha256": "ccf542346406477465e86c43f85f227b30c901c338bbe6272524338d1a038e54",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1427.pdf",
+      "bytes": 269609,
+      "pages": 5,
+      "mistralOcrPath": "ocr_results/mistral/sha256-ccf5423464064774.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-1427"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-1427 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080813d_k-1427_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/tension_force/k-1427.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-d150d4c7086b79ac",
+      "sha256": "d150d4c7086b79ac9233417954d4aac90ff37ebc093bb4e46b11b379538a2bf0",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1509.pdf",
+      "bytes": 174659,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-d150d4c7086b79ac.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-1509"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-1509 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080829d_k-1509_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/special/k-1509.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-daec097a7eb31209",
+      "sha256": "daec097a7eb3120960db1a716e519dbb23f0b29b7c93ed25b152cd81ba4decfd",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1563.pdf",
+      "bytes": 380554,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-daec097a7eb31209.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-1563"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-1563 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080807f_k-1563_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/tension_force/k-1563.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-59a977a67ebf04ef",
+      "sha256": "59a977a67ebf04ef65b63ddd70fd3be569e63fb507bcecb2d11fc208bbe4f6cd",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1613.pdf",
+      "bytes": 304606,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-59a977a67ebf04ef.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-1613"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-1613 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080779c_k-1613_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/force/k-1613.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-6cf15850333332ca",
+      "sha256": "6cf15850333332cae6bb0d992267fd660cd3a973b1c88aaf8d8ecc97357350c1",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1661.pdf",
+      "bytes": 222346,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-6cf15850333332ca.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-1661"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-1661 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080821c_k-1661_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/special/k-1661.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-20abbd455765d5ca",
+      "sha256": "20abbd455765d5ca57a409aeb20b0c8297c8637efc3de6c02e87e70a98c09293",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-18.pdf",
+      "bytes": 272414,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-20abbd455765d5ca.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-18"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-18 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080795c_k-18_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/force/k-18.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-123f2e72ffecf3fd",
+      "sha256": "123f2e72ffecf3fd7679942eb70a38035eb617acc8516cc816bd1016bcd4f907",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-181.pdf",
+      "bytes": 253735,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-123f2e72ffecf3fd.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-181"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-181 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080793c_k-181_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/force/k-181.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-8b96491e0ab565b6",
+      "sha256": "8b96491e0ab565b6a67b02800a653e5bd5ca495850debd4c5691fdf40571e7e8",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-1882.pdf",
+      "bytes": 272653,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-8b96491e0ab565b6.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-1882"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-1882 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080819d_k-1882_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/tension_force/k-1882.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-49de9dcdded3d393",
+      "sha256": "49de9dcdded3d39305fcb01b8a4f168b481f7bf7585bd1eb954b4d3a5c92206f",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2071.pdf",
+      "bytes": 227083,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-49de9dcdded3d393.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-2071"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-2071 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080783c_k-2071_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/force/k-2071.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-69bdfe2627743aa1",
+      "sha256": "69bdfe2627743aa12eb54eede353a778050d7975808c281e7b8dd23a279c56f5",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2145.pdf",
+      "bytes": 256753,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-69bdfe2627743aa1.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-2145"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-2145 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080811d_k-2145_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/tension_force/k-2145.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-1a1a3167f576b93b",
+      "sha256": "1a1a3167f576b93b6d3f8b68ee1330b660f4f4aa479f3b34efea6b808aeed247",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2148.pdf",
+      "bytes": 258242,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-1a1a3167f576b93b.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-2148"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-2148 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080823d_k-2148_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/special/k-2148.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-c9634f6dfcd69589",
+      "sha256": "c9634f6dfcd69589a05dba3f81ef032add6975d45bfbee7b2b0e34296971b74c",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-22.pdf",
+      "bytes": 223390,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-c9634f6dfcd69589.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-22"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-22 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080777b_k-22_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/force/k-22.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-b1f2e588925429b4",
+      "sha256": "b1f2e588925429b412632a15851f4f1fdc2a553be28b9a8c54dd4fa8357ab6e7",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2283.pdf",
+      "bytes": 226163,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-b1f2e588925429b4.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-2283"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-2283 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080785c_k-2283_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/force/k-2283.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-d1ddcfccc61dc676",
+      "sha256": "d1ddcfccc61dc6762942b581be24ca20baad7de16eb835688aa1ec789242e860",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-25.pdf",
+      "bytes": 417580,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-d1ddcfccc61dc676.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-25"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-25 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080815g_k-25_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/tension_force/k-25.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-9fddee89742472e6",
+      "sha256": "9fddee89742472e6ac459e9cb028f07a98722a0f2d7ccbd77fae8ccc5884958e",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2528.pdf",
+      "bytes": 225449,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-9fddee89742472e6.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-2528"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-2528 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080787c_k-2528_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/force/k-2528.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-0259c51ba71025ea",
+      "sha256": "0259c51ba71025eaec292944ebb4b66601dda1aea16c04d06ab42cce36945dea",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2529.pdf",
+      "bytes": 224748,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-0259c51ba71025ea.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-2529"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-2529 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080789c_k-2529_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/force/k-2529.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-c329428cfe89f1f6",
+      "sha256": "c329428cfe89f1f6e2056ddc47d7e2cfd41e54babbea647e8c4cb245e42f8f70",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2565.pdf",
+      "bytes": 267868,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-c329428cfe89f1f6.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-2565"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-2565 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080827d_k-2565_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/special/k-2565.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-82a0d873d6bae72a",
+      "sha256": "82a0d873d6bae72afdec94318b3f16fc0f8823cf5844e9692df02e90abb1e0c3",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2618.pdf",
+      "bytes": 230892,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-82a0d873d6bae72a.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-2618"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-2618 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080831c_k-2618_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/special/k-2618.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-38ac5eb8d7a4bdc5",
+      "sha256": "38ac5eb8d7a4bdc59a49110930d7902e8cf6ae09bf86f9d5c684d5b9e68fd85b",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-2698.pdf",
+      "bytes": 253295,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-38ac5eb8d7a4bdc5.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-2698"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-2698 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080799d_k-2698_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/tension_force/k-2698.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-3ef8be14a9c1da66",
+      "sha256": "3ef8be14a9c1da6672695c33642e70217cfce14893ed29ebeedf9a6287edefdb",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-k-450.pdf",
+      "bytes": 284965,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-3ef8be14a9c1da66.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model K-450"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model K-450 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/f/080775c_k-450_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/force/k-450.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-d458fe1a9642ef96",
+      "sha256": "d458fe1a9642ef968e4f359df527f877042e73745dd0e5a129bc891629404c4f",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-2752.pdf",
+      "bytes": 178236,
+      "pages": 3,
+      "mistralOcrPath": "ocr_results/mistral/sha256-d458fe1a9642ef96.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-2752"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-2752 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081096_w-2752_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_other/w-2752.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-6cfc5b186d377a16",
+      "sha256": "6cfc5b186d377a1672d78f53ce5f6b0ea3c96d3af7f511b1358715b169807999",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ab.pdf",
+      "bytes": 274611,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-6cfc5b186d377a16.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-AB"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-AB datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080901a_w-ab_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ab.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-320381f17245eabe",
+      "sha256": "320381f17245eabe24c67bde92e23f4d36268af092efa2a261f9449407340816",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ag.pdf",
+      "bytes": 309461,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-320381f17245eabe.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-AG"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-AG datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081080_w-ag_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ag.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-6da2e4564c9b10f8",
+      "sha256": "6da2e4564c9b10f883e059e97a4c4c18372ab245c01ba08e5b4bf0c06e1e7e25",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ag-c3.pdf",
+      "bytes": 324174,
+      "pages": 0,
+      "mistralOcrPath": "ocr_results/mistral/sha256-6da2e4564c9b10f8.md",
+      "mistralOcr": {
+        "status": "pending_auth",
+        "model": "mistral-ocr-latest"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-AG-C3"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-AG-C3 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081084_w-ag-c3_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ag.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-76fa69217070e210",
+      "sha256": "76fa69217070e2104942b5c417f45d08a60685d8319911e19f8609bc9a8ea88a",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ag-c6.pdf",
+      "bytes": 315023,
+      "pages": 0,
+      "mistralOcrPath": "ocr_results/mistral/sha256-76fa69217070e210.md",
+      "mistralOcr": {
+        "status": "pending_auth",
+        "model": "mistral-ocr-latest"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-AG-C6"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-AG-C6 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081086_w-ag-c6_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ag.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-a4ebdf4d4e79b93a",
+      "sha256": "a4ebdf4d4e79b93a9a81b822caeac99f077d92f6e2c5c8fee9707b9f722918a8",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ah.pdf",
+      "bytes": 280732,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-a4ebdf4d4e79b93a.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-AH"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-AH datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080907_w-ah_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ah.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-27bdc5bb53c4e1e9",
+      "sha256": "27bdc5bb53c4e1e99aaf19c66741b969332867df3a04fee85f958515e1873b46",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ahn.pdf",
+      "bytes": 167892,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-27bdc5bb53c4e1e9.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-AHN"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-AHN datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080909_w-ahn_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ahn.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-e0740b747ffe30c2",
+      "sha256": "e0740b747ffe30c29a15aa0be7f6407603821a6881accd890ec75d8e2068ecad",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ak-60.pdf",
+      "bytes": 313385,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-e0740b747ffe30c2.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-AK-60"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-AK-60 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080911_w-ak-60_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ak.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-690064694d8e491b",
+      "sha256": "690064694d8e491b1bcfebd89b8a6730abaf862df36e69d06429317451b11692",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ak-300.pdf",
+      "bytes": 273917,
+      "pages": 0,
+      "mistralOcrPath": "ocr_results/mistral/sha256-690064694d8e491b.md",
+      "mistralOcr": {
+        "status": "pending_auth",
+        "model": "mistral-ocr-latest"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-AK-300"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-AK-300 datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081088_w-ak-300_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ak.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-2ffaddf5e5b54ae0",
+      "sha256": "2ffaddf5e5b54ae044555fea622a1332378dd30a3f90684fed7f9d5ab74be0cf",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-al.pdf",
+      "bytes": 277423,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-2ffaddf5e5b54ae0.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-AL"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-AL datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080913_w-al_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-al.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-cc496bcf59b8158f",
+      "sha256": "cc496bcf59b8158fae5d1e4f8dac1b392b798844a14be5bc34c4de0e4df500f9",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ap.pdf",
+      "bytes": 277020,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-cc496bcf59b8158f.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-AP"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-AP datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080915_w-ap_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ap.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-79e8d6b6a5aeb1e5",
+      "sha256": "79e8d6b6a5aeb1e5b36c69cc6988b5df50e84dd8cb62e0372b2fa55fd23603c6",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-aq.pdf",
+      "bytes": 269222,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-79e8d6b6a5aeb1e5.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-AQ"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-AQ datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080917_w-aq_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-aq.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-888f998b6af791af",
+      "sha256": "888f998b6af791afb78a781b61a93c467b683b0bb177d3b8ae526402aa3fbf4c",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ar.pdf",
+      "bytes": 175158,
+      "pages": 3,
+      "mistralOcrPath": "ocr_results/mistral/sha256-888f998b6af791af.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-AR"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-AR datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080919_w-ar_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-ar.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-c1de8898f6ca5750",
+      "sha256": "c1de8898f6ca5750a2ba88a4d0ebe8c0009653868aa21c700d5373150ea0d283",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-axh.pdf",
+      "bytes": 312781,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-c1de8898f6ca5750.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-AXH"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-AXH datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080923-w-axh_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-axh.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-1a4fe8fa3adfbbe2",
+      "sha256": "1a4fe8fa3adfbbe23b8f6ccf471a034af6c4714d4a3b976b9858464a51c960b7",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-axl.pdf",
+      "bytes": 311265,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-1a4fe8fa3adfbbe2.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-AXL"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-AXL datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080925_w-axl_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-axl.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-e02e1be48c60f590",
+      "sha256": "e02e1be48c60f5905bbdcea3b4d4720529d586be45352cbc9b2ee0913443e270",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-bef.pdf",
+      "bytes": 262055,
+      "pages": 3,
+      "mistralOcrPath": "ocr_results/mistral/sha256-e02e1be48c60f590.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-BEF"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-BEF datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080927_w-bef-f_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-bef.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-dfd0727b675ac111",
+      "sha256": "dfd0727b675ac111b46209615440d9eecfa6a2f86136e240ff751b7e60dfd646",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-ca40x.pdf",
+      "bytes": 200821,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-dfd0727b675ac111.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-CA40X"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-CA40X datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081059_w-ca40x_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_other/w-ca40x.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-89723b0b69262ea1",
+      "sha256": "89723b0b69262ea1827c110798c16ae467c0bc6ee298d39e50fad650cf8f50bb",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-cb50x.pdf",
+      "bytes": 343898,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-89723b0b69262ea1.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-CB50X"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-CB50X datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081039_w-cb50x_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_other/w-cb50x.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-4ece77b9b2c44533",
+      "sha256": "4ece77b9b2c445339e48c0a8c09f792613a440d8aacf17d693c94ab75aef3563",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-cb50x-dl.pdf",
+      "bytes": 364846,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-4ece77b9b2c44533.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-CB50X-DL"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-CB50X-DL datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081035_w-cb50x-dl_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_other/w-cb50x-dl.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-4cd5c602a9b18a9d",
+      "sha256": "4cd5c602a9b18a9dd7d5fa649aee24edeaf2f5eeec975649a7d865a779afd685",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-f60x.pdf",
+      "bytes": 342659,
+      "pages": 3,
+      "mistralOcrPath": "ocr_results/mistral/sha256-4cd5c602a9b18a9d.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-F60X"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-F60X datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081090_f60x-6w_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_other/w-f60x.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-6bc17a2319716f30",
+      "sha256": "6bc17a2319716f303d7a8a1d170a6a98e7cf1037d247f66f2a57174aac982165",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-pm.pdf",
+      "bytes": 212274,
+      "pages": 3,
+      "mistralOcrPath": "ocr_results/mistral/sha256-6bc17a2319716f30.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-PM"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-PM datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080929_w-pm_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_single-point/w-pm.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-aae42837a51c6b3f",
+      "sha256": "aae42837a51c6b3f80122a3ca9a2604dc597070055521a48f6abfec394f9bb8f",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-r10x.pdf",
+      "bytes": 282231,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-aae42837a51c6b3f.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-R10X"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-R10X datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081043_w-r10x_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_other/w-r10x.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-f3e9fd7b4eec873f",
+      "sha256": "f3e9fd7b4eec873fc89eebfe68d54b99543fa2e24bea7181e78b79032228f79a",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-rh10x.pdf",
+      "bytes": 188365,
+      "pages": 3,
+      "mistralOcrPath": "ocr_results/mistral/sha256-f3e9fd7b4eec873f.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-RH10X"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-RH10X datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081037a_w-rh10x_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_other/w-rh10x.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-562a337fa424d4bc",
+      "sha256": "562a337fa424d4bc5b7642753d409a60ba1e37a85679091830c648b46adb4eff",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-sk30x.pdf",
+      "bytes": 313121,
+      "pages": 3,
+      "mistralOcrPath": "ocr_results/mistral/sha256-562a337fa424d4bc.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-SK30X"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-SK30X datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080871a_sk30x_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_other/w-sk30x.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-9e87c8adec802f89",
+      "sha256": "9e87c8adec802f89c421d70976cab69f92d9f70386364808c3a6ddfe5795d5d3",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-sk30x5t.pdf",
+      "bytes": 324358,
+      "pages": 3,
+      "mistralOcrPath": "ocr_results/mistral/sha256-9e87c8adec802f89.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-SK30X5T"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-SK30X5T datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/080873_sk30x-5t_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_other/w-sk30x5t.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-81eb485c035116e1",
+      "sha256": "81eb485c035116e152810b8cb3016c396988fdac70ed32d791cc8237f0428531",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-za30x.pdf",
+      "bytes": 238116,
+      "pages": 4,
+      "mistralOcrPath": "ocr_results/mistral/sha256-81eb485c035116e1.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-ZA30X"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-ZA30X datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081033_w-za30x_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_other/w-za30x.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
+      ],
+      "provenanceStatus": "verified_source_url"
+    },
+    {
+      "id": "sha256-8288c0e7c8865c31",
+      "sha256": "8288c0e7c8865c319260b295be34d2d4a98fb756e9a1e1bd137d2cac01678f0f",
+      "pdfPath": "datasheets/lorenz-messtechnik/model-w-zfa.pdf",
+      "bytes": 216299,
+      "pages": 3,
+      "mistralOcrPath": "ocr_results/mistral/sha256-8288c0e7c8865c31.md",
+      "mistralOcr": {
+        "status": "complete",
+        "model": "mistral-ocr-latest",
+        "completedAt": "2026-07-24T19:06:11.695018+00:00"
+      },
+      "manufacturers": [
+        "Lorenz Messtechnik"
+      ],
+      "mpns": [
+        "Model W-ZFA"
+      ],
+      "titles": [
+        "Lorenz Messtechnik Model W-ZFA datasheet"
+      ],
+      "sourceUrls": [
+        "https://www.lorenz-messtechnik.de/pdfdatbl/waegung/081041_w-zfa_en.pdf"
+      ],
+      "productPages": [
+        "https://www.lorenz-messtechnik.de/english/products/lc_other/w-zfa.php"
+      ],
+      "sources": [
+        "Lorenz Messtechnik catalog harvest"
       ],
       "provenanceStatus": "verified_source_url"
     }
