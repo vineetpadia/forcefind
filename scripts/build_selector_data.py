@@ -303,7 +303,6 @@ def normalized_record(
         "certifications": specs.get("certifications") or [],
         "notes": specs.get("notes"),
         "priceUSD": sensor.get("priceUSD"),
-        "availability": sensor.get("availability"),
         "pdfPath": pdf_path,
         "ocrPath": ocr_path,
         "productUrl": sensor.get("productUrl"),
